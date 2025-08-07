@@ -55,4 +55,5 @@ python generate_test_dataset.py
 
 
 ## 예상 실행 시간
-총 5,231행 생성 시 약 200분 소요 (API 응답 속도에 따라 변동)
+- 총 5,231행 생성
+- 약 200분 소요 (OpenRouter API : Qwen72B기준)
