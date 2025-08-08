@@ -62,3 +62,5 @@ intfloat/multilingual-e5-base 모델를 사용하여 Qdranst를 구축하고 검
 | 위치    | 81.75%         | 2.50%          | 84.24%             | 0.0051 sec        | 1282         |
 | 현상코드  | 0.00%          | 0.00%          | 0.00%              | 0.0044 sec        | 24           |
 
+### 자세한 환경 구축 및 연구과정
+https://www.notion.so/VDB-2460c0c062f880c982ddcae834f53b8e?source=copy_link
