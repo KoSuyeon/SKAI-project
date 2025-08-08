@@ -1,0 +1,605 @@
+﻿label,input,true_name,top1_value,top1_score,is_correct_top1,top2_value,top2_score,is_correct_top2,search_time_sec
+설비유형,[AGAB]Gas Detector/ Hydrocarbon (H2 포함),[AGAB]Gas Detector/ Hydrocarbon (H2 포함),[AGAB]Gas Detector/ Hydrocarbon (H2 포함),1.0,True,"[AGAS]Gas Detector/ Toxic gases (대상 : H2S, CO, SO2, NH3)",0.94636506,False,0.0079
+설비유형,"[AGAO]Gas Detector/ Others (대상 : O2, VOC)","[AGAO]Gas Detector/ Others (대상 : O2, VOC)","[AGAO]Gas Detector/ Others (대상 : O2, VOC)",1.0,True,"[AGAS]Gas Detector/ Toxic gases (대상 : H2S, CO, SO2, NH3)",0.94799536,False,0.0067
+설비유형,"[AGAS]Gas Detector/ Toxic gases (대상 : H2S, CO, SO2, NH3)","[AGAS]Gas Detector/ Toxic gases (대상 : H2S, CO, SO2, NH3)","[AGAS]Gas Detector/ Toxic gases (대상 : H2S, CO, SO2, NH3)",0.9999999,True,"[AGAO]Gas Detector/ Others (대상 : O2, VOC)",0.94799554,False,0.0058
+설비유형,[ANAA]Analyzer/ Analyzer,[ANAA]Analyzer/ Analyzer,[ANAA]Analyzer/ Analyzer,0.99999994,True,[ANAH]Analyzer/ Analyzer House Package,0.9366629,False,0.0059
+설비유형,[ANAC]Analyzer/ Chemical Leak Detection System,[ANAC]Analyzer/ Chemical Leak Detection System,[ANAC]Analyzer/ Chemical Leak Detection System,0.99999994,True,[ANAO]Analyzer/ Odor Monitoring System,0.94090533,False,0.0071
+설비유형,[ANAH]Analyzer/ Analyzer House Package,[ANAH]Analyzer/ Analyzer House Package,[ANAH]Analyzer/ Analyzer House Package,1.0,True,[ANAA]Analyzer/ Analyzer,0.93666285,False,0.0062
+설비유형,[ANAO]Analyzer/ Odor Monitoring System,[ANAO]Analyzer/ Odor Monitoring System,[ANAO]Analyzer/ Odor Monitoring System,1.0000001,True,[ANAC]Analyzer/ Chemical Leak Detection System,0.9409052,False,0.0079
+설비유형,[ANAV]Analyzer/ Closed Sample System,[ANAV]Analyzer/ Closed Sample System,[ANAV]Analyzer/ Closed Sample System,1.0000001,True,[ANAO]Analyzer/ Odor Monitoring System,0.93302405,False,0.0066
+설비유형,[ANCE]Analyzer/ 대기 TMS,[ANCE]Analyzer/ 대기 TMS,[ANCE]Analyzer/ 대기 TMS,0.99999994,True,[ANWE]Analyzer/ 수질 TMS,0.95759517,False,0.0096
+설비유형,[ANWE]Analyzer/ 수질 TMS,[ANWE]Analyzer/ 수질 TMS,[ANWE]Analyzer/ 수질 TMS,1.0,True,[ANCE]Analyzer/ 대기 TMS,0.9575952,False,0.0049
+설비유형,[APAP]APH/ APH,[APAP]APH/ APH,[APAP]APH/ APH,1.0,True,[PIPI]Piping/ Piping,0.9118991,False,0.0047
+설비유형,[BBBD]Buoy/ Buoy,[BBBD]Buoy/ Buoy,[BBBD]Buoy/ Buoy,0.9999999,True,[BBMO]Buoy/ Mooring,0.94710183,False,0.0059
+설비유형,[BBFH]Buoy/ Floating Hose,[BBFH]Buoy/ Floating Hose,[BBFH]Buoy/ Floating Hose,0.99999994,True,[BBSH]Buoy/ Submarine Hose,0.9629671,False,0.004
+설비유형,[BBMO]Buoy/ Mooring,[BBMO]Buoy/ Mooring,[BBMO]Buoy/ Mooring,1.0,True,[BBBD]Buoy/ Buoy,0.9471018,False,0.0039
+설비유형,[BBSH]Buoy/ Submarine Hose,[BBSH]Buoy/ Submarine Hose,[BBSH]Buoy/ Submarine Hose,0.9999999,True,[BBFH]Buoy/ Floating Hose,0.9629671,False,0.0037
+설비유형,[BLCE]Blower/Fan/ Centrifual,[BLCE]Blower/Fan/ Centrifual,[BLCE]Blower/Fan/ Centrifual,0.99999994,True,[COCE]Compressor/ Centrifugal,0.9353055,False,0.0043
+설비유형,[CAGD]Cable/ Ground System,[CAGD]Cable/ Ground System,[CAGD]Cable/ Ground System,1.0,True,[CAHV]Cable/ High Voltage Cable,0.92141426,False,0.0039
+설비유형,[CAHV]Cable/ High Voltage Cable,[CAHV]Cable/ High Voltage Cable,[CAHV]Cable/ High Voltage Cable,1.0,True,[CAGD]Cable/ Ground System,0.92141426,False,0.0038
+설비유형,[CBRE]Combustion Engine/ Reciprocating,[CBRE]Combustion Engine/ Reciprocating,[CBRE]Combustion Engine/ Reciprocating,1.0,True,[CORE]Compressor/ Reciprocating,0.94407666,False,0.0034
+설비유형,[CFBD]Common Facility / Building,[CFBD]Common Facility / Building,[CFBD]Common Facility / Building,0.99999994,True,[CFCR]Common Facility / Car,0.94705874,False,0.0044
+설비유형,[CFCR]Common Facility / Car,[CFCR]Common Facility / Car,[CFCR]Common Facility / Car,1.0,True,[CFBD]Common Facility / Building,0.9470588,False,0.005
+설비유형,[CFMC]Common Facility/ 변전소,[CFMC]Common Facility/ 변전소,[CFMC]Common Facility/ 변전소,1.0000001,True,[CFCR]Common Facility / Car,0.92215484,False,0.0036
+설비유형,[CLCT]Control Logic Unit/ Pneumatic/Electric controller,[CLCT]Control Logic Unit/ Pneumatic/Electric controller,[CLCT]Control Logic Unit/ Pneumatic/Electric controller,1.0,True,[CLPT]Control Logic Unit/ PLC/TMR,0.9447769,False,0.0039
+설비유형,[CLDC]Control Logic Unit/ Distributed control system,[CLDC]Control Logic Unit/ Distributed control system,[CLDC]Control Logic Unit/ Distributed control system,1.0,True,[CLCT]Control Logic Unit/ Pneumatic/Electric controller,0.9424831,False,0.0043
+설비유형,[CLHM]Control Logic Unit/ Human machine interface,[CLHM]Control Logic Unit/ Human machine interface,[CLHM]Control Logic Unit/ Human machine interface,1.0,True,[CLPT]Control Logic Unit/ PLC/TMR,0.9287492,False,0.0042
+설비유형,[CLIP]Control Logic Unit/ Instrument panel,[CLIP]Control Logic Unit/ Instrument panel,[CLIP]Control Logic Unit/ Instrument panel,0.99999994,True,[CLPT]Control Logic Unit/ PLC/TMR,0.92750907,False,0.0042
+설비유형,[CLPT]Control Logic Unit/ PLC/TMR,[CLPT]Control Logic Unit/ PLC/TMR,[CLPT]Control Logic Unit/ PLC/TMR,1.0,True,[CLCT]Control Logic Unit/ Pneumatic/Electric controller,0.9447768,False,0.0047
+설비유형,[COCE]Compressor/ Centrifugal,[COCE]Compressor/ Centrifugal,[COCE]Compressor/ Centrifugal,1.0,True,[TECE]Turbo Expander/ Centrifugal,0.95000196,False,0.0044
+설비유형,[CODP]Compressor/ Displacement,[CODP]Compressor/ Displacement,[CODP]Compressor/ Displacement,1.0,True,[EXDP]Extruder/ Displacement,0.9477577,False,0.0041
+설비유형,[CORE]Compressor/ Reciprocating,[CORE]Compressor/ Reciprocating,[CORE]Compressor/ Reciprocating,0.9999999,True,[CBRE]Combustion Engine/ Reciprocating,0.94407666,False,0.0041
+설비유형,[CSAC]Console / Auxiliary Console,[CSAC]Console / Auxiliary Console,[CSAC]Console / Auxiliary Console,1.0000001,True,[IOAC]Other Instrument/ Airconditioner,0.9050814,False,0.0045
+설비유형,[EGCE]Electric Generator/ Centrifugal,[EGCE]Electric Generator/ Centrifugal,[EGCE]Electric Generator/ Centrifugal,1.0,True,[TECE]Turbo Expander/ Centrifugal,0.94125473,False,0.0043
+설비유형,[EHEH]Electric Heater/ Electric Heater,[EHEH]Electric Heater/ Electric Heater,[EHEH]Electric Heater/ Electric Heater,1.0,True,[EHET]Electric Heater/ Electric Heat Tracing,0.9562837,False,0.0035
+설비유형,[EHET]Electric Heater/ Electric Heat Tracing,[EHET]Electric Heater/ Electric Heat Tracing,[EHET]Electric Heater/ Electric Heat Tracing,1.0,True,[EHEH]Electric Heater/ Electric Heater,0.9562837,False,0.0042
+설비유형,[ELEL]Elevator/ Elevator,[ELEL]Elevator/ Elevator,[ELEL]Elevator/ Elevator,1.0,True,[MEEJ]Miscellaneous Equipment/ Ejector,0.91163766,False,0.0042
+설비유형,[EXDP]Extruder/ Displacement,[EXDP]Extruder/ Displacement,[EXDP]Extruder/ Displacement,1.0,True,[CODP]Compressor/ Displacement,0.94775796,False,0.004
+설비유형,[FACE]Fan/ Centrifugal,[FACE]Fan/ Centrifugal,[FACE]Fan/ Centrifugal,1.0,True,[PUCE]Pump/ Centrifugal,0.93532634,False,0.0037
+설비유형,[GBCE]Gear Box/ Centrifugal,[GBCE]Gear Box/ Centrifugal,[GBCE]Gear Box/ Centrifugal,1.0000001,True,[COCE]Compressor/ Centrifugal,0.9401768,False,0.0039
+설비유형,[GVGV]Guided Vehicle/ Guided Vehicle,[GVGV]Guided Vehicle/ Guided Vehicle,[GVGV]Guided Vehicle/ Guided Vehicle,1.0,True,[VAMV]Valve/ Motor Operated Valve,0.913308,False,0.0039
+설비유형,[HBBO]Fired Equipment/ Boiler,[HBBO]Fired Equipment/ Boiler,[HBBO]Fired Equipment/ Boiler,1.0000001,True,[HBBR]Fired Equipment/ Burner,0.9722585,False,0.0039
+설비유형,[HBBR]Fired Equipment/ Burner,[HBBR]Fired Equipment/ Burner,[HBBR]Fired Equipment/ Burner,1.0000002,True,[HBFR]Fired Equipment/ Furnace,0.9730539,False,0.0037
+설비유형,[HBFH]Fired Equipment/ Fired Heater,[HBFH]Fired Equipment/ Fired Heater,[HBFH]Fired Equipment/ Fired Heater,0.99999994,True,[HBBR]Fired Equipment/ Burner,0.9665334,False,0.0043
+설비유형,[HBFR]Fired Equipment/ Furnace,[HBFR]Fired Equipment/ Furnace,[HBFR]Fired Equipment/ Furnace,1.0,True,[HBBR]Fired Equipment/ Burner,0.9730539,False,0.0037
+설비유형,[HBIG]Fired Equipment/ Ignitor,[HBIG]Fired Equipment/ Ignitor,[HBIG]Fired Equipment/ Ignitor,1.0000001,True,[HBIN]Fired Equipment/ Incinerator,0.9703787,False,0.0039
+설비유형,[HBIN]Fired Equipment/ Incinerator,[HBIN]Fired Equipment/ Incinerator,[HBIN]Fired Equipment/ Incinerator,0.99999994,True,[HBIG]Fired Equipment/ Ignitor,0.97037876,False,0.004
+설비유형,[HBRH]Fired Equipment/ Reformer heater,[HBRH]Fired Equipment/ Reformer heater,[HBRH]Fired Equipment/ Reformer heater,0.99999994,True,[HBFH]Fired Equipment/ Fired Heater,0.96124005,False,0.0039
+설비유형,[HBTR]Fired Equipment/ Thermal reactor,[HBTR]Fired Equipment/ Thermal reactor,[HBTR]Fired Equipment/ Thermal reactor,1.0,True,[HBFR]Fired Equipment/ Furnace,0.95614296,False,0.0037
+설비유형,[HEAC]Heat Exchanger/ Air Cooled type,[HEAC]Heat Exchanger/ Air Cooled type,[HEAC]Heat Exchanger/ Air Cooled type,1.0,True,[HEST]Heat Exchanger/ Tubular type,0.95354587,False,0.0037
+설비유형,[HEPL]Heat Exchanger/ Plate Type,[HEPL]Heat Exchanger/ Plate Type,[HEPL]Heat Exchanger/ Plate Type,1.0,True,[HEST]Heat Exchanger/ Tubular type,0.9491752,False,0.0042
+설비유형,[HEST]Heat Exchanger/ Tubular type,[HEST]Heat Exchanger/ Tubular type,[HEST]Heat Exchanger/ Tubular type,0.99999994,True,[HEAC]Heat Exchanger/ Air Cooled type,0.953546,False,0.0035
+설비유형,[IOAC]Other Instrument/ Airconditioner,[IOAC]Other Instrument/ Airconditioner,[IOAC]Other Instrument/ Airconditioner,0.9999999,True,[IOCR]Other Instrument/ Converter,0.9476088,False,0.0039
+설비유형,[IOAW]Other Instrument/ Auto Ware House,[IOAW]Other Instrument/ Auto Ware House,[IOAW]Other Instrument/ Auto Ware House,0.9999999,True,[IOAC]Other Instrument/ Airconditioner,0.93026257,False,0.0036
+설비유형,[IOCC]Other Instrument/ CCTV,[IOCC]Other Instrument/ CCTV,[IOCC]Other Instrument/ CCTV,1.0000001,True,[IOCR]Other Instrument/ Converter,0.93452334,False,0.0038
+설비유형,[IOCR]Other Instrument/ Converter,[IOCR]Other Instrument/ Converter,[IOCR]Other Instrument/ Converter,1.0,True,[IOAC]Other Instrument/ Airconditioner,0.9476089,False,0.0043
+설비유형,[IOHV]Other Instrument/ 냉방설비,[IOHV]Other Instrument/ 냉방설비,[IOHV]Other Instrument/ 냉방설비,1.0000001,True,[IOOS]Other Instrument/ 항무설비,0.9407658,False,0.0045
+설비유형,[IOIL]Other Instrument/ 계기 Halon System,[IOIL]Other Instrument/ 계기 Halon System,[IOIL]Other Instrument/ 계기 Halon System,0.9999999,True,[IOSL]Other Instrument/ 기준설비,0.9277104,False,0.0038
+설비유형,[IOOI]Other Instrument/ Off-site Instrument,[IOOI]Other Instrument/ Off-site Instrument,[IOOI]Other Instrument/ Off-site Instrument,1.0,True,[IOOT]Other Instrument/ Miscellaneous Instrument,0.9604758,False,0.0034
+설비유형,[IOOS]Other Instrument/ 항무설비,[IOOS]Other Instrument/ 항무설비,[IOOS]Other Instrument/ 항무설비,0.99999994,True,[IOSL]Other Instrument/ 기준설비,0.94103014,False,0.0039
+설비유형,[IOOT]Other Instrument/ Miscellaneous Instrument,[IOOT]Other Instrument/ Miscellaneous Instrument,[IOOT]Other Instrument/ Miscellaneous Instrument,1.0000001,True,[IOOI]Other Instrument/ Off-site Instrument,0.9604759,False,0.0041
+설비유형,[IOPA]Other Instrument/ Paging,[IOPA]Other Instrument/ Paging,[IOPA]Other Instrument/ Paging,1.0,True,[IOOT]Other Instrument/ Miscellaneous Instrument,0.9358849,False,0.0039
+설비유형,[IOSL]Other Instrument/ 기준설비,[IOSL]Other Instrument/ 기준설비,[IOSL]Other Instrument/ 기준설비,0.9999999,True,[IOOS]Other Instrument/ 항무설비,0.9410305,False,0.0036
+설비유형,[IPFD]Input Device/ Flame System,[IPFD]Input Device/ Flame System,[IPFD]Input Device/ Flame System,0.9999999,True,[IPFS]Input Device/ Flow Switch,0.9310819,False,0.0038
+설비유형,[IPFS]Input Device/ Flow Switch,[IPFS]Input Device/ Flow Switch,[IPFS]Input Device/ Flow Switch,1.0,True,[IPPS]Input Device/ Pressure Switch,0.95955926,False,0.0042
+설비유형,[IPFT]Input Device/ Flowmeter,[IPFT]Input Device/ Flowmeter,[IPFT]Input Device/ Flowmeter,1.0,True,[IPFS]Input Device/ Flow Switch,0.9478222,False,0.0036
+설비유형,[IPLG]Input Device/ Level Gauge,[IPLG]Input Device/ Level Gauge,[IPLG]Input Device/ Level Gauge,1.0,True,[IPPG]Input Device/ Pressure Gauge,0.9634417,False,0.004
+설비유형,[IPLS]Input Device/ Level Switch,[IPLS]Input Device/ Level Switch,[IPLS]Input Device/ Level Switch,0.99999994,True,[IPLT]Input Device/ Level Transmitter,0.955088,False,0.0043
+설비유형,[IPLT]Input Device/ Level Transmitter,[IPLT]Input Device/ Level Transmitter,[IPLT]Input Device/ Level Transmitter,0.99999994,True,[IPLS]Input Device/ Level Switch,0.9550879,False,0.0037
+설비유형,[IPPG]Input Device/ Pressure Gauge,[IPPG]Input Device/ Pressure Gauge,[IPPG]Input Device/ Pressure Gauge,0.9999999,True,[IPLG]Input Device/ Level Gauge,0.96344167,False,0.004
+설비유형,[IPPS]Input Device/ Pressure Switch,[IPPS]Input Device/ Pressure Switch,[IPPS]Input Device/ Pressure Switch,0.99999994,True,[IPPT]Input Device/ Pressure Transmitter,0.95995295,False,0.004
+설비유형,[IPPT]Input Device/ Pressure Transmitter,[IPPT]Input Device/ Pressure Transmitter,[IPPT]Input Device/ Pressure Transmitter,1.0,True,[IPPS]Input Device/ Pressure Switch,0.9599529,False,0.0038
+설비유형,[IPSI]Input Device/ Speed Instrument,[IPSI]Input Device/ Speed Instrument,[IPSI]Input Device/ Speed Instrument,1.0,True,[IPVI]Input Device/ Vibration instrument,0.9439379,False,0.0036
+설비유형,[IPTG]Input Device/ Temperature Gauge/Test Well,[IPTG]Input Device/ Temperature Gauge/Test Well,[IPTG]Input Device/ Temperature Gauge/Test Well,1.0000001,True,[IPPG]Input Device/ Pressure Gauge,0.949829,False,0.0038
+설비유형,[IPTL]Input Device/ Tank Level Instrument,[IPTL]Input Device/ Tank Level Instrument,[IPTL]Input Device/ Tank Level Instrument,1.0,True,[IPLT]Input Device/ Level Transmitter,0.9444029,False,0.0042
+설비유형,[IPTS]Input Device/ Temperature Switch,[IPTS]Input Device/ Temperature Switch,[IPTS]Input Device/ Temperature Switch,0.9999999,True,[IPTT]Input Device/ Temperature Transmitter,0.9667393,False,0.0041
+설비유형,[IPTT]Input Device/ Temperature Transmitter,[IPTT]Input Device/ Temperature Transmitter,[IPTT]Input Device/ Temperature Transmitter,1.0,True,[IPTS]Input Device/ Temperature Switch,0.9667392,False,0.0041
+설비유형,[IPVI]Input Device/ Vibration instrument,[IPVI]Input Device/ Vibration instrument,[IPVI]Input Device/ Vibration instrument,0.99999994,True,[IPSI]Input Device/ Speed Instrument,0.9439379,False,0.0041
+설비유형,[IPZI]Input Device/ Position Instrument & Limit S/W,[IPZI]Input Device/ Position Instrument & Limit S/W,[IPZI]Input Device/ Position Instrument & Limit S/W,1.0,True,[IPSI]Input Device/ Speed Instrument,0.9226787,False,0.0035
+설비유형,[JBIN]Junction Box/ Instrument Junction Box,[JBIN]Junction Box/ Instrument Junction Box,[JBIN]Junction Box/ Instrument Junction Box,1.0,True,[GBCE]Gear Box/ Centrifugal,0.89925647,False,0.0037
+설비유형,[LTLT]Lighting/ Unit Price(Lighting),[LTLT]Lighting/ Unit Price(Lighting),[LTLT]Lighting/ Unit Price(Lighting),1.0,True,[PWBT]Power/ Battery,0.8994066,False,0.0044
+설비유형,[MEBE]Miscellaneous Equipment/ Bag Ejector,[MEBE]Miscellaneous Equipment/ Bag Ejector,[MEBE]Miscellaneous Equipment/ Bag Ejector,1.0,True,[MEEJ]Miscellaneous Equipment/ Ejector,0.970938,False,0.0041
+설비유형,[MECN]Miscellaneous Equipment/ Canister,[MECN]Miscellaneous Equipment/ Canister,[MECN]Miscellaneous Equipment/ Canister,0.9999999,True,[MECV]Miscellaneous Equipment/ Conveyor,0.95784414,False,0.0038
+설비유형,[MECP]Miscellaneous Equipment/ Conforming Plate,[MECP]Miscellaneous Equipment/ Conforming Plate,[MECP]Miscellaneous Equipment/ Conforming Plate,1.0,True,[MECV]Miscellaneous Equipment/ Conveyor,0.9436134,False,0.0043
+설비유형,[MECS]Miscellaneous Equipment/ Common Stack,[MECS]Miscellaneous Equipment/ Common Stack,[MECS]Miscellaneous Equipment/ Common Stack,0.9999999,True,[MEFS]Miscellaneous Equipment/ Flare Stack,0.9551132,False,0.0048
+설비유형,[MECT]Miscellaneous Equipment/ Cooling Tower,[MECT]Miscellaneous Equipment/ Cooling Tower,[MECT]Miscellaneous Equipment/ Cooling Tower,0.99999994,True,[MESB]Miscellaneous Equipment/ Soot Blower,0.9371202,False,0.0043
+설비유형,[MECV]Miscellaneous Equipment/ Conveyor,[MECV]Miscellaneous Equipment/ Conveyor,[MECV]Miscellaneous Equipment/ Conveyor,1.0,True,[MECN]Miscellaneous Equipment/ Canister,0.95784426,False,0.0038
+설비유형,[MEDC]Miscellaneous Equipment/ Duct (SAR),[MEDC]Miscellaneous Equipment/ Duct (SAR),[MEDC]Miscellaneous Equipment/ Duct (SAR),1.0,True,[MECV]Miscellaneous Equipment/ Conveyor,0.93076324,False,0.004
+설비유형,[MEDH]Miscellaneous Equipment/ Desuperheater,[MEDH]Miscellaneous Equipment/ Desuperheater,[MEDH]Miscellaneous Equipment/ Desuperheater,1.0,True,[MEDW]Miscellaneous Equipment/ Dewatering,0.9404103,False,0.0039
+설비유형,[MEDW]Miscellaneous Equipment/ Dewatering,[MEDW]Miscellaneous Equipment/ Dewatering,[MEDW]Miscellaneous Equipment/ Dewatering,0.99999994,True,[MEPO]Miscellaneous Equipment/ Pond,0.9426766,False,0.0036
+설비유형,[MEEJ]Miscellaneous Equipment/ Ejector,[MEEJ]Miscellaneous Equipment/ Ejector,[MEEJ]Miscellaneous Equipment/ Ejector,1.0,True,[MEBE]Miscellaneous Equipment/ Bag Ejector,0.97093797,False,0.004
+설비유형,[MEEP]Miscellaneous Equipment/ Electric Precipitator,[MEEP]Miscellaneous Equipment/ Electric Precipitator,[MEEP]Miscellaneous Equipment/ Electric Precipitator,1.0000001,True,[MEEJ]Miscellaneous Equipment/ Ejector,0.94643885,False,0.0044
+설비유형,[MEEV]Miscellaneous Equipment/ Tank emergency Vent,[MEEV]Miscellaneous Equipment/ Tank emergency Vent,[MEEV]Miscellaneous Equipment/ Tank emergency Vent,1.0,True,[MEEJ]Miscellaneous Equipment/ Ejector,0.9376136,False,0.0046
+설비유형,[MEFH]Miscellaneous Equipment/ 소화전,[MEFH]Miscellaneous Equipment/ 소화전,[MEFH]Miscellaneous Equipment/ 소화전,1.0,True,[MEFI]Miscellaneous Equipment/ Filler,0.93545866,False,0.0041
+설비유형,[MEFI]Miscellaneous Equipment/ Filler,[MEFI]Miscellaneous Equipment/ Filler,[MEFI]Miscellaneous Equipment/ Filler,1.0000001,True,[MECN]Miscellaneous Equipment/ Canister,0.94913703,False,0.0034
+설비유형,[MEFS]Miscellaneous Equipment/ Flare Stack,[MEFS]Miscellaneous Equipment/ Flare Stack,[MEFS]Miscellaneous Equipment/ Flare Stack,1.0,True,[MECS]Miscellaneous Equipment/ Common Stack,0.95511323,False,0.0038
+설비유형,[MELA]Miscellaneous Equipment/ Loading Arm,[MELA]Miscellaneous Equipment/ Loading Arm,[MELA]Miscellaneous Equipment/ Loading Arm,1.0,True,[MELL]Miscellaneous Equipment/ Land Loading Arm,0.9662631,False,0.0038
+설비유형,[MELG]Miscellaneous Equipment/ Level Gauge,[MELG]Miscellaneous Equipment/ Level Gauge,[MELG]Miscellaneous Equipment/ Level Gauge,1.0,True,[IPLG]Input Device/ Level Gauge,0.9368845,False,0.0042
+설비유형,[MELL]Miscellaneous Equipment/ Land Loading Arm,[MELL]Miscellaneous Equipment/ Land Loading Arm,[MELL]Miscellaneous Equipment/ Land Loading Arm,0.99999994,True,[MELA]Miscellaneous Equipment/ Loading Arm,0.96626306,False,0.0039
+설비유형,[MELM]Miscellaneous Equipment/ Line mixer,[MELM]Miscellaneous Equipment/ Line mixer,[MELM]Miscellaneous Equipment/ Line mixer,1.0,True,[MESL]Miscellaneous Equipment/ Silencer,0.937956,False,0.0039
+설비유형,[MEME]Miscellaneous Equipment/ Miscellaneous Equipment,[MEME]Miscellaneous Equipment/ Miscellaneous Equipment,[MEME]Miscellaneous Equipment/ Miscellaneous Equipment,1.0000001,True,[MEST]Miscellaneous Equipment/ Strainer,0.91792285,False,0.0044
+설비유형,[MEPO]Miscellaneous Equipment/ Pond,[MEPO]Miscellaneous Equipment/ Pond,[MEPO]Miscellaneous Equipment/ Pond,0.9999999,True,[MEDW]Miscellaneous Equipment/ Dewatering,0.9426766,False,0.0046
+설비유형,[MERH]Miscellaneous Equipment/ Rotating Type Hopper,[MERH]Miscellaneous Equipment/ Rotating Type Hopper,[MERH]Miscellaneous Equipment/ Rotating Type Hopper,1.0,True,[MESH]Miscellaneous Equipment/ Stationary Type Hopper,0.96922386,False,0.0045
+설비유형,[MESB]Miscellaneous Equipment/ Soot Blower,[MESB]Miscellaneous Equipment/ Soot Blower,[MESB]Miscellaneous Equipment/ Soot Blower,1.0,True,[MESL]Miscellaneous Equipment/ Silencer,0.94495636,False,0.0038
+설비유형,[MESC]Miscellaneous Equipment/ Scraper,[MESC]Miscellaneous Equipment/ Scraper,[MESC]Miscellaneous Equipment/ Scraper,1.0,True,[MECV]Miscellaneous Equipment/ Conveyor,0.95587486,False,0.0037
+설비유형,[MESH]Miscellaneous Equipment/ Stationary Type Hopper,[MESH]Miscellaneous Equipment/ Stationary Type Hopper,[MESH]Miscellaneous Equipment/ Stationary Type Hopper,0.99999994,True,[MERH]Miscellaneous Equipment/ Rotating Type Hopper,0.9692238,False,0.0037
+설비유형,[MESI]Miscellaneous Equipment/ Silo,[MESI]Miscellaneous Equipment/ Silo,[MESI]Miscellaneous Equipment/ Silo,0.99999994,True,[MESL]Miscellaneous Equipment/ Silencer,0.9526856,False,0.0039
+설비유형,[MESL]Miscellaneous Equipment/ Silencer,[MESL]Miscellaneous Equipment/ Silencer,[MESL]Miscellaneous Equipment/ Silencer,0.99999994,True,[MESI]Miscellaneous Equipment/ Silo,0.95268553,False,0.0034
+설비유형,[MESP]Miscellaneous Equipment/ Sump pit,[MESP]Miscellaneous Equipment/ Sump pit,[MESP]Miscellaneous Equipment/ Sump pit,1.0000001,True,[MESC]Miscellaneous Equipment/ Scraper,0.942043,False,0.0035
+설비유형,[MESR]Miscellaneous Equipment/ SCR Reactor,[MESR]Miscellaneous Equipment/ SCR Reactor,[MESR]Miscellaneous Equipment/ SCR Reactor,1.0000001,True,[MESC]Miscellaneous Equipment/ Scraper,0.9462527,False,0.0041
+설비유형,[MEST]Miscellaneous Equipment/ Strainer,[MEST]Miscellaneous Equipment/ Strainer,[MEST]Miscellaneous Equipment/ Strainer,1.0,True,[MESC]Miscellaneous Equipment/ Scraper,0.9451567,False,0.0038
+설비유형,[MOMO]Motor/ Motor,[MOMO]Motor/ Motor,[MOMO]Motor/ Motor,0.99999994,True,[VAMV]Valve/ Motor Operated Valve,0.91014075,False,0.0043
+설비유형,[MXCE]Mixer/ Centrifugal,[MXCE]Mixer/ Centrifugal,[MXCE]Mixer/ Centrifugal,1.0,True,[PUCE]Pump/ Centrifugal,0.9418726,False,0.0035
+설비유형,[PCL3]Functional Location/ F/L Level3 (Unit),[PCL3]Functional Location/ F/L Level3 (Unit),[PCL3]Functional Location/ F/L Level3 (Unit),1.0000001,True,[PCL4]Functional Location/ F/L Level4 (Section),0.95526224,False,0.004
+설비유형,[PCL4]Functional Location/ F/L Level4 (Section),[PCL4]Functional Location/ F/L Level4 (Section),[PCL4]Functional Location/ F/L Level4 (Section),1.0,True,[PCL3]Functional Location/ F/L Level3 (Unit),0.95526224,False,0.004
+설비유형,[PIIP]검사배관,[PIIP]검사배관,[PIIP]검사배관,1.0,True,[AGAB]Gas Detector/ Hydrocarbon (H2 포함),0.8718897,False,0.0043
+설비유형,[PIPI]Piping/ Piping,[PIPI]Piping/ Piping,[PIPI]Piping/ Piping,1.0000001,True,[APAP]APH/ APH,0.9118991,False,0.0038
+설비유형,[PNCB]Panel/ Capacitor Bank,[PNCB]Panel/ Capacitor Bank,[PNCB]Panel/ Capacitor Bank,1.0,True,[PNDC]Panel/ DC Motor Control Panel,0.9288045,False,0.0034
+설비유형,[PNDC]Panel/ DC Motor Control Panel,[PNDC]Panel/ DC Motor Control Panel,[PNDC]Panel/ DC Motor Control Panel,1.0,True,[PNSM]Panel/ Synchronous Motor Control Panel,0.954612,False,0.0034
+설비유형,[PNDP]Panel/ Local Power Distribu,[PNDP]Panel/ Local Power Distribu,[PNDP]Panel/ Local Power Distribu,0.9999999,True,[PNDC]Panel/ DC Motor Control Panel,0.9225019,False,0.0039
+설비유형,[PNES]Panel/ Electric Control Monitoring System,[PNES]Panel/ Electric Control Monitoring System,[PNES]Panel/ Electric Control Monitoring System,1.0000001,True,[PNHC]Panel/ Electric Heater Control Panel,0.93037254,False,0.0037
+설비유형,[PNHC]Panel/ Electric Heater Control Panel,[PNHC]Panel/ Electric Heater Control Panel,[PNHC]Panel/ Electric Heater Control Panel,1.0000002,True,[PNDC]Panel/ DC Motor Control Panel,0.9438222,False,0.0037
+설비유형,[PNHV]Panel/ HV Switchgear,[PNHV]Panel/ HV Switchgear,[PNHV]Panel/ HV Switchgear,1.0000001,True,[PNLV]Panel/ LV Switchgear,0.9721239,False,0.0035
+설비유형,[PNLV]Panel/ LV Switchgear,[PNLV]Panel/ LV Switchgear,[PNLV]Panel/ LV Switchgear,1.0,True,[PNHV]Panel/ HV Switchgear,0.97212386,False,0.0037
+설비유형,[PNNG]Panel/ NGR/HRG (차단기/DS),[PNNG]Panel/ NGR/HRG (차단기/DS),[PNNG]Panel/ NGR/HRG (차단기/DS),1.0000001,True,[PNHV]Panel/ HV Switchgear,0.9261665,False,0.004
+설비유형,[PNSE]Panel/ SECT Cable & Panel,[PNSE]Panel/ SECT Cable & Panel,[PNSE]Panel/ SECT Cable & Panel,1.0,True,[PNES]Panel/ Electric Control Monitoring System,0.9165942,False,0.0039
+설비유형,[PNSM]Panel/ Synchronous Motor Control Panel,[PNSM]Panel/ Synchronous Motor Control Panel,[PNSM]Panel/ Synchronous Motor Control Panel,0.99999994,True,[PNDC]Panel/ DC Motor Control Panel,0.9546122,False,0.0038
+설비유형,[PRBR]Pressure Relief Device/ Breather Valve,[PRBR]Pressure Relief Device/ Breather Valve,[PRBR]Pressure Relief Device/ Breather Valve,1.0,True,[PRSV]Pressure Relief Device/ Safety Relief Valve,0.953681,False,0.0039
+설비유형,[PRRD]Pressure Relief Device/ Rupture Disc,[PRRD]Pressure Relief Device/ Rupture Disc,[PRRD]Pressure Relief Device/ Rupture Disc,0.9999999,True,[PRSV]Pressure Relief Device/ Safety Relief Valve,0.93899137,False,0.0045
+설비유형,[PRSV]Pressure Relief Device/ Safety Relief Valve,[PRSV]Pressure Relief Device/ Safety Relief Valve,[PRSV]Pressure Relief Device/ Safety Relief Valve,1.0000001,True,[PRBR]Pressure Relief Device/ Breather Valve,0.95368105,False,0.0034
+설비유형,[PTBT]Pressure Tank / Ball Tank,[PTBT]Pressure Tank / Ball Tank,[PTBT]Pressure Tank / Ball Tank,0.99999994,True,[VEAT]Pressure Vessel/ Air Volume Tank,0.932132,False,0.0038
+설비유형,[PUCE]Pump/ Centrifugal,[PUCE]Pump/ Centrifugal,[PUCE]Pump/ Centrifugal,1.0000001,True,[COCE]Compressor/ Centrifugal,0.9431987,False,0.0036
+설비유형,[PUDP]Pump/ Displacement,[PUDP]Pump/ Displacement,[PUDP]Pump/ Displacement,1.0,True,[CODP]Compressor/ Displacement,0.94578457,False,0.004
+설비유형,[PURE]Pump/ Reciprocating,[PURE]Pump/ Reciprocating,[PURE]Pump/ Reciprocating,0.9999999,True,[CORE]Compressor/ Reciprocating,0.93700606,False,0.0039
+설비유형,[PWBC]Power/ Battery Charger,[PWBC]Power/ Battery Charger,[PWBC]Power/ Battery Charger,1.0,True,[PWBT]Power/ Battery,0.96573687,False,0.0037
+설비유형,[PWBT]Power/ Battery,[PWBT]Power/ Battery,[PWBT]Power/ Battery,0.9999999,True,[PWBC]Power/ Battery Charger,0.96573687,False,0.004
+설비유형,[PWUP]Power/ U.P.S,[PWUP]Power/ U.P.S,[PWUP]Power/ U.P.S,1.0,True,[PWBT]Power/ Battery,0.9182999,False,0.0037
+설비유형,[PWVF]Power/ Variable Frequency,[PWVF]Power/ Variable Frequency,[PWVF]Power/ Variable Frequency,1.0,True,[PWBT]Power/ Battery,0.9375211,False,0.004
+설비유형,[TACR]Storage Tank/ Corn Roof,[TACR]Storage Tank/ Corn Roof,[TACR]Storage Tank/ Corn Roof,1.0,True,[TADR]Storage Tank/ Dome Roof Tank,0.9608508,False,0.0039
+설비유형,[TADR]Storage Tank/ Dome Roof Tank,[TADR]Storage Tank/ Dome Roof Tank,[TADR]Storage Tank/ Dome Roof Tank,0.99999994,True,[TAFR]Storage Tank/ Floating Roof,0.9616531,False,0.0035
+설비유형,[TAFI]Storage Tank/ Fixed Roof w/Internal floating,[TAFI]Storage Tank/ Fixed Roof w/Internal floating,[TAFI]Storage Tank/ Fixed Roof w/Internal floating,0.99999994,True,[TAFR]Storage Tank/ Floating Roof,0.9574087,False,0.0043
+설비유형,[TAFR]Storage Tank/ Floating Roof,[TAFR]Storage Tank/ Floating Roof,[TAFR]Storage Tank/ Floating Roof,1.0,True,[TADR]Storage Tank/ Dome Roof Tank,0.96165323,False,0.0043
+설비유형,[TAST]Storage Tank / Special Tank,[TAST]Storage Tank / Special Tank,[TAST]Storage Tank / Special Tank,1.0,True,[TADR]Storage Tank/ Dome Roof Tank,0.9231498,False,0.0041
+설비유형,[TBST]Turbine/ Steam turbines,[TBST]Turbine/ Steam turbines,[TBST]Turbine/ Steam turbines,1.0,True,[TECE]Turbo Expander/ Centrifugal,0.9117528,False,0.0039
+설비유형,[TECE]Turbo Expander/ Centrifugal,[TECE]Turbo Expander/ Centrifugal,[TECE]Turbo Expander/ Centrifugal,1.0,True,[COCE]Compressor/ Centrifugal,0.9500019,False,0.0038
+설비유형,[TRBD]Transformer/ Bus Duct,[TRBD]Transformer/ Bus Duct,[TRBD]Transformer/ Bus Duct,1.0,True,[TRFM]Transformer/ Transformer,0.9276008,False,0.0037
+설비유형,[TRFM]Transformer/ Transformer,[TRFM]Transformer/ Transformer,[TRFM]Transformer/ Transformer,1.0,True,[TRBD]Transformer/ Bus Duct,0.92760056,False,0.0036
+설비유형,[VAAV]Valve/ Air & Nitrogen Operated Valve,[VAAV]Valve/ Air & Nitrogen Operated Valve,[VAAV]Valve/ Air & Nitrogen Operated Valve,1.0,True,[VAMV]Valve/ Motor Operated Valve,0.94645333,False,0.0041
+설비유형,[VACV]Valve/ Control Valve,[VACV]Valve/ Control Valve,[VACV]Valve/ Control Valve,1.0,True,[VAMV]Valve/ Motor Operated Valve,0.95206845,False,0.0036
+설비유형,[VADL]Valve/ Damper & Louver,[VADL]Valve/ Damper & Louver,[VADL]Valve/ Damper & Louver,1.0,True,[VASL]Valve/ Slide Valve,0.9364295,False,0.0039
+설비유형,[VAMV]Valve/ Motor Operated Valve,[VAMV]Valve/ Motor Operated Valve,[VAMV]Valve/ Motor Operated Valve,1.0000001,True,[VACV]Valve/ Control Valve,0.95206845,False,0.0034
+설비유형,[VAPR]Valve/ PX Rotary Valve,[VAPR]Valve/ PX Rotary Valve,[VAPR]Valve/ PX Rotary Valve,1.0,True,[VARO]Valve/ Rotary Valve,0.9537499,False,0.0038
+설비유형,[VARO]Valve/ Rotary Valve,[VARO]Valve/ Rotary Valve,[VARO]Valve/ Rotary Valve,1.0,True,[VAPR]Valve/ PX Rotary Valve,0.95375,False,0.0038
+설비유형,[VASL]Valve/ Slide Valve,[VASL]Valve/ Slide Valve,[VASL]Valve/ Slide Valve,0.9999999,True,[VACV]Valve/ Control Valve,0.9474695,False,0.0039
+설비유형,[VASV]Valve/ Solenoid valve,[VASV]Valve/ Solenoid valve,[VASV]Valve/ Solenoid valve,1.0000001,True,[VACV]Valve/ Control Valve,0.95047843,False,0.0045
+설비유형,[VEAT]Pressure Vessel/ Air Volume Tank,[VEAT]Pressure Vessel/ Air Volume Tank,[VEAT]Pressure Vessel/ Air Volume Tank,1.0,True,[VERX]Pressure Vessel/ Reactor,0.93776983,False,0.0044
+설비유형,[VEDR]Pressure Vessel/ Drum,[VEDR]Pressure Vessel/ Drum,[VEDR]Pressure Vessel/ Drum,1.0000002,True,[VEDS]Pressure Vessel/ Desalter,0.9511675,False,0.004
+설비유형,[VEDS]Pressure Vessel/ Desalter,[VEDS]Pressure Vessel/ Desalter,[VEDS]Pressure Vessel/ Desalter,0.9999999,True,[VEDR]Pressure Vessel/ Drum,0.95116746,False,0.0041
+설비유형,[VEFC]Pressure Vessel/ Filter & Coalescer,[VEFC]Pressure Vessel/ Filter & Coalescer,[VEFC]Pressure Vessel/ Filter & Coalescer,1.0,True,[VERX]Pressure Vessel/ Reactor,0.92581403,False,0.0037
+설비유형,[VERG]Pressure Vessel/ Regenerator,[VERG]Pressure Vessel/ Regenerator,[VERG]Pressure Vessel/ Regenerator,1.0,True,[VERX]Pressure Vessel/ Reactor,0.96105826,False,0.004
+설비유형,[VERX]Pressure Vessel/ Reactor,[VERX]Pressure Vessel/ Reactor,[VERX]Pressure Vessel/ Reactor,1.0,True,[VERG]Pressure Vessel/ Regenerator,0.9610583,False,0.0035
+설비유형,[VETW]Pressure Vessel/ Tower,[VETW]Pressure Vessel/ Tower,[VETW]Pressure Vessel/ Tower,1.0,True,[VEDR]Pressure Vessel/ Drum,0.95021564,False,0.0046
+설비유형,[WIOC]Winch/ Over Head Crane/Hoist (Stationary Equipment 용),[WIOC]Winch/ Over Head Crane/Hoist (Stationary Equipment 용),[WIOC]Winch/ Over Head Crane/Hoist (Stationary Equipment 용),0.9999999,True,[WIOR]Winch/ Over Head Crane/Hoist (Rotating Equipment 용),0.97362053,False,0.0039
+설비유형,[WIOR]Winch/ Over Head Crane/Hoist (Rotating Equipment 용),[WIOR]Winch/ Over Head Crane/Hoist (Rotating Equipment 용),[WIOR]Winch/ Over Head Crane/Hoist (Rotating Equipment 용),0.9999999,True,[WIOC]Winch/ Over Head Crane/Hoist (Stationary Equipment 용),0.97362053,False,0.0039
+설비유형,[WISC]Winch/ Stacker Crane,[WISC]Winch/ Stacker Crane,[WISC]Winch/ Stacker Crane,1.0,True,[WIOC]Winch/ Over Head Crane/Hoist (Stationary Equipment 용),0.93421096,False,0.0038
+위치,#1RTO,#1RTO,#1RTO,0.9999999,True,No.2 RTO,0.9290345,False,0.0141
+위치,1.4BDO,1.4BDO,1.4BDO,1.0,True,1.4BDO Off-Site,0.9325218,False,0.0043
+위치,1.4BDO Off-Site,1.4BDO Off-Site,1.4BDO Off-Site,1.0,True,1.4BDO,0.9325217,False,0.0045
+위치,2nd C/F,2nd C/F,2nd C/F,0.9999999,True,Primary C/F B,0.90494144,False,0.0042
+위치,8BL 비상발전기,8BL 비상발전기,8BL 비상발전기,0.99999994,True,종합용수 비상발전기,0.89696443,False,0.004
+위치,A/C filter unit,A/C filter unit,A/C filter unit,1.0,True,Sand filter unit,0.91857255,False,0.004
+위치,ARU A-Train,ARU A-Train,ARU A-Train,1.0000001,True,ARU B-Train,0.9731411,False,0.0046
+위치,ARU B-Train,ARU B-Train,ARU B-Train,1.0000001,True,ARU A-Train,0.9731411,False,0.0042
+위치,ARU Common Facility,ARU Common Facility,ARU Common Facility,1.0,True,TGTU Common Facility,0.9064947,False,0.0042
+위치,ARU 부대시설,ARU 부대시설,ARU 부대시설,1.0,True,SRU 부대시설,0.9407989,False,0.0043
+위치,Asphalt저장출하-내항,Asphalt저장출하-내항,Asphalt저장출하-내항,1.0000001,True,석유저장/출하-내항,0.9286026,False,0.0039
+위치,BC,BC,BC,1.0000001,True,BS,0.8877007,False,0.0045
+위치,BR,BR,BR,0.9999999,True,BS,0.8888273,False,0.0039
+위치,BRP,BRP,BRP,0.99999994,True,No.4 SRP,0.8712295,False,0.0045
+위치,BS,BS,BS,0.9999999,True,BR,0.8888275,False,0.004
+위치,BY,BY,BY,0.9999998,True,BR,0.86108106,False,0.004
+위치,Bioreactor,Bioreactor,Bioreactor,0.99999994,True,Biosludge unit,0.8650327,False,0.0042
+위치,Biosludge unit,Biosludge unit,Biosludge unit,0.9999999,True,PTUsludge unit,0.9423169,False,0.0035
+위치,Butamer,Butamer,Butamer,1.0,True,BS,0.82020164,False,0.0041
+위치,Butene-1 Unit,Butene-1 Unit,Butene-1 Unit,0.99999994,True,No.1 MTBE Unit,0.89493227,False,0.0043
+위치,C5 HDGN,C5 HDGN,C5 HDGN,0.99999994,True,No.2 C4 HDGN,0.93949705,False,0.004
+위치,C9 Spilitter,C9 Spilitter,C9 Spilitter,1.0,True,P9-2PP-1 S/S,0.86459005,False,0.0043
+위치,CO2 회수공정,CO2 회수공정,CO2 회수공정,1.0,True,폐수처리,0.84589684,False,0.0041
+위치,CPI A~F,CPI A~F,CPI A~F,0.99999994,True,Primary C/F A,0.8937595,False,0.0038
+위치,CT3-1S/S,CT3-1S/S,CT3-1S/S,1.0,True,T1-1S/S,0.9372488,False,0.0046
+위치,Common 보일러 공통,Common 보일러 공통,Common 보일러 공통,0.9999999,True,NAC 보일러 공통,0.9352829,False,0.0048
+위치,Common 압축공기시설,Common 압축공기시설,Common 압축공기시설,1.0,True,Common 연료공급시설,0.934524,False,0.0046
+위치,Common 연료공급시설,Common 연료공급시설,Common 연료공급시설,1.0,True,Common 압축공기시설,0.934524,False,0.0041
+위치,DAF A,DAF A,DAF A,1.0,True,DAF B,0.96829885,False,0.0035
+위치,DAF B,DAF B,DAF B,1.0,True,DAF A,0.9682989,False,0.0043
+위치,DAF C,DAF C,DAF C,1.0,True,DAF A,0.9547454,False,0.0039
+위치,DAF tr.A,DAF tr.A,DAF tr.A,1.0,True,DAF tr.C,0.9767905,False,0.004
+위치,DAF tr.B,DAF tr.B,DAF tr.B,1.0,True,DAF tr.A,0.97429967,False,0.0043
+위치,DAF tr.C,DAF tr.C,DAF tr.C,1.0,True,DAF tr.A,0.97679055,False,0.004
+위치,E3-NEP-6S/S,E3-NEP-6S/S,E3-NEP-6S/S,1.0,True,E5-NEP-1-1S/S,0.95433664,False,0.0041
+위치,E5-MAIN-1S/S,E5-MAIN-1S/S,E5-MAIN-1S/S,1.0,True,E5-NEP-1-1S/S,0.95007926,False,0.0041
+위치,E5-NEP-1-1S/S,E5-NEP-1-1S/S,E5-NEP-1-1S/S,1.0,True,E5-NEP-1AS/S,0.97891515,False,0.0041
+위치,E5-NEP-1AS/S,E5-NEP-1AS/S,E5-NEP-1AS/S,1.0,True,E5-NEP-1-1S/S,0.9789152,False,0.0047
+위치,EPDM생산시설,EPDM생산시설,EPDM생산시설,1.0,True,EPDM폐수처리시설,0.9324507,False,0.0042
+위치,EPDM저장/출하,EPDM저장/출하,EPDM저장/출하,1.0,True,PCs저장/ 출하,0.9186092,False,0.0041
+위치,EPDM폐수처리시설,EPDM폐수처리시설,EPDM폐수처리시설,1.0,True,PEPP폐수처리시설,0.9389241,False,0.0044
+위치,EXIST UTILITY,EXIST UTILITY,EXIST UTILITY,1.0,True,No.2 VRDS Utility Offsite,0.82748437,False,0.0045
+위치,F3-2DS-2S/S,F3-2DS-2S/S,F3-2DS-2S/S,1.0,True,R3-2VRDS-1S/S,0.92766976,False,0.0035
+위치,F8-6SRP-2S/S,F8-6SRP-2S/S,F8-6SRP-2S/S,1.0,True,T6-2S/S,0.92034614,False,0.004
+위치,FCC 154KV,FCC 154KV,FCC 154KV,1.0,True,No.2 FCC 154kV,0.9553287,False,0.0037
+위치,FCC Cooling Tower,FCC Cooling Tower,FCC Cooling Tower,1.0,True,No.2 FCC Cooling Tower,0.9569621,False,0.0039
+위치,FCC Flare,FCC Flare,FCC Flare,0.9999999,True,NCC Flare,0.93421775,False,0.0042
+위치,FCC 보일러공통,FCC 보일러공통,FCC 보일러공통,0.99999994,True,Common 보일러 공통,0.9187921,False,0.0042
+위치,FCC 순수시설,FCC 순수시설,FCC 순수시설,1.0,True,No.2 FCC 순수시설,0.96529114,False,0.0046
+위치,FCC 압축공기시설,FCC 압축공기시설,FCC 압축공기시설,0.99999994,True,No.2 FCC 압축공기시설,0.9647856,False,0.0042
+위치,FCC 연료공급시설,FCC 연료공급시설,FCC 연료공급시설,0.9999999,True,No.2 FCC 연료공급시설,0.96378684,False,0.004
+위치,FCC 전기시설,FCC 전기시설,FCC 전기시설,1.0,True,No.2 FCC 전기시설,0.95453346,False,0.0047
+위치,FCC 정수시설,FCC 정수시설,FCC 정수시설,1.0,True,No.2 FCC 정수시설,0.9637389,False,0.004
+위치,FCC부대시설,FCC부대시설,FCC부대시설,1.0,True,No.2 FCC 부대시설,0.9498308,False,0.0042
+위치,FCC저장시설,FCC저장시설,FCC저장시설,1.0,True,FCC 정수시설,0.94348127,False,0.0042
+위치,FD,FD,FD,1.0,True,BS,0.8419698,False,0.0046
+위치,Flare,Flare,Flare,1.0,True,No.1 Flare,0.91270727,False,0.0047
+위치,GCU,GCU,GCU,1.0,True,GSU,0.9187125,False,0.0046
+위치,GRS,GRS,GRS,1.0,True,GSU,0.8684583,False,0.0042
+위치,GSU,GSU,GSU,0.99999994,True,GCU,0.9187125,False,0.0047
+위치,Gas Con,Gas Con,Gas Con,1.0,True,Gas con,0.9771689,False,0.0037
+위치,Gas con,Gas con,Gas con,1.0,True,Gas Con,0.97716904,False,0.0042
+위치,HDT SPLT,HDT SPLT,HDT SPLT,1.0,True,No.1 HDT,0.9073932,False,0.0039
+위치,HGU,HGU,HGU,1.0,True,SGTU,0.862383,False,0.0041
+위치,HHT,HHT,HHT,1.0,True,HDT SPLT,0.89803493,False,0.0044
+위치,HHT 부대시설,HHT 부대시설,HHT 부대시설,1.0,True,HOU 부대시설,0.9316083,False,0.0039
+위치,HOU Cooling Tower,HOU Cooling Tower,HOU Cooling Tower,0.99999994,True,FCC Cooling Tower,0.92205656,False,0.0044
+위치,HOU Flare,HOU Flare,HOU Flare,1.0000001,True,HOU Cooling Tower,0.89681566,False,0.0042
+위치,HOU WWTP,HOU WWTP,HOU WWTP,0.99999994,True,HOU Flare,0.8717889,False,0.0043
+위치,HOU 부대시설,HOU 부대시설,HOU 부대시설,1.0,True,HHT 부대시설,0.9316082,False,0.0038
+위치,HOU폐수처리시설,HOU폐수처리시설,HOU폐수처리시설,0.99999994,True,PEPP폐수처리시설,0.92290837,False,0.0042
+위치,HS 촉매제조시설,HS 촉매제조시설,HS 촉매제조시설,1.0,True,종합질소제조시설,0.8898494,False,0.0039
+위치,KNC 공통,KNC 공통,KNC 공통,1.0,True,SK 에너지 공통,0.8843359,False,0.0043
+위치,LEU,LEU,LEU,1.0,True,No.1 BEU,0.88981247,False,0.0041
+위치,LSU,LSU,LSU,0.9999999,True,GSU,0.86390555,False,0.0041
+위치,M/U Compressor,M/U Compressor,M/U Compressor,1.0,True,A/C filter unit,0.8792632,False,0.0037
+위치,Membrane,Membrane,Membrane,0.9999999,True,Bioreactor,0.8425518,False,0.0042
+위치,N1-SDA-1S/S,N1-SDA-1S/S,N1-SDA-1S/S,1.0000001,True,N3-NRC-1S/S,0.93273807,False,0.0044
+위치,N10-HOU-1S/S,N10-HOU-1S/S,N10-HOU-1S/S,0.99999994,True,N11-HOU-1AS/S,0.9663781,False,0.0046
+위치,N11-HOU-1AS/S,N11-HOU-1AS/S,N11-HOU-1AS/S,1.0,True,N10-HOU-1S/S,0.9663779,False,0.0045
+위치,N13-1 S/S,N13-1 S/S,N13-1 S/S,1.0,True,N14-1S/S,0.96483505,False,0.0039
+위치,N14-1S/S,N14-1S/S,N14-1S/S,1.0,True,N13-1 S/S,0.96483505,False,0.0042
+위치,N15-2LBO-1S/S,N15-2LBO-1S/S,N15-2LBO-1S/S,1.0,True,N18-1LBO-1S/S,0.9563328,False,0.0045
+위치,N18-1LBO-1S/S,N18-1LBO-1S/S,N18-1LBO-1S/S,0.99999994,True,N15-2LBO-1S/S,0.9563327,False,0.0039
+위치,N2-3LBO-1S/S,N2-3LBO-1S/S,N2-3LBO-1S/S,1.0000001,True,N15-2LBO-1S/S,0.95529133,False,0.0048
+위치,N2-HHT-1S/S,N2-HHT-1S/S,N2-HHT-1S/S,0.9999999,True,N8-2HNH-1S/S,0.95355123,False,0.0041
+위치,N3-2PX-1S/S,N3-2PX-1S/S,N3-2PX-1S/S,1.0000001,True,N3-NRC-1S/S,0.94320333,False,0.0045
+위치,N3-NRC-1S/S,N3-NRC-1S/S,N3-NRC-1S/S,0.99999994,True,N5-NRC-2S/S,0.95397043,False,0.0047
+위치,N4-HOU-2AS/S,N4-HOU-2AS/S,N4-HOU-2AS/S,0.99999994,True,N4-HOU-2S/S,0.9882395,False,0.0044
+위치,N4-HOU-2S/S,N4-HOU-2S/S,N4-HOU-2S/S,0.99999994,True,N4-HOU-2AS/S,0.9882396,False,0.0043
+위치,N5-NRC-2S/S,N5-NRC-2S/S,N5-NRC-2S/S,1.0,True,N3-NRC-1S/S,0.95397043,False,0.0048
+위치,N6-9CT-1S/S,N6-9CT-1S/S,N6-9CT-1S/S,1.0,True,N3-NRC-1S/S,0.93015754,False,0.0034
+위치,N6-PW-1S/S,N6-PW-1S/S,N6-PW-1S/S,0.99999994,True,N9-PW-1S/S,0.9633189,False,0.004
+위치,N8-2BTX-1S/S,N8-2BTX-1S/S,N8-2BTX-1S/S,0.9999998,True,N8-2HNH-1S/S,0.94531745,False,0.0044
+위치,N8-2HNH-1S/S,N8-2HNH-1S/S,N8-2HNH-1S/S,1.0,True,N2-HHT-1S/S,0.9535511,False,0.0043
+위치,N9-PW-1S/S,N9-PW-1S/S,N9-PW-1S/S,1.0,True,N9-PW-2S/S,0.98404574,False,0.0037
+위치,N9-PW-2S/S,N9-PW-2S/S,N9-PW-2S/S,1.0,True,N9-PW-1S/S,0.9840458,False,0.0042
+위치,N9-PW-3S/S,N9-PW-3S/S,N9-PW-3S/S,1.0,True,N9-PW-1S/S,0.98207784,False,0.004
+위치,NAC 154KV,NAC 154KV,NAC 154KV,1.0000001,True,FCC 154KV,0.94355154,False,0.0045
+위치,NAC Flare,NAC Flare,NAC Flare,1.0,True,NCC Flare,0.9292294,False,0.0041
+위치,NAC 보일러 공통,NAC 보일러 공통,NAC 보일러 공통,1.0,True,Common 보일러 공통,0.93528295,False,0.0038
+위치,NAC 순수시설,NAC 순수시설,NAC 순수시설,1.0000001,True,NAC 정수시설,0.95425594,False,0.0043
+위치,NAC 정수시설,NAC 정수시설,NAC 정수시설,1.0,True,NAC 순수시설,0.954256,False,0.004
+위치,NAC압축공기시설,NAC압축공기시설,NAC압축공기시설,0.9999999,True,NAC연료공급시설,0.94390166,False,0.0039
+위치,NAC연료공급시설,NAC연료공급시설,NAC연료공급시설,1.0,True,NAC압축공기시설,0.94390166,False,0.004
+위치,NCC Flare,NCC Flare,NCC Flare,0.99999994,True,FCC Flare,0.93421775,False,0.0042
+위치,NEP Cooling Tower,NEP Cooling Tower,NEP Cooling Tower,1.0,True,PEPP Cooling Tower,0.9556514,False,0.0031
+위치,NEP Flare,NEP Flare,NEP Flare,1.0000001,True,NAC Flare,0.91192603,False,0.0038
+위치,NEP G/T,NEP G/T,NEP G/T,1.0,True,NEP Off-Site,0.89960575,False,0.0037
+위치,NEP Off-Site,NEP Off-Site,NEP Off-Site,1.0,True,NEP G/T,0.8996057,False,0.004
+위치,NEP 계량장,NEP 계량장,NEP 계량장,1.0,True,NEP 정수처리장,0.9317452,False,0.0045
+위치,NEP 안전시설,NEP 안전시설,NEP 안전시설,0.9999999,True,NEP 폐수처리시설,0.92212003,False,0.0044
+위치,NEP 정수처리장,NEP 정수처리장,NEP 정수처리장,1.0,True,NEP 폐수처리시설,0.96048427,False,0.0039
+위치,NEP 폐수처리시설,NEP 폐수처리시설,NEP 폐수처리시설,1.0000001,True,NEP 정수처리장,0.9604841,False,0.0038
+위치,NEU Section,NEU Section,NEU Section,1.0,True,WAO Section,0.9046755,False,0.0045
+위치,NRC PSA,NRC PSA,NRC PSA,0.9999999,True,PSA,0.89685863,False,0.0042
+위치,NX3-NX-1 S/S,NX3-NX-1 S/S,NX3-NX-1 S/S,1.0,True,NX5-NX-1 S/S,0.97092384,False,0.0044
+위치,NX5-NX-1 S/S,NX5-NX-1 S/S,NX5-NX-1 S/S,0.9999999,True,NX3-NX-1 S/S,0.97092384,False,0.0038
+위치,Naphtha Splitter,Naphtha Splitter,Naphtha Splitter,1.0,True,Nexlene Demo Plant,0.8406675,False,0.0042
+위치,Nexlene Demo Plant,Nexlene Demo Plant,Nexlene Demo Plant,1.0,True,Nexlene 생산 공정,0.8776253,False,0.0043
+위치,Nexlene 생산 공정,Nexlene 생산 공정,Nexlene 생산 공정,1.0,True,Nexlene 포장 공정,0.9603509,False,0.0043
+위치,Nexlene 포장 공정,Nexlene 포장 공정,Nexlene 포장 공정,1.0,True,Nexlene 생산 공정,0.960351,False,0.0036
+위치,No.1 ARU,No.1 ARU,No.1 ARU,1.0,True,No.2 ARU,0.96703756,False,0.0048
+위치,No.1 ATA,No.1 ATA,No.1 ATA,1.0,True,No.2 ATA,0.9608251,False,0.0043
+위치,No.1 Akylation,No.1 Akylation,No.1 Akylation,1.0,True,No.2 Alkylation,0.9290674,False,0.0042
+위치,No.1 Aromizer,No.1 Aromizer,No.1 Aromizer,0.9999999,True,No.2 Aromizer,0.9663565,False,0.004
+위치,No.1 BEU,No.1 BEU,No.1 BEU,1.0,True,No.2 BEU,0.9718139,False,0.0039
+위치,No.1 C4 HDGN,No.1 C4 HDGN,No.1 C4 HDGN,0.99999994,True,No.2 C4 HDGN,0.98908335,False,0.0039
+위치,No.1 CDU,No.1 CDU,No.1 CDU,1.0,True,No.2 CDU,0.96566737,False,0.0043
+위치,No.1 CDW,No.1 CDW,No.1 CDW,0.9999999,True,No.2 CDW,0.97162616,False,0.0043
+위치,No.1 Cooling Tower,No.1 Cooling Tower,No.1 Cooling Tower,0.99999994,True,No.2 Cooling Tower,0.9646742,False,0.004
+위치,No.1 EU,No.1 EU,No.1 EU,0.99999994,True,No.2 EU,0.9560093,False,0.0034
+위치,No.1 Flare,No.1 Flare,No.1 Flare,0.99999994,True,No.3 Flare,0.95569134,False,0.0044
+위치,No.1 GDS,No.1 GDS,No.1 GDS,1.0,True,No.2 GDS,0.9675182,False,0.0041
+위치,No.1 Gas Con,No.1 Gas Con,No.1 Gas Con,1.0000001,True,No.7 Gas Con,0.96292484,False,0.0034
+위치,No.1 HDT,No.1 HDT,No.1 HDT,0.9999999,True,No.2 HDT,0.9654148,False,0.0046
+위치,No.1 HNH,No.1 HNH,No.1 HNH,1.0,True,No.2 HNH,0.9695687,False,0.0041
+위치,No.1 LBO 부대시설,No.1 LBO 부대시설,No.1 LBO 부대시설,1.0,True,No.2 LBO 부대시설,0.97442293,False,0.0039
+위치,No.1 LSR Merox,No.1 LSR Merox,No.1 LSR Merox,1.0,True,No.2 LSR Merox,0.98195213,False,0.0037
+위치,No.1 MDU,No.1 MDU,No.1 MDU,1.0,True,No.2 MDU,0.96650195,False,0.0037
+위치,No.1 MTBE Unit,No.1 MTBE Unit,No.1 MTBE Unit,1.0000001,True,No.2 MTBE,0.9450881,False,0.0045
+위치,No.1 PC(F),No.1 PC(F),No.1 PC(F),0.99999994,True,No.1 PC(R),0.9695431,False,0.0044
+위치,No.1 PC(R),No.1 PC(R),No.1 PC(R),0.9999999,True,No.1 PC(F),0.969543,False,0.0046
+위치,No.1 PE,No.1 PE,No.1 PE,1.0,True,No.2 PE,0.95596623,False,0.0043
+위치,No.1 PGHT,No.1 PGHT,No.1 PGHT,1.0,True,No.2 PGHT,0.9722202,False,0.0041
+위치,No.1 PP,No.1 PP,No.1 PP,1.0,True,No.2 PP,0.9629116,False,0.0044
+위치,No.1 PRU,No.1 PRU,No.1 PRU,0.9999999,True,No.2 PRU,0.9675235,False,0.004
+위치,No.1 Para-Xylene,No.1 Para-Xylene,No.1 Para-Xylene,1.0,True,No.2 Para-Xylene,0.9751363,False,0.0043
+위치,No.1 Platforming,No.1 Platforming,No.1 Platforming,1.0,True,No.3 Platforming,0.9584247,False,0.0044
+위치,No.1 RFCC,No.1 RFCC,No.1 RFCC,1.0,True,No.2 RFCC,0.9714801,False,0.0039
+위치,No.1 RHDS,No.1 RHDS,No.1 RHDS,0.9999999,True,No.2 RHDS,0.9673145,False,0.0034
+위치,No.1 S/B Merox,No.1 S/B Merox,No.1 S/B Merox,1.0,True,No.5 S/B Merox,0.97671974,False,0.005
+위치,No.1 SAR,No.1 SAR,No.1 SAR,1.0000001,True,No.2 SAR,0.95712155,False,0.0045
+위치,No.1 SRP Common Facility,No.1 SRP Common Facility,No.1 SRP Common Facility,0.99999994,True,No.3 SRP Common Facility,0.9727997,False,0.0044
+위치,No.1 Sulfolane,No.1 Sulfolane,No.1 Sulfolane,1.0000001,True,No.2 Sulfolane,0.9687029,False,0.0038
+위치,No.11 Cooling Tower,No.11 Cooling Tower,No.11 Cooling Tower,1.0,True,No.1 Cooling Tower,0.96419156,False,0.0041
+위치,No.12 C/T,No.12 C/T,No.12 C/T,1.0,True,2nd C/F,0.8926705,False,0.0038
+위치,No.2 ARU,No.2 ARU,No.2 ARU,1.0,True,No.1 ARU,0.9670376,False,0.0035
+위치,No.2 ATA,No.2 ATA,No.2 ATA,1.0,True,No.1 ATA,0.9608251,False,0.004
+위치,No.2 Alkylation,No.2 Alkylation,No.2 Alkylation,1.0,True,No.1 Akylation,0.92906743,False,0.004
+위치,No.2 Aromizer,No.2 Aromizer,No.2 Aromizer,1.0,True,No.1 Aromizer,0.96635664,False,0.0048
+위치,No.2 BEU,No.2 BEU,No.2 BEU,1.0000001,True,No.1 BEU,0.9718138,False,0.0052
+위치,No.2 C4 HDGN,No.2 C4 HDGN,No.2 C4 HDGN,1.0,True,No.1 C4 HDGN,0.98908347,False,0.0041
+위치,No.2 CDU,No.2 CDU,No.2 CDU,1.0,True,No.1 CDU,0.96566737,False,0.0042
+위치,No.2 CDW,No.2 CDW,No.2 CDW,1.0000001,True,No.1 CDW,0.9716261,False,0.0044
+위치,No.2 Cooling Tower,No.2 Cooling Tower,No.2 Cooling Tower,1.0,True,No.2 FCC Cooling Tower,0.9678665,False,0.004
+위치,No.2 Cyclohexane,No.2 Cyclohexane,No.2 Cyclohexane,1.0,True,No.2 Para-Xylene,0.9284898,False,0.0044
+위치,No.2 EU,No.2 EU,No.2 EU,0.9999998,True,No.1 EU,0.9560095,False,0.0043
+위치,No.2 FCC 154kV,No.2 FCC 154kV,No.2 FCC 154kV,0.99999994,True,FCC 154KV,0.9553287,False,0.004
+위치,No.2 FCC Cooling Tower,No.2 FCC Cooling Tower,No.2 FCC Cooling Tower,0.99999994,True,No.2 Cooling Tower,0.9678664,False,0.0041
+위치,No.2 FCC 부대시설,No.2 FCC 부대시설,No.2 FCC 부대시설,1.0000001,True,No.2 FCC 순수시설,0.96126777,False,0.0039
+위치,No.2 FCC 순수시설,No.2 FCC 순수시설,No.2 FCC 순수시설,1.0,True,FCC 순수시설,0.965291,False,0.0043
+위치,No.2 FCC 압축공기시설,No.2 FCC 압축공기시설,No.2 FCC 압축공기시설,1.0,True,FCC 압축공기시설,0.96478564,False,0.0045
+위치,No.2 FCC 연료공급시설,No.2 FCC 연료공급시설,No.2 FCC 연료공급시설,1.0,True,FCC 연료공급시설,0.9637867,False,0.0041
+위치,No.2 FCC 저장시설,No.2 FCC 저장시설,No.2 FCC 저장시설,1.0000001,True,No.2 FCC 정수시설,0.95999837,False,0.0041
+위치,No.2 FCC 전기시설,No.2 FCC 전기시설,No.2 FCC 전기시설,1.0,True,No.2 FCC 부대시설,0.96047854,False,0.0043
+위치,No.2 FCC 정수시설,No.2 FCC 정수시설,No.2 FCC 정수시설,1.0,True,FCC 정수시설,0.9637389,False,0.0044
+위치,No.2 FCC 폐수처리시설,No.2 FCC 폐수처리시설,No.2 FCC 폐수처리시설,1.0,True,No.2 FCC 정수시설,0.95988715,False,0.0039
+위치,No.2 GDS,No.2 GDS,No.2 GDS,1.0,True,No.1 GDS,0.9675182,False,0.0039
+위치,No.2 Gas con,No.2 Gas con,No.2 Gas con,1.0,True,No.3 Gas con,0.95873237,False,0.004
+위치,No.2 HDT,No.2 HDT,No.2 HDT,1.0000001,True,No.1 HDT,0.9654149,False,0.004
+위치,No.2 HNH,No.2 HNH,No.2 HNH,0.99999994,True,No.1 HNH,0.9695687,False,0.0037
+위치,No.2 LBO 부대시설,No.2 LBO 부대시설,No.2 LBO 부대시설,1.0,True,No.1 LBO 부대시설,0.97442293,False,0.004
+위치,No.2 LPG Merox,No.2 LPG Merox,No.2 LPG Merox,1.0,True,No.6 LPG Merox,0.97556674,False,0.004
+위치,No.2 LSR Merox,No.2 LSR Merox,No.2 LSR Merox,1.0,True,No.1 LSR Merox,0.9819521,False,0.0041
+위치,No.2 MDU,No.2 MDU,No.2 MDU,1.0,True,No.1 MDU,0.96650183,False,0.0039
+위치,No.2 MTBE,No.2 MTBE,No.2 MTBE,0.9999999,True,No.1 MTBE Unit,0.945088,False,0.0049
+위치,No.2 PC(F),No.2 PC(F),No.2 PC(F),1.0,True,No.2 PC(R),0.96952546,False,0.0049
+위치,No.2 PC(R),No.2 PC(R),No.2 PC(R),1.0,True,No.2 PC(F),0.9695256,False,0.0043
+위치,No.2 PE,No.2 PE,No.2 PE,1.0,True,No.1 PE,0.9559661,False,0.0041
+위치,No.2 PGHT,No.2 PGHT,No.2 PGHT,1.0,True,No.1 PGHT,0.9722202,False,0.0048
+위치,No.2 PP,No.2 PP,No.2 PP,1.0000001,True,No.1 PP,0.9629118,False,0.0043
+위치,No.2 PRU,No.2 PRU,No.2 PRU,1.0000002,True,No.1 PRU,0.96752346,False,0.0039
+위치,No.2 Para-Xylene,No.2 Para-Xylene,No.2 Para-Xylene,1.0,True,No.1 Para-Xylene,0.9751363,False,0.0041
+위치,No.2 RFCC,No.2 RFCC,No.2 RFCC,0.9999999,True,No.1 RFCC,0.97148013,False,0.004
+위치,No.2 RHDS,No.2 RHDS,No.2 RHDS,1.0,True,No.1 RHDS,0.9673146,False,0.0037
+위치,No.2 RTO,No.2 RTO,No.2 RTO,0.9999999,True,No.3 RTO,0.9593591,False,0.0045
+위치,No.2 SAR,No.2 SAR,No.2 SAR,0.99999994,True,No.1 SAR,0.95712173,False,0.0038
+위치,No.2 Sulfolane,No.2 Sulfolane,No.2 Sulfolane,1.0,True,No.1 Sulfolane,0.96870285,False,0.0045
+위치,No.2 Unifining,No.2 Unifining,No.2 Unifining,1.0,True,No.3 Unifining,0.9487954,False,0.0037
+위치,No.2 VDU,No.2 VDU,No.2 VDU,1.0,True,No.3 VDU,0.9611697,False,0.0043
+위치,No.2 VRDS,No.2 VRDS,No.2 VRDS,1.0,True,No.2 RHDS,0.9582323,False,0.004
+위치,No.2 VRDS CoolingTower,No.2 VRDS CoolingTower,No.2 VRDS CoolingTower,0.9999998,True,No.2 Cooling Tower,0.9499267,False,0.0036
+위치,No.2 VRDS Utility Offsite,No.2 VRDS Utility Offsite,No.2 VRDS Utility Offsite,1.0000001,True,No.2 VRDS,0.92701876,False,0.0043
+위치,No.3 AEU,No.3 AEU,No.3 AEU,1.0000001,True,No.2 BEU,0.9143735,False,0.0044
+위치,No.3 ATA PFU,No.3 ATA PFU,No.3 ATA PFU,0.99999994,True,No.1 ATA,0.91999227,False,0.0039
+위치,No.3 CDU,No.3 CDU,No.3 CDU,0.9999999,True,No.2 CDU,0.9629471,False,0.0034
+위치,No.3 CDW,No.3 CDW,No.3 CDW,1.0000001,True,No.1 CDW,0.9649227,False,0.004
+위치,No.3 Cooling Tower,No.3 Cooling Tower,No.3 Cooling Tower,0.99999994,True,No.1 Cooling Tower,0.9554659,False,0.0044
+위치,No.3 Cooling Tower (UAC),No.3 Cooling Tower (UAC),No.3 Cooling Tower (UAC),1.0,True,No.3 Cooling Tower,0.95462537,False,0.0046
+위치,No.3 Flare,No.3 Flare,No.3 Flare,1.0,True,No.1 Flare,0.9556914,False,0.0041
+위치,No.3 Gas con,No.3 Gas con,No.3 Gas con,1.0,True,No.2 Gas con,0.95873225,False,0.0037
+위치,No.3 LBO 부대 시설,No.3 LBO 부대 시설,No.3 LBO 부대 시설,0.99999994,True,No.2 LBO 부대시설,0.95875156,False,0.004
+위치,No.3 LPG Merox,No.3 LPG Merox,No.3 LPG Merox,0.99999994,True,No.2 LPG Merox,0.97474116,False,0.0044
+위치,No.3 MDU,No.3 MDU,No.3 MDU,0.99999994,True,No.2 MDU,0.95906466,False,0.0041
+위치,No.3 PC(F),No.3 PC(F),No.3 PC(F),1.0,True,No.3 PC(P),0.98020446,False,0.0045
+위치,No.3 PC(P),No.3 PC(P),No.3 PC(P),0.9999999,True,No.3 PC(F),0.98020446,False,0.0036
+위치,No.3 PC(R),No.3 PC(R),No.3 PC(R),1.0,True,No.3 PC(P),0.9773207,False,0.0047
+위치,No.3 Para-Xylene,No.3 Para-Xylene,No.3 Para-Xylene,1.0000001,True,No.2 Para-Xylene,0.96838427,False,0.0044
+위치,No.3 Platforming,No.3 Platforming,No.3 Platforming,0.99999994,True,No.1 Platforming,0.9584246,False,0.0038
+위치,No.3 RTO,No.3 RTO,No.3 RTO,1.0,True,No.2 RTO,0.95935935,False,0.0041
+위치,No.3 S/B Merox,No.3 S/B Merox,No.3 S/B Merox,1.0,True,No.1 S/B Merox,0.97468317,False,0.004
+위치,No.3 SRP Common Facility,No.3 SRP Common Facility,No.3 SRP Common Facility,0.99999994,True,No.1 SRP Common Facility,0.9727996,False,0.0046
+위치,No.3 Sulfolane,No.3 Sulfolane,No.3 Sulfolane,0.99999994,True,No.1 Sulfolane,0.9606956,False,0.0043
+위치,No.3 Unifining,No.3 Unifining,No.3 Unifining,1.0,True,No.2 Unifining,0.9487954,False,0.004
+위치,No.3 VDU,No.3 VDU,No.3 VDU,1.0,True,No.2 VDU,0.9611697,False,0.0037
+위치,No.31 창고,No.31 창고,No.31 창고,1.0,True,No.61 창고,0.94780207,False,0.0046
+위치,No.4 CDU,No.4 CDU,No.4 CDU,0.9999999,True,No.5 CDU,0.9597662,False,0.0047
+위치,No.4 Cooling Tower,No.4 Cooling Tower,No.4 Cooling Tower,0.99999994,True,No.2 Cooling Tower,0.95384526,False,0.0042
+위치,No.4 Flare,No.4 Flare,No.4 Flare,1.0000001,True,No.1 Flare,0.95038843,False,0.004
+위치,No.4 Gas con,No.4 Gas con,No.4 Gas con,1.0,True,No.2 Gas con,0.9576834,False,0.0043
+위치,No.4 LPG Merox,No.4 LPG Merox,No.4 LPG Merox,1.0,True,No.2 LPG Merox,0.97346205,False,0.0039
+위치,No.4 MDU,No.4 MDU,No.4 MDU,0.9999998,True,No.4 VDU,0.9543344,False,0.0041
+위치,No.4 RTO,No.4 RTO,No.4 RTO,0.9999999,True,No.2 RTO,0.9575744,False,0.0047
+위치,No.4 S/B Merox,No.4 S/B Merox,No.4 S/B Merox,1.0000001,True,No.5 S/B Merox,0.9728061,False,0.004
+위치,No.4 SRP,No.4 SRP,No.4 SRP,1.0000001,True,No.6 SRP,0.946945,False,0.0041
+위치,No.4 VDU,No.4 VDU,No.4 VDU,1.0,True,No.2 VDU,0.95551896,False,0.0038
+위치,No.41 창고,No.41 창고,No.41 창고,1.0,True,No.54 창고,0.95189774,False,0.0045
+위치,No.5 CDU,No.5 CDU,No.5 CDU,0.9999998,True,No.4 CDU,0.95976603,False,0.004
+위치,No.5 CDU Cooling Tower,No.5 CDU Cooling Tower,No.5 CDU Cooling Tower,0.99999994,True,No.5 Cooling Tower,0.96604824,False,0.0046
+위치,No.5 Cooling Tower,No.5 Cooling Tower,No.5 Cooling Tower,1.0000001,True,No.5 CDU Cooling Tower,0.9660483,False,0.0043
+위치,No.5 Flare (CDU),No.5 Flare (CDU),No.5 Flare (CDU),1.0,True,No.1 Flare,0.9128171,False,0.0039
+위치,No.5 MDU,No.5 MDU,No.5 MDU,1.0,True,No.5 VDU,0.956084,False,0.0043
+위치,No.5 S/B Merox,No.5 S/B Merox,No.5 S/B Merox,1.0,True,No.1 S/B Merox,0.97671986,False,0.0036
+위치,No.5 Unifining(NRP),No.5 Unifining(NRP),No.5 Unifining(NRP),1.0,True,No.2 Unifining,0.90764433,False,0.0041
+위치,No.5 VDU,No.5 VDU,No.5 VDU,1.0,True,No.2 VDU,0.9576963,False,0.0045
+위치,No.5 창고,No.5 창고,No.5 창고,1.0000002,True,No.5-1 창고,0.9651589,False,0.004
+위치,No.5-1 창고,No.5-1 창고,No.5-1 창고,1.0,True,No.5 창고,0.9651588,False,0.0043
+위치,No.51 창고,No.51 창고,No.51 창고,1.0,True,No.52 창고,0.9658919,False,0.0049
+위치,No.52 창고,No.52 창고,No.52 창고,1.0,True,No.51 창고,0.9658919,False,0.0043
+위치,No.54 창고,No.54 창고,No.54 창고,1.0,True,No.52 창고,0.96252245,False,0.0039
+위치,No.6 Cooling Tower,No.6 Cooling Tower,No.6 Cooling Tower,1.0,True,No.7 Cooling Tower,0.9585135,False,0.0038
+위치,No.6 LPG Merox,No.6 LPG Merox,No.6 LPG Merox,1.0,True,No.2 LPG Merox,0.9755666,False,0.0039
+위치,No.6 MDU,No.6 MDU,No.6 MDU,1.0,True,No.2 MDU,0.9532139,False,0.0039
+위치,No.6 SGTU,No.6 SGTU,No.6 SGTU,1.0,True,SGTU,0.92968833,False,0.0044
+위치,No.6 SRP,No.6 SRP,No.6 SRP,1.0,True,No.4 SRP,0.9469452,False,0.0041
+위치,No.60 창고,No.60 창고,No.60 창고,1.0,True,No.61 창고,0.96524274,False,0.0046
+위치,No.61 창고,No.61 창고,No.61 창고,1.0,True,No.60 창고,0.96524274,False,0.0042
+위치,No.7 Cooling Tower,No.7 Cooling Tower,No.7 Cooling Tower,1.0,True,No.6 Cooling Tower,0.9585135,False,0.0039
+위치,No.7 Gas Con,No.7 Gas Con,No.7 Gas Con,1.0000001,True,No.1 Gas Con,0.96292484,False,0.0042
+위치,No.8 Cooling Tower,No.8 Cooling Tower,No.8 Cooling Tower,1.0,True,No.2 Cooling Tower,0.94939035,False,0.0043
+위치,No.81 창고,No.81 창고,No.81 창고,1.0000001,True,No.51 창고,0.9460755,False,0.0045
+위치,No.9 Cooling Tower,No.9 Cooling Tower,No.9 Cooling Tower,0.9999999,True,No.1 Cooling Tower,0.95535415,False,0.0044
+위치,Oilysludge unit,Oilysludge unit,Oilysludge unit,1.0,True,Biosludge unit,0.9398578,False,0.0044
+위치,P1-HDPE-1 S/S,P1-HDPE-1 S/S,P1-HDPE-1 S/S,0.99999994,True,P1-LLDPE-1 S/S,0.96825504,False,0.0038
+위치,P1-LLDPE-1 S/S,P1-LLDPE-1 S/S,P1-LLDPE-1 S/S,1.0,True,P1-HDPE-1 S/S,0.9682549,False,0.0038
+위치,P1-POL-1 S/S,P1-POL-1 S/S,P1-POL-1 S/S,1.0000001,True,P9-1PP-1 S/S,0.9427885,False,0.0045
+위치,P10-WWT-1 S/S,P10-WWT-1 S/S,P10-WWT-1 S/S,1.0,True,T10-1S/S,0.9255505,False,0.0039
+위치,P6-RW-1 S/S,P6-RW-1 S/S,P6-RW-1 S/S,1.0000001,True,N6-PW-1S/S,0.95259696,False,0.0038
+위치,P8-154 S/S,P8-154 S/S,P8-154 S/S,1.0,True,R8-PW-1S/S,0.9068214,False,0.0042
+위치,P8-AW-1 S/S,P8-AW-1 S/S,P8-AW-1 S/S,0.9999999,True,P8-AW-2 S/S,0.98267907,False,0.0044
+위치,P8-AW-2 S/S,P8-AW-2 S/S,P8-AW-2 S/S,1.0000001,True,P8-AW-1 S/S,0.98267907,False,0.0039
+위치,P9-1PP-1 S/S,P9-1PP-1 S/S,P9-1PP-1 S/S,0.99999994,True,P9-2PP-1 S/S,0.97937965,False,0.0043
+위치,P9-2PP-1 S/S,P9-2PP-1 S/S,P9-2PP-1 S/S,1.0,True,P9-1PP-1 S/S,0.97937965,False,0.0044
+위치,P9-EPDM-1 S/S,P9-EPDM-1 S/S,P9-EPDM-1 S/S,1.0,True,P9-2PP-1 S/S,0.9229126,False,0.0039
+위치,PCs배합/저장,PCs배합/저장,PCs배합/저장,0.99999994,True,PCs저장/ 출하,0.9529629,False,0.0047
+위치,PCs저장/ 출하,PCs저장/ 출하,PCs저장/ 출하,1.0,True,PCs배합/저장,0.95296293,False,0.0041
+위치,PCs출하-육상,PCs출하-육상,PCs출하-육상,1.0,True,아로마틱출하-육상,0.92516184,False,0.0046
+위치,PEPP 154KV,PEPP 154KV,PEPP 154KV,0.99999994,True,FCC 154KV,0.93911517,False,0.0045
+위치,PEPP Cooling Tower,PEPP Cooling Tower,PEPP Cooling Tower,1.0,True,NEP Cooling Tower,0.9556514,False,0.004
+위치,PEPP Flare STK,PEPP Flare STK,PEPP Flare STK,1.0000001,True,NEP Flare,0.9000368,False,0.0036
+위치,PEPP폐수처리시설,PEPP폐수처리시설,PEPP폐수처리시설,1.0,True,NEP 폐수처리시설,0.9412495,False,0.0046
+위치,PFU,PFU,PFU,1.0,True,PTU,0.92335093,False,0.0042
+위치,PIU,PIU,PIU,1.0,True,PFU,0.901004,False,0.0038
+위치,PMA 생산시설,PMA 생산시설,PMA 생산시설,1.0,True,EPDM생산시설,0.9016834,False,0.0044
+위치,PSA,PSA,PSA,1.0,True,PSA-1,0.93290895,False,0.0039
+위치,PSA-1,PSA-1,PSA-1,0.99999994,True,PSA-2,0.95786524,False,0.0041
+위치,PSA-2,PSA-2,PSA-2,1.0,True,PSA-1,0.95786524,False,0.0043
+위치,PTU,PTU,PTU,0.99999994,True,PFU,0.92335093,False,0.0045
+위치,PTUsludge unit,PTUsludge unit,PTUsludge unit,1.0,True,Biosludge unit,0.9423168,False,0.0039
+위치,PW-B101,PW-B101,PW-B101,0.99999994,True,PW-B102,0.9709624,False,0.0041
+위치,PW-B102,PW-B102,PW-B102,1.0,True,PW-B103,0.9798366,False,0.0046
+위치,PW-B103,PW-B103,PW-B103,1.0,True,PW-B102,0.9798367,False,0.004
+위치,PW-B104,PW-B104,PW-B104,1.0000001,True,PW-B103,0.97421277,False,0.0036
+위치,PW-B105,PW-B105,PW-B105,1.0,True,PW-B103,0.97548425,False,0.0044
+위치,PW-B201,PW-B201,PW-B201,0.99999994,True,PW-B202,0.9844772,False,0.0044
+위치,PW-B202,PW-B202,PW-B202,1.0,True,PW-B201,0.98447704,False,0.0045
+위치,PW-B203,PW-B203,PW-B203,1.0,True,PW-B202,0.9814589,False,0.0046
+위치,PW-B3501,PW-B3501,PW-B3501,1.0,True,PW-B3504,0.95923173,False,0.0038
+위치,PW-B3503,PW-B3503,PW-B3503,1.0,True,PW-B3501,0.9522228,False,0.0046
+위치,PW-B3504,PW-B3504,PW-B3504,1.0,True,PW-B3501,0.95923173,False,0.0045
+위치,PW-TG101,PW-TG101,PW-TG101,1.0,True,PW-TG102,0.9768491,False,0.0052
+위치,PW-TG102,PW-TG102,PW-TG102,1.0,True,PW-TG103,0.9845405,False,0.0039
+위치,PW-TG103,PW-TG103,PW-TG103,0.9999999,True,PW-TG102,0.9845405,False,0.0048
+위치,PW-TG201,PW-TG201,PW-TG201,0.9999999,True,PW-TG202,0.9860239,False,0.0042
+위치,PW-TG202,PW-TG202,PW-TG202,1.0000001,True,PW-TG201,0.986024,False,0.0047
+위치,PW-TG3501,PW-TG3501,PW-TG3501,1.0,True,PW-B3501,0.95914006,False,0.0041
+위치,Polymer물류,Polymer물류,Polymer물류,1.0,True,특수제품 저장/출하,0.82166207,False,0.0041
+위치,Primary C/F A,Primary C/F A,Primary C/F A,1.0,True,Primary C/F B,0.9668671,False,0.0037
+위치,Primary C/F B,Primary C/F B,Primary C/F B,0.99999994,True,Primary C/F A,0.966867,False,0.0042
+위치,R11-3 S/S,R11-3 S/S,R11-3 S/S,0.99999994,True,R11-LUB-1S/S,0.94275653,False,0.0045
+위치,R11-LUB-1S/S,R11-LUB-1S/S,R11-LUB-1S/S,1.0,True,R11-3 S/S,0.94275665,False,0.0041
+위치,R14-1 S/S,R14-1 S/S,R14-1 S/S,1.0,True,N14-1S/S,0.96159333,False,0.0046
+위치,R18-1 S/S,R18-1 S/S,R18-1 S/S,0.99999994,True,R19-1 S/S,0.9745907,False,0.0043
+위치,R19-1 S/S,R19-1 S/S,R19-1 S/S,1.0,True,R18-1 S/S,0.97459066,False,0.0044
+위치,R2-1 S/S,R2-1 S/S,R2-1 S/S,1.0,True,R6-1 S/S,0.9624618,False,0.0048
+위치,R20-PC-1S/S,R20-PC-1S/S,R20-PC-1S/S,0.99999994,True,R19-1 S/S,0.9275881,False,0.004
+위치,R21-NCC-1S/S,R21-NCC-1S/S,R21-NCC-1S/S,0.9999999,True,R21-NCC-2S/S,0.98678595,False,0.0041
+위치,R21-NCC-2S/S,R21-NCC-2S/S,R21-NCC-2S/S,0.9999999,True,R21-NCC-1S/S,0.9867862,False,0.0047
+위치,R22-1 S/S,R22-1 S/S,R22-1 S/S,0.99999994,True,R23-1 S/S,0.95852345,False,0.0045
+위치,R22-3 S/S,R22-3 S/S,R22-3 S/S,1.0,True,R28-2 S/S,0.9372535,False,0.0044
+위치,R23-1 S/S,R23-1 S/S,R23-1 S/S,1.0000001,True,R22-1 S/S,0.95852333,False,0.0042
+위치,R28-2 S/S,R28-2 S/S,R28-2 S/S,1.0,True,R22-3 S/S,0.9372534,False,0.0049
+위치,R3-2VRDS-1S/S,R3-2VRDS-1S/S,R3-2VRDS-1S/S,1.0,True,R36-1S/S,0.9286748,False,0.0042
+위치,R33-WP-1S/S,R33-WP-1S/S,R33-WP-1S/S,1.0000002,True,R33-WP-3S/S,0.98398304,False,0.0042
+위치,R33-WP-2S/S,R33-WP-2S/S,R33-WP-2S/S,1.0,True,R33-WP-3S/S,0.9808393,False,0.0039
+위치,R33-WP-3S/S,R33-WP-3S/S,R33-WP-3S/S,0.9999999,True,R33-WP-1S/S,0.9839831,False,0.0042
+위치,R35-7CT-1S/S,R35-7CT-1S/S,R35-7CT-1S/S,0.99999994,True,R65-1AL-1S/S,0.91525126,False,0.004
+위치,R36-1S/S,R36-1S/S,R36-1S/S,1.0,True,R6-1 S/S,0.9518283,False,0.0038
+위치,R41-PC-4S/S,R41-PC-4S/S,R41-PC-4S/S,0.99999994,True,R44-4CDU-1S/S,0.9299732,False,0.0039
+위치,R43-PW-1S/S,R43-PW-1S/S,R43-PW-1S/S,0.99999994,True,R43-PW-3S/S,0.9838114,False,0.0036
+위치,R43-PW-3S/S,R43-PW-3S/S,R43-PW-3S/S,1.0000001,True,R43-PW-1S/S,0.98381144,False,0.0045
+위치,R44-4CDU-1S/S,R44-4CDU-1S/S,R44-4CDU-1S/S,1.0000001,True,R53-4MDU-1S/S,0.94927704,False,0.0048
+위치,R4B-2WWT-1S/S,R4B-2WWT-1S/S,R4B-2WWT-1S/S,0.9999999,True,R51-1WWT-1S/S,0.92497754,False,0.0041
+위치,R51-1WWT-1S/S,R51-1WWT-1S/S,R51-1WWT-1S/S,0.99999994,True,R53-PW-1S/S,0.94372684,False,0.0042
+위치,R52-3CDU-1S/S,R52-3CDU-1S/S,R52-3CDU-1S/S,1.0,True,R53-4MDU-1S/S,0.98183954,False,0.0047
+위치,R52-6MDU-1S/S,R52-6MDU-1S/S,R52-6MDU-1S/S,1.0,True,R53-4MDU-1S/S,0.94434154,False,0.0046
+위치,R53-4MDU-1S/S,R53-4MDU-1S/S,R53-4MDU-1S/S,1.0000001,True,R52-3CDU-1S/S,0.98183966,False,0.0041
+위치,R53-PW-1S/S,R53-PW-1S/S,R53-PW-1S/S,1.0,True,R53-PW-3S/S,0.98540294,False,0.0043
+위치,R53-PW-2S/S,R53-PW-2S/S,R53-PW-2S/S,1.0000001,True,R53-PW-1S/S,0.9845295,False,0.004
+위치,R53-PW-3S/S,R53-PW-3S/S,R53-PW-3S/S,1.0,True,R53-PW-1S/S,0.9854028,False,0.0046
+위치,R53-PW-4S/S,R53-PW-4S/S,R53-PW-4S/S,1.0,True,R53-PW-1S/S,0.9847079,False,0.0048
+위치,R54-2HP-1S/S,R54-2HP-1S/S,R54-2HP-1S/S,1.0000002,True,R53-PW-1S/S,0.9395745,False,0.0038
+위치,R6-1 S/S,R6-1 S/S,R6-1 S/S,1.0,True,R2-1 S/S,0.9624618,False,0.0041
+위치,R63-1S/S,R63-1S/S,R63-1S/S,1.0,True,R63-2S/S,0.9819568,False,0.004
+위치,R63-2S/S,R63-2S/S,R63-2S/S,1.0,True,R63-1S/S,0.9819567,False,0.0041
+위치,R64-1RC-1S/S,R64-1RC-1S/S,R64-1RC-1S/S,1.0,True,R64-5CDU-1S/S,0.9494838,False,0.0044
+위치,R64-5CDU-1S/S,R64-5CDU-1S/S,R64-5CDU-1S/S,1.0,True,R53-4MDU-1S/S,0.9527742,False,0.004
+위치,R65-1AL-1S/S,R65-1AL-1S/S,R65-1AL-1S/S,1.0000001,True,R66-1 S/S,0.94333655,False,0.0042
+위치,R66-1 S/S,R66-1 S/S,R66-1 S/S,1.0,True,R6-1 S/S,0.95248854,False,0.0046
+위치,R7-1 S/S,R7-1 S/S,R7-1 S/S,0.9999999,True,R7-2 S/S,0.96133566,False,0.0048
+위치,R7-2 S/S,R7-2 S/S,R7-2 S/S,1.0,True,R7-1 S/S,0.9613354,False,0.0046
+위치,R7-2CDU-1S/S,R7-2CDU-1S/S,R7-2CDU-1S/S,1.0,True,R7-2 S/S,0.94621575,False,0.0039
+위치,R8-PW-1S/S,R8-PW-1S/S,R8-PW-1S/S,1.0,True,P8-AW-1 S/S,0.9455958,False,0.0043
+위치,RFCC,RFCC,RFCC,1.0,True,No.1 RFCC,0.94131666,False,0.0042
+위치,SDA,SDA,SDA,0.9999998,True,THDA,0.8888284,False,0.0041
+위치,SGTU,SGTU,SGTU,1.0,True,TGTU,0.9391333,False,0.0044
+위치,SHP,SHP,SHP,1.0000001,True,No.6 SRP,0.8625295,False,0.0043
+위치,SK 에너지 공통,SK 에너지 공통,SK 에너지 공통,1.0,True,SK 종합화학,0.9000326,False,0.0039
+위치,SK 종합화학,SK 종합화학,SK 종합화학,1.0000001,True,SK 에너지 공통,0.90003264,False,0.0041
+위치,SRU,SRU,SRU,0.99999994,True,SRU A-Train,0.8986064,False,0.0039
+위치,SRU A-Train,SRU A-Train,SRU A-Train,1.0,True,SRU B-Train,0.9647595,False,0.0051
+위치,SRU B-Train,SRU B-Train,SRU B-Train,1.0,True,SRU A-Train,0.9647595,False,0.0041
+위치,SRU 부대시설,SRU 부대시설,SRU 부대시설,1.0000001,True,ARU 부대시설,0.940799,False,0.0043
+위치,SWTU,SWTU,SWTU,1.0000001,True,SWTU A-Train,0.90807605,False,0.0044
+위치,SWTU A-Train,SWTU A-Train,SWTU A-Train,1.0,True,SWTU B-Train,0.96628046,False,0.0045
+위치,SWTU B-Train,SWTU B-Train,SWTU B-Train,1.0,True,SWTU A-Train,0.9662805,False,0.0034
+위치,Sand Filter tr.1,Sand Filter tr.1,Sand Filter tr.1,1.0,True,Sand Filter tr.2,0.9806694,False,0.004
+위치,Sand Filter tr.2,Sand Filter tr.2,Sand Filter tr.2,1.0000001,True,Sand Filter tr.1,0.9806696,False,0.0057
+위치,Sand filter unit,Sand filter unit,Sand filter unit,1.0,True,Sand Filter tr.1,0.9201063,False,0.0038
+위치,T-5 기유,T-5 기유,T-5 기유,0.99999994,True,T-5 화학 (올레핀),0.9056014,False,0.0041
+위치,T-5 화학 (ARO/SM임가공),T-5 화학 (ARO/SM임가공),T-5 화학 (ARO/SM임가공),1.0000002,True,T-5 화학 (올레핀),0.94874436,False,0.0044
+위치,T-5 화학 (올레핀),T-5 화학 (올레핀),T-5 화학 (올레핀),0.99999994,True,T-5 화학 (ARO/SM임가공),0.94874465,False,0.0043
+위치,T1-1S/S,T1-1S/S,T1-1S/S,1.0,True,T10-1S/S,0.963822,False,0.0041
+위치,T10-1S/S,T10-1S/S,T10-1S/S,1.0,True,T1-1S/S,0.96382207,False,0.0045
+위치,T6-2S/S,T6-2S/S,T6-2S/S,0.9999999,True,T1-1S/S,0.9291945,False,0.0045
+위치,TGTU,TGTU,TGTU,0.99999994,True,SGTU,0.93913317,False,0.0043
+위치,TGTU A-Train,TGTU A-Train,TGTU A-Train,1.0,True,TGTU B-Train,0.9626577,False,0.0047
+위치,TGTU B-Train,TGTU B-Train,TGTU B-Train,1.0000001,True,TGTU A-Train,0.9626577,False,0.0038
+위치,TGTU Common Facility,TGTU Common Facility,TGTU Common Facility,0.99999994,True,ARU Common Facility,0.9064946,False,0.004
+위치,TGTU 부대시설,TGTU 부대시설,TGTU 부대시설,1.0,True,HHT 부대시설,0.90574455,False,0.004
+위치,THDA,THDA,THDA,1.0,True,SDA,0.88882816,False,0.0043
+위치,U8-UACCB-3S/S,U8-UACCB-3S/S,U8-UACCB-3S/S,0.9999999,True,U9-UACFWP-1S/S,0.9177421,False,0.0043
+위치,U9-UACFWP-1S/S,U9-UACFWP-1S/S,U9-UACFWP-1S/S,1.0,True,N9-PW-1S/S,0.9245944,False,0.0044
+위치,UC,UC,UC,1.0,True,BC,0.865957,False,0.0045
+위치,UT-B5301A/B/C/D,UT-B5301A/B/C/D,UT-B5301A/B/C/D,1.0,True,R52-3CDU-1S/S,0.88221705,False,0.0055
+위치,VRDS,VRDS,VRDS,1.0000001,True,No.2 VRDS,0.9340875,False,0.0038
+위치,WAO Section,WAO Section,WAO Section,1.0,True,NEU Section,0.90467554,False,0.0043
+위치,WGS,WGS,WGS,1.0,True,GRS,0.8375612,False,0.0044
+위치,XFU,XFU,XFU,1.0,True,PFU,0.92186904,False,0.0039
+위치,Y-T4811A/B,Y-T4811A/B,Y-T4811A/B,0.99999994,True,UT-B5301A/B/C/D,0.87883043,False,0.0043
+위치,건물/차량/보안/전자 시설,건물/차량/보안/전자 시설,건물/차량/보안/전자 시설,1.0,True,부대 시설,0.86783546,False,0.0041
+위치,공기 공급시설,공기 공급시설,공기 공급시설,1.0,True,연료 공급시설,0.91390324,False,0.0044
+위치,공통 배관,공통 배관,공통 배관,1.0,True,공통 시설,0.9120188,False,0.0039
+위치,공통 시설,공통 시설,공통 시설,1.0000001,True,공통 전기 설비,0.9182947,False,0.0043
+위치,공통 전기 설비,공통 전기 설비,공통 전기 설비,0.99999994,True,공통 시설,0.91829467,False,0.0043
+위치,기유제품 출하-내항,기유제품 출하-내항,기유제품 출하-내항,1.0,True,석유저장/출하-내항,0.9056786,False,0.0042
+위치,기타변전소,기타변전소,기타변전소,0.9999999,True,공통 전기 설비,0.86569524,False,0.0043
+위치,부대 시설,부대 시설,부대 시설,1.0,True,FCC부대시설,0.90052134,False,0.0041
+위치,석유저장/출하-내항,석유저장/출하-내항,석유저장/출하-내항,1.0,True,석유저장/출하-외항,0.9780425,False,0.0045
+위치,석유저장/출하-외항,석유저장/출하-외항,석유저장/출하-외항,1.0,True,석유저장/출하-내항,0.9780425,False,0.0044
+위치,석유제품배합/저장,석유제품배합/저장,석유제품배합/저장,0.99999994,True,석유제품출하/육상,0.9226396,False,0.0044
+위치,석유제품출하-LDP,석유제품출하-LDP,석유제품출하-LDP,0.99999994,True,석유제품출하/육상,0.9310642,False,0.0041
+위치,석유제품출하/육상,석유제품출하/육상,석유제품출하/육상,1.0000001,True,석유제품출하-LDP,0.9310641,False,0.005
+위치,아로마틱저장/출하,아로마틱저장/출하,아로마틱저장/출하,1.0,True,아로마틱출하-육상,0.9330804,False,0.0041
+위치,아로마틱출하-육상,아로마틱출하-육상,아로마틱출하-육상,1.0,True,아로마틱저장/출하,0.9330802,False,0.0042
+위치,연료 공급시설,연료 공급시설,연료 공급시설,1.0,True,FCC 연료공급시설,0.9254443,False,0.0041
+위치,올레핀저장/ 출하,올레핀저장/ 출하,올레핀저장/ 출하,1.0,True,PCs저장/ 출하,0.9288298,False,0.0041
+위치,용수 공급시설,용수 공급시설,용수 공급시설,1.0,True,연료 공급시설,0.9104421,False,0.0044
+위치,원유저장시설,원유저장시설,원유저장시설,1.0,True,원유하역/방재시설,0.9128941,False,0.0036
+위치,원유하역/방재시설,원유하역/방재시설,원유하역/방재시설,1.0,True,원유저장시설,0.91289395,False,0.0041
+위치,윤활유,윤활유,윤활유,1.0,True,석유제품출하/육상,0.81663954,False,0.0044
+위치,제1수관리센터,제1수관리센터,제1수관리센터,1.0,True,제2수관리센터,0.96325356,False,0.0043
+위치,제1안전시설 (SKE),제1안전시설 (SKE),제1안전시설 (SKE),1.0000001,True,제1안전시설 (SKGC),0.95394784,False,0.0042
+위치,제1안전시설 (SKGC),제1안전시설 (SKGC),제1안전시설 (SKGC),1.0,True,제1안전시설 (SKE),0.95394796,False,0.0043
+위치,제2수관리센터,제2수관리센터,제2수관리센터,1.0,True,제1수관리센터,0.9632536,False,0.004
+위치,종합용수 RO 시설,종합용수 RO 시설,종합용수 RO 시설,0.9999998,True,종합용수 순수시설,0.9371032,False,0.0043
+위치,종합용수 비상발전기,종합용수 비상발전기,종합용수 비상발전기,0.99999994,True,8BL 비상발전기,0.89696413,False,0.0045
+위치,종합용수 순수시설,종합용수 순수시설,종합용수 순수시설,0.9999999,True,종합용수 정수시설,0.9555283,False,0.0047
+위치,종합용수 정수시설,종합용수 정수시설,종합용수 정수시설,1.0,True,종합용수 순수시설,0.9555285,False,0.0043
+위치,종합질소제조시설,종합질소제조시설,종합질소제조시설,0.9999999,True,종합용수 정수시설,0.9038811,False,0.0038
+위치,종합흡수정,종합흡수정,종합흡수정,0.99999994,True,종합용수 정수시설,0.8848144,False,0.0043
+위치,특수제품 저장/출하,특수제품 저장/출하,특수제품 저장/출하,0.99999994,True,특수제품 출하-육상,0.9279471,False,0.0044
+위치,특수제품 출하-육상,특수제품 출하-육상,특수제품 출하-육상,1.0,True,특수제품 저장/출하,0.9279472,False,0.004
+위치,폐수처리,폐수처리,폐수처리,1.0,True,NEP 폐수처리시설,0.9053734,False,0.0045
+위치,합성수지 안전시설,합성수지 안전시설,합성수지 안전시설,1.0,True,합성수지 저장/출하,0.9069893,False,0.0047
+위치,합성수지 저장/출하,합성수지 저장/출하,합성수지 저장/출하,1.0,True,합성수지 포장,0.91431046,False,0.0042
+위치,합성수지 포장,합성수지 포장,합성수지 포장,1.0,True,합성수지 저장/출하,0.9143106,False,0.0038
+위치,휘발유 배합/첨가제,휘발유 배합/첨가제,휘발유 배합/첨가제,1.0000001,True,석유제품배합/저장,0.8827009,False,0.0044
+현상코드,설비에 'SHE' 현상이 발생했습니다.,SHE,SHE,0.8596502,True,사고.이상,0.8594133,False,0.0044
+현상코드,설비에 '검사/진단' 현상이 발생했습니다.,검사/진단,검사/진단,0.9107599,True,예방 점검/정비,0.8832711,False,0.0039
+현상코드,설비에 '고장.결함.수명소진' 현상이 발생했습니다.,고장.결함.수명소진,고장.결함.수명소진,0.93058753,True,설비개선,0.87502325,False,0.0038
+현상코드,설비에 '기타' 현상이 발생했습니다.,기타,사고.이상,0.8667444,False,설비개선,0.8643682,False,0.0036
+현상코드,설비에 '법규' 현상이 발생했습니다.,법규,법규,0.88737535,True,설비개선,0.8678813,False,0.0035
+현상코드,설비에 '사고.이상' 현상이 발생했습니다.,사고.이상,사고.이상,0.93434596,True,운전 Condition 이상,0.88317657,False,0.0042
+현상코드,설비에 '설비개선' 현상이 발생했습니다.,설비개선,설비개선,0.9283282,True,예방 점검/정비,0.8591142,False,0.0039
+현상코드,설비에 '예방 점검/정비' 현상이 발생했습니다.,예방 점검/정비,예방 점검/정비,0.92034996,True,설비개선,0.88600665,False,0.0046
+현상코드,설비에 '예지정비' 현상이 발생했습니다.,예지정비,예지정비,0.8973892,True,설비개선,0.8843691,False,0.0038
+현상코드,설비에 '운전 Condition 이상' 현상이 발생했습니다.,운전 Condition 이상,운전 Condition 이상,0.9298204,True,사고.이상,0.88790685,False,0.004
+현상코드,설비에 '정기/임시 보수' 현상이 발생했습니다.,정기/임시 보수,정기/임시 보수,0.9042801,True,설비개선,0.8746136,False,0.0033
+현상코드,설비에 '주기적 점검/정비' 현상이 발생했습니다.,주기적 점검/정비,주기적 점검/정비,0.9377946,True,예방 점검/정비,0.9009183,False,0.0039

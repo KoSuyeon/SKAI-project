@@ -1,0 +1,2120 @@
+﻿label,input,true_name
+설비유형,[AGAB] 가스 탐지기/ 수소 포함,[AGAB]Gas Detector/ Hydrocarbon (H2 포함)
+설비유형,AGAB 가스 탐지기,[AGAB]Gas Detector/ Hydrocarbon (H2 포함)
+설비유형,수소 포함 가스 탐지기,[AGAB]Gas Detector/ Hydrocarbon (H2 포함)
+설비유형,가스 탐지기 AGAB,[AGAB]Gas Detector/ Hydrocarbon (H2 포함)
+설비유형,AGAB 하이드로카본 가스 탐지기,[AGAB]Gas Detector/ Hydrocarbon (H2 포함)
+설비유형,"AGAO 가스 탐지기 O2, VOC","[AGAO]Gas Detector/ Others (대상 : O2, VOC)"
+설비유형,"가스 검출기 O2, VOC (AGAO)","[AGAO]Gas Detector/ Others (대상 : O2, VOC)"
+설비유형,"AGAO 가스 감지기 O2, VOC","[AGAO]Gas Detector/ Others (대상 : O2, VOC)"
+설비유형,"O2, VOC 탐지기 AGAO","[AGAO]Gas Detector/ Others (대상 : O2, VOC)"
+설비유형,"AGAO 가스 센서 O2, VOC","[AGAO]Gas Detector/ Others (대상 : O2, VOC)"
+설비유형,가스탐지기,"[AGAS]Gas Detector/ Toxic gases (대상 : H2S, CO, SO2, NH3)"
+설비유형,유독가스 탐지기,"[AGAS]Gas Detector/ Toxic gases (대상 : H2S, CO, SO2, NH3)"
+설비유형,[AGAS] 가스 탐지기,"[AGAS]Gas Detector/ Toxic gases (대상 : H2S, CO, SO2, NH3)"
+설비유형,"H2S, CO, SO2, NH3 가스 탐지기","[AGAS]Gas Detector/ Toxic gases (대상 : H2S, CO, SO2, NH3)"
+설비유형,유독가스 센서,"[AGAS]Gas Detector/ Toxic gases (대상 : H2S, CO, SO2, NH3)"
+설비유형,ANAA Analyzer,[ANAA]Analyzer/ Analyzer
+설비유형,분석기 ANAA,[ANAA]Analyzer/ Analyzer
+설비유형,ANAA 분석기,[ANAA]Analyzer/ Analyzer
+설비유형,ANAA,[ANAA]Analyzer/ Analyzer
+설비유형,ANAA 분석 장비,[ANAA]Analyzer/ Analyzer
+설비유형,ANAC Leak Detection System,[ANAC]Analyzer/ Chemical Leak Detection System
+설비유형,ANAC 화학 유출 감지 시스템,[ANAC]Analyzer/ Chemical Leak Detection System
+설비유형,ANAC 분석기/화학 유출 감지 시스템,[ANAC]Analyzer/ Chemical Leak Detection System
+설비유형,ANAC Analyzer,[ANAC]Analyzer/ Chemical Leak Detection System
+설비유형,ANAC 악취/유출 감지기,[ANAC]Analyzer/ Chemical Leak Detection System
+설비유형,house package 분석기,[ANAH]Analyzer/ Analyzer House Package
+설비유형,아날라이저 하우스 패키지,[ANAH]Analyzer/ Analyzer House Package
+설비유형,ANAH 분석장비 하우스 패키지,[ANAH]Analyzer/ Analyzer House Package
+설비유형,[ANAH] 분석기 패키지,[ANAH]Analyzer/ Analyzer House Package
+설비유형,오도어 모니터링 시스템,[ANAO]Analyzer/ Odor Monitoring System
+설비유형,ANAO 오도어 분석기,[ANAO]Analyzer/ Odor Monitoring System
+설비유형,냄새 모니터링 장비,[ANAO]Analyzer/ Odor Monitoring System
+설비유형,ANAO 오도어 분석 시스템,[ANAO]Analyzer/ Odor Monitoring System
+설비유형,오도어 분석기,[ANAO]Analyzer/ Odor Monitoring System
+설비유형,ANAV Analyzer 클로즈드 샘플 시스템,[ANAV]Analyzer/ Closed Sample System
+설비유형,클로즈드 샘플 시스템 ANAV,[ANAV]Analyzer/ Closed Sample System
+설비유형,ANAV 클로즈드 샘플 시스템,[ANAV]Analyzer/ Closed Sample System
+설비유형,ANAV 샘플 분석기,[ANAV]Analyzer/ Closed Sample System
+설비유형,클로즈드 샘플 ANAV,[ANAV]Analyzer/ Closed Sample System
+설비유형,대기 TMS 분석기,[ANCE]Analyzer/ 대기 TMS
+설비유형,대기 TMS 분석장비,[ANCE]Analyzer/ 대기 TMS
+설비유형,대기 TMS 분석기기,[ANCE]Analyzer/ 대기 TMS
+설비유형,대기 TMS 분석장치,[ANCE]Analyzer/ 대기 TMS
+설비유형,대기 TMS 애널라이저,[ANCE]Analyzer/ 대기 TMS
+설비유형,수질 분석기,[ANWE]Analyzer/ 수질 TMS
+설비유형,[ANWE] 수질 분석기,[ANWE]Analyzer/ 수질 TMS
+설비유형,수질 TMS,[ANWE]Analyzer/ 수질 TMS
+설비유형,[ANWE]Analyzer TMS,[ANWE]Analyzer/ 수질 TMS
+설비유형,수질 분석기 TMS,[ANWE]Analyzer/ 수질 TMS
+설비유형,APAP 설비,[APAP]APH/ APH
+설비유형,APH 장비,[APAP]APH/ APH
+설비유형,APAP APH 시스템,[APAP]APH/ APH
+설비유형,APAP APH 설비,[APAP]APH/ APH
+설비유형,APAP/APH 장비,[APAP]APH/ APH
+설비유형,BBBD 부이,[BBBD]Buoy/ Buoy
+설비유형,BBBD 부유물,[BBBD]Buoy/ Buoy
+설비유형,"부이, BBBD",[BBBD]Buoy/ Buoy
+설비유형,BBBD 부이장치,[BBBD]Buoy/ Buoy
+설비유형,BBBD 부이보이,[BBBD]Buoy/ Buoy
+설비유형,BBFH 부이/ 부유 호스,[BBFH]Buoy/ Floating Hose
+설비유형,부유 호스 시스템,[BBFH]Buoy/ Floating Hose
+설비유형,BBFH 부이 호스,[BBFH]Buoy/ Floating Hose
+설비유형,부유 호스 장비,[BBFH]Buoy/ Floating Hose
+설비유형,부이 부유 호스,[BBFH]Buoy/ Floating Hose
+설비유형,BBMO 부이/계선 설정,[BBMO]Buoy/ Mooring
+설비유형,부이/모어링 장치,[BBMO]Buoy/ Mooring
+설비유형,부이/계선 시스템,[BBMO]Buoy/ Mooring
+설비유형,부이와 모어링 장비,[BBMO]Buoy/ Mooring
+설비유형,부이 모어링 설비,[BBMO]Buoy/ Mooring
+설비유형,부이 호스,[BBSH]Buoy/ Submarine Hose
+설비유형,잠수 호스,[BBSH]Buoy/ Submarine Hose
+설비유형,BBSH 부이 호스,[BBSH]Buoy/ Submarine Hose
+설비유형,BBSH 잠수 호스,[BBSH]Buoy/ Submarine Hose
+설비유형,BBSH 부이/잠수 호스,[BBSH]Buoy/ Submarine Hose
+설비유형,블로워/팬/센트리퓰,[BLCE]Blower/Fan/ Centrifual
+설비유형,센트리 퓨얼 블로워,[BLCE]Blower/Fan/ Centrifual
+설비유형,BLCE 블로워,[BLCE]Blower/Fan/ Centrifual
+설비유형,공기 순환기 센트리 퓨얼,[BLCE]Blower/Fan/ Centrifual
+설비유형,센트리 퓨얼 기기,[BLCE]Blower/Fan/ Centrifual
+설비유형,케이블 그라운드 시스템,[CAGD]Cable/ Ground System
+설비유형,CAGD 케이블 시스템,[CAGD]Cable/ Ground System
+설비유형,케이블 그라운드,[CAGD]Cable/ Ground System
+설비유형,CAGD 시스템,[CAGD]Cable/ Ground System
+설비유형,케이블 그라운드 설비,[CAGD]Cable/ Ground System
+설비유형,CAHV 케이블,[CAHV]Cable/ High Voltage Cable
+설비유형,고압 케이블,[CAHV]Cable/ High Voltage Cable
+설비유형,HAV 케이블,[CAHV]Cable/ High Voltage Cable
+설비유형,고압 전선,[CAHV]Cable/ High Voltage Cable
+설비유형,CAHV 고압 케이블,[CAHV]Cable/ High Voltage Cable
+설비유형,내연기관/레시프로케이팅 엔진,[CBRE]Combustion Engine/ Reciprocating
+설비유형,CBRE 엔진,[CBRE]Combustion Engine/ Reciprocating
+설비유형,레시프로케이팅 엔진,[CBRE]Combustion Engine/ Reciprocating
+설비유형,레시프로 엔진,[CBRE]Combustion Engine/ Reciprocating
+설비유형,CBRE 내연기관,[CBRE]Combustion Engine/ Reciprocating
+설비유형,CFBD,[CFBD]Common Facility / Building
+설비유형,공용시설/건물,[CFBD]Common Facility / Building
+설비유형,CFBD 시설,[CFBD]Common Facility / Building
+설비유형,공용시설/건물 유형,[CFBD]Common Facility / Building
+설비유형,CFBD공용시설,[CFBD]Common Facility / Building
+설비유형,공용 시설 차량 (CFCR),[CFCR]Common Facility / Car
+설비유형,공용 시설 캐리어,[CFCR]Common Facility / Car
+설비유형,CFCR 공용 시설 차량,[CFCR]Common Facility / Car
+설비유형,공용 차량 (CFCR),[CFCR]Common Facility / Car
+설비유형,공차 CFCR,[CFCR]Common Facility / Car
+설비유형,CFMC 공용시설,[CFMC]Common Facility/ 변전소
+설비유형,공용 변전소,[CFMC]Common Facility/ 변전소
+설비유형,CFMC 변전소,[CFMC]Common Facility/ 변전소
+설비유형,공용 시설,[CFMC]Common Facility/ 변전소
+설비유형,공용변전소,[CFMC]Common Facility/ 변전소
+설비유형,CLCT 컨트롤 유닛,[CLCT]Control Logic Unit/ Pneumatic/Electric controller
+설비유형,공기압/전기 컨트롤러,[CLCT]Control Logic Unit/ Pneumatic/Electric controller
+설비유형,CLCT 펌프 컨트롤러,[CLCT]Control Logic Unit/ Pneumatic/Electric controller
+설비유형,공기압 전기 컨트롤러,[CLCT]Control Logic Unit/ Pneumatic/Electric controller
+설비유형,CLCT 공기압 전기 컨트롤러,[CLCT]Control Logic Unit/ Pneumatic/Electric controller
+설비유형,CLDC Controller,[CLDC]Control Logic Unit/ Distributed control system
+설비유형,제어 논리 단위 시스템,[CLDC]Control Logic Unit/ Distributed control system
+설비유형,분산 제어 시스템,[CLDC]Control Logic Unit/ Distributed control system
+설비유형,Control Logic Unit,[CLDC]Control Logic Unit/ Distributed control system
+설비유형,제어 로직 단위,[CLDC]Control Logic Unit/ Distributed control system
+설비유형,CLHM 컨트롤 로직 유닛,[CLHM]Control Logic Unit/ Human machine interface
+설비유형,인터페이스 유닛,[CLHM]Control Logic Unit/ Human machine interface
+설비유형,유저 인터페이스 장비,[CLHM]Control Logic Unit/ Human machine interface
+설비유형,CLHM HMI,[CLHM]Control Logic Unit/ Human machine interface
+설비유형,기기 제어 인터페이스,[CLHM]Control Logic Unit/ Human machine interface
+설비유형,기기 제어 패널,[CLIP]Control Logic Unit/ Instrument panel
+설비유형,CLIP 제어 로직 유닛,[CLIP]Control Logic Unit/ Instrument panel
+설비유형,제어 로직 패널,[CLIP]Control Logic Unit/ Instrument panel
+설비유형,기기 제어 로직 유닛,[CLIP]Control Logic Unit/ Instrument panel
+설비유형,CLIP기기제어패널,[CLIP]Control Logic Unit/ Instrument panel
+설비유형,CLPT,[CLPT]Control Logic Unit/ PLC/TMR
+설비유형,제어 논리 유닛,[CLPT]Control Logic Unit/ PLC/TMR
+설비유형,PLC/TMR,[CLPT]Control Logic Unit/ PLC/TMR
+설비유형,컨트롤 로직 유닛,[CLPT]Control Logic Unit/ PLC/TMR
+설비유형,PLC/TMR 제어기,[CLPT]Control Logic Unit/ PLC/TMR
+설비유형,센트리피탈 압축기,[COCE]Compressor/ Centrifugal
+설비유형,COCE 압축기,[COCE]Compressor/ Centrifugal
+설비유형,원심 압축기,[COCE]Compressor/ Centrifugal
+설비유형,센트리피탈 컴프레서,[COCE]Compressor/ Centrifugal
+설비유형,COCE 센트리피탈,[COCE]Compressor/ Centrifugal
+설비유형,COPD 압축기,[CODP]Compressor/ Displacement
+설비유형,COPD 디스플레이스먼트,[CODP]Compressor/ Displacement
+설비유형,콤프레서 디스플레이스먼트,[CODP]Compressor/ Displacement
+설비유형,COPD 압축기/디스플레이스먼트,[CODP]Compressor/ Displacement
+설비유형,COPD 압축 디스플레이스먼트,[CODP]Compressor/ Displacement
+설비유형,서류식 압축기,[CORE]Compressor/ Reciprocating
+설비유형,레시프로케이팅 컴프레서,[CORE]Compressor/ Reciprocating
+설비유형,레시프로 압축기,[CORE]Compressor/ Reciprocating
+설비유형,CORE 레시프로 압축기,[CORE]Compressor/ Reciprocating
+설비유형,압축기 레시프로케이팅,[CORE]Compressor/ Reciprocating
+설비유형,CSAC 콘솔,[CSAC]Console / Auxiliary Console
+설비유형,콘솔 / 보조 콘솔,[CSAC]Console / Auxiliary Console
+설비유형,CSAC 설정기,[CSAC]Console / Auxiliary Console
+설비유형,컨트롤 콘솔,[CSAC]Console / Auxiliary Console
+설비유형,CSAC 보조 콘솔,[CSAC]Console / Auxiliary Console
+설비유형,[EGCE] 전기 발전기 / 원심식,[EGCE]Electric Generator/ Centrifugal
+설비유형,EGCE 발전기,[EGCE]Electric Generator/ Centrifugal
+설비유형,전기 발전기 원심식,[EGCE]Electric Generator/ Centrifugal
+설비유형,EGCE 전용 발전기,[EGCE]Electric Generator/ Centrifugal
+설비유형,원심식 전기 발전기,[EGCE]Electric Generator/ Centrifugal
+설비유형,전기 히터,[EHEH]Electric Heater/ Electric Heater
+설비유형,전열기,[EHEH]Electric Heater/ Electric Heater
+설비유형,전기 난방기,[EHEH]Electric Heater/ Electric Heater
+설비유형,전자 히터,[EHEH]Electric Heater/ Electric Heater
+설비유형,EHEH 전기 히터,[EHEH]Electric Heater/ Electric Heater
+설비유형,전기 히터,[EHET]Electric Heater/ Electric Heat Tracing
+설비유형,전열 트레이싱,[EHET]Electric Heater/ Electric Heat Tracing
+설비유형,전기 히팅,[EHET]Electric Heater/ Electric Heat Tracing
+설비유형,전기 열선,[EHET]Electric Heater/ Electric Heat Tracing
+설비유형,EHET 히터,[EHET]Electric Heater/ Electric Heat Tracing
+설비유형,엘리베이터,[ELEL]Elevator/ Elevator
+설비유형,승강기,[ELEL]Elevator/ Elevator
+설비유형,엘레베이터,[ELEL]Elevator/ Elevator
+설비유형,[ELEL]엘리베이터,[ELEL]Elevator/ Elevator
+설비유형,엘리베이터 장비,[ELEL]Elevator/ Elevator
+설비유형,익스트루더 디스플레이스먼트,[EXDP]Extruder/ Displacement
+설비유형,익스트루더/디스플,[EXDP]Extruder/ Displacement
+설비유형,EXDP 장비,[EXDP]Extruder/ Displacement
+설비유형,디스플레이스먼트 익스트루더,[EXDP]Extruder/ Displacement
+설비유형,익스트루더 디스플레이싱 시스템,[EXDP]Extruder/ Displacement
+설비유형,센트리펄 팬,[FACE]Fan/ Centrifugal
+설비유형,원심풍기,[FACE]Fan/ Centrifugal
+설비유형,축전풍기,[FACE]Fan/ Centrifugal
+설비유형,원심 팬,[FACE]Fan/ Centrifugal
+설비유형,FACE 팬,[FACE]Fan/ Centrifugal
+설비유형,GBCE 기어박스,[GBCE]Gear Box/ Centrifugal
+설비유형,중심분리기어박스,[GBCE]Gear Box/ Centrifugal
+설비유형,GBCE 센트리피금,[GBCE]Gear Box/ Centrifugal
+설비유형,기어박스 센트리피,[GBCE]Gear Box/ Centrifugal
+설비유형,GBCE 기어 센트리피,[GBCE]Gear Box/ Centrifugal
+설비유형,GVGV,[GVGV]Guided Vehicle/ Guided Vehicle
+설비유형,유도차,[GVGV]Guided Vehicle/ Guided Vehicle
+설비유형,AGV (Automated Guided Vehicle),[GVGV]Guided Vehicle/ Guided Vehicle
+설비유형,유도차량,[GVGV]Guided Vehicle/ Guided Vehicle
+설비유형,GV (Guided Vehicle),[GVGV]Guided Vehicle/ Guided Vehicle
+설비유형,HBBO 화로 장비/ 보일러,[HBBO]Fired Equipment/ Boiler
+설비유형,HBBO 불타는 장비/ 보일러,[HBBO]Fired Equipment/ Boiler
+설비유형,HBBO 화로 보일러 장비,[HBBO]Fired Equipment/ Boiler
+설비유형,HBBO 보일러/ 화로 장비,[HBBO]Fired Equipment/ Boiler
+설비유형,HBBO 보일러/ 불타는 장비,[HBBO]Fired Equipment/ Boiler
+설비유형,HBBR 연소 장비,[HBBR]Fired Equipment/ Burner
+설비유형,HBBR 버너,[HBBR]Fired Equipment/ Burner
+설비유형,화염기기/버너 (HBBR),[HBBR]Fired Equipment/ Burner
+설비유형,HBBR 화염 설비,[HBBR]Fired Equipment/ Burner
+설비유형,HBBR 버너 장비,[HBBR]Fired Equipment/ Burner
+설비유형,화염 가열 장치,[HBFH]Fired Equipment/ Fired Heater
+설비유형,HBFH 가열기,[HBFH]Fired Equipment/ Fired Heater
+설비유형,화염 설비,[HBFH]Fired Equipment/ Fired Heater
+설비유형,가스화염 가열 장비,[HBFH]Fired Equipment/ Fired Heater
+설비유형,HBFH 파이어드 히터,[HBFH]Fired Equipment/ Fired Heater
+설비유형,HBFR 파이어드 장비,[HBFR]Fired Equipment/ Furnace
+설비유형,HBFR 화로,[HBFR]Fired Equipment/ Furnace
+설비유형,HBFR 가열 장비,[HBFR]Fired Equipment/ Furnace
+설비유형,HBFR 퍼넌스,[HBFR]Fired Equipment/ Furnace
+설비유형,HBFR 화로 설비,[HBFR]Fired Equipment/ Furnace
+설비유형,HBIG 화기설비,[HBIG]Fired Equipment/ Ignitor
+설비유형,HBIG 점화기,[HBIG]Fired Equipment/ Ignitor
+설비유형,HBIG 화기/점화기,[HBIG]Fired Equipment/ Ignitor
+설비유형,HBIG 이그나이터,[HBIG]Fired Equipment/ Ignitor
+설비유형,HBIG 화기점화장치,[HBIG]Fired Equipment/ Ignitor
+설비유형,화로 설비/ 소각로,[HBIN]Fired Equipment/ Incinerator
+설비유형,HBIN 소각로,[HBIN]Fired Equipment/ Incinerator
+설비유형,HBIN 화로 장비,[HBIN]Fired Equipment/ Incinerator
+설비유형,소각 장치 (HBIN),[HBIN]Fired Equipment/ Incinerator
+설비유형,HBIN 소각 장비,[HBIN]Fired Equipment/ Incinerator
+설비유형,리포머 히터,[HBRH]Fired Equipment/ Reformer heater
+설비유형,[HBRH] 리포머,[HBRH]Fired Equipment/ Reformer heater
+설비유형,리포머 장비,[HBRH]Fired Equipment/ Reformer heater
+설비유형,가스 리포머,[HBRH]Fired Equipment/ Reformer heater
+설비유형,리포머 히터 장비,[HBRH]Fired Equipment/ Reformer heater
+설비유형,HBTR 파이어드 장비,[HBTR]Fired Equipment/ Thermal reactor
+설비유형,열 반응기,[HBTR]Fired Equipment/ Thermal reactor
+설비유형,HBTR 열 렉터,[HBTR]Fired Equipment/ Thermal reactor
+설비유형,파이어드 장비/ 열 렉터,[HBTR]Fired Equipment/ Thermal reactor
+설비유형,HBTR 열 설비,[HBTR]Fired Equipment/ Thermal reactor
+설비유형,에어쿨러 히트 익스체인저,[HEAC]Heat Exchanger/ Air Cooled type
+설비유형,에어쿨러 HE,[HEAC]Heat Exchanger/ Air Cooled type
+설비유형,공랭형 히트익스,[HEAC]Heat Exchanger/ Air Cooled type
+설비유형,[HEAC] 히트 익스체인저,[HEAC]Heat Exchanger/ Air Cooled type
+설비유형,에어 쿨러 히트익스,[HEAC]Heat Exchanger/ Air Cooled type
+설비유형,HEPL 히트 엑스체인지,[HEPL]Heat Exchanger/ Plate Type
+설비유형,HEPL 히트익스,[HEPL]Heat Exchanger/ Plate Type
+설비유형,HEPL 플랫 히트엑스,[HEPL]Heat Exchanger/ Plate Type
+설비유형,HEPL판형 히트엑스체인저,[HEPL]Heat Exchanger/ Plate Type
+설비유형,HEPL 히트익스 판형,[HEPL]Heat Exchanger/ Plate Type
+설비유형,히트익스체인저 튜브형,[HEST]Heat Exchanger/ Tubular type
+설비유형,[HEST] 튜브 히트익스체인저,[HEST]Heat Exchanger/ Tubular type
+설비유형,튜브 타입 히트익스체인저,[HEST]Heat Exchanger/ Tubular type
+설비유형,튜브 형 히트익스체인저,[HEST]Heat Exchanger/ Tubular type
+설비유형,[HEST] 튜브형 열교환기,[HEST]Heat Exchanger/ Tubular type
+설비유형,[IOAC] 기구/에어컨,[IOAC]Other Instrument/ Airconditioner
+설비유형,기타 기구/에어컨,[IOAC]Other Instrument/ Airconditioner
+설비유형,기구 및 에어컨,[IOAC]Other Instrument/ Airconditioner
+설비유형,IOAC 기타 기기,[IOAC]Other Instrument/ Airconditioner
+설비유형,에어컨 및 기타 기구,[IOAC]Other Instrument/ Airconditioner
+설비유형,IOAW 자동 창고,[IOAW]Other Instrument/ Auto Ware House
+설비유형,[IOAW] 기타기구,[IOAW]Other Instrument/ Auto Ware House
+설비유형,IOAW 자동 창고 시스템,[IOAW]Other Instrument/ Auto Ware House
+설비유형,IOAW 기타와자동창고,[IOAW]Other Instrument/ Auto Ware House
+설비유형,자동화된 기타 기구 창고,[IOAW]Other Instrument/ Auto Ware House
+설비유형,IOCC 카메라,[IOCC]Other Instrument/ CCTV
+설비유형,CCTV 장비,[IOCC]Other Instrument/ CCTV
+설비유형,기타 기구,[IOCC]Other Instrument/ CCTV
+설비유형,IOCC 기타 도구,[IOCC]Other Instrument/ CCTV
+설비유형,[IOCC] 다른 장비,[IOCC]Other Instrument/ CCTV
+설비유형,IOCR 기타 장비,[IOCR]Other Instrument/ Converter
+설비유형,IOCR 변환기,[IOCR]Other Instrument/ Converter
+설비유형,IOCR 기타 기기,[IOCR]Other Instrument/ Converter
+설비유형,IOCR 기타 도구,[IOCR]Other Instrument/ Converter
+설비유형,IOCR 기타 변환기,[IOCR]Other Instrument/ Converter
+설비유형,IOHV 냉방설비,[IOHV]Other Instrument/ 냉방설비
+설비유형,기타 냉방기기,[IOHV]Other Instrument/ 냉방설비
+설비유형,IOHV 오더 인스트루먼트,[IOHV]Other Instrument/ 냉방설비
+설비유형,냉방설비 IOHV,[IOHV]Other Instrument/ 냉방설비
+설비유형,기타 냉방기 IOHV,[IOHV]Other Instrument/ 냉방설비
+설비유형,IOIL 다른 계기 할론 시스템,[IOIL]Other Instrument/ 계기 Halon System
+설비유형,할론 시스템,[IOIL]Other Instrument/ 계기 Halon System
+설비유형,계기 할론,[IOIL]Other Instrument/ 계기 Halon System
+설비유형,IOIL 계기 할론,[IOIL]Other Instrument/ 계기 Halon System
+설비유형,할론 계기 시스템,[IOIL]Other Instrument/ 계기 Halon System
+설비유형,IOOI 오프사이트 장비,[IOOI]Other Instrument/ Off-site Instrument
+설비유형,외부 측정기기,[IOOI]Other Instrument/ Off-site Instrument
+설비유형,오프사이트 측정기,[IOOI]Other Instrument/ Off-site Instrument
+설비유형,[IOOI] 기타 장비,[IOOI]Other Instrument/ Off-site Instrument
+설비유형,외부에 있는 기기,[IOOI]Other Instrument/ Off-site Instrument
+설비유형,항무 설비,[IOOS]Other Instrument/ 항무설비
+설비유형,IOOS 기기,[IOOS]Other Instrument/ 항무설비
+설비유형,기타 기기,[IOOS]Other Instrument/ 항무설비
+설비유형,항무 장비,[IOOS]Other Instrument/ 항무설비
+설비유형,항무용 장비,[IOOS]Other Instrument/ 항무설비
+설비유형,IOOT 기타 장비,[IOOT]Other Instrument/ Miscellaneous Instrument
+설비유형,기타 측정기구,[IOOT]Other Instrument/ Miscellaneous Instrument
+설비유형,IOOT 기타 측정기구,[IOOT]Other Instrument/ Miscellaneous Instrument
+설비유형,IOOT 기타 도구,[IOOT]Other Instrument/ Miscellaneous Instrument
+설비유형,기타 스마트 장비,[IOOT]Other Instrument/ Miscellaneous Instrument
+설비유형,IOPA 기타 장비/ 페이징기,[IOPA]Other Instrument/ Paging
+설비유형,IOPA 기기/ 방송기,[IOPA]Other Instrument/ Paging
+설비유형,IOPA 기타 도구/ 페이징기,[IOPA]Other Instrument/ Paging
+설비유형,IOPA 장비/ 알림기,[IOPA]Other Instrument/ Paging
+설비유형,IOPA 기타 장비/ 알림기,[IOPA]Other Instrument/ Paging
+설비유형,IOSL 기타 기기,[IOSL]Other Instrument/ 기준설비
+설비유형,IOSL 기타 장비,[IOSL]Other Instrument/ 기준설비
+설비유형,IOSL 기준 장비,[IOSL]Other Instrument/ 기준설비
+설비유형,IOSL 기준 설비,[IOSL]Other Instrument/ 기준설비
+설비유형,IOSL 기준 기기,[IOSL]Other Instrument/ 기준설비
+설비유형,IPFD 인풋 디바이스,[IPFD]Input Device/ Flame System
+설비유형,IPFD 화염 시스템,[IPFD]Input Device/ Flame System
+설비유형,IPFD 입력 장치/화염 시스템,[IPFD]Input Device/ Flame System
+설비유형,IPFD 인풋 기기/화염 시스템,[IPFD]Input Device/ Flame System
+설비유형,IPFD 입출력&화염 시스템,[IPFD]Input Device/ Flame System
+설비유형,IPFS 인풋 디바이스 플로우 스위치,[IPFS]Input Device/ Flow Switch
+설비유형,IPFS 플로우 스위치,[IPFS]Input Device/ Flow Switch
+설비유형,IPFS 입력 장치 스위치,[IPFS]Input Device/ Flow Switch
+설비유형,IPFS 인풋 장치,[IPFS]Input Device/ Flow Switch
+설비유형,IPFS 플로우 감지 스위치,[IPFS]Input Device/ Flow Switch
+설비유형,IPFT 입력 장치,[IPFT]Input Device/ Flowmeter
+설비유형,IPFT 흐름계,[IPFT]Input Device/ Flowmeter
+설비유형,IPFT 유량계,[IPFT]Input Device/ Flowmeter
+설비유형,IPFT 인풋 장비,[IPFT]Input Device/ Flowmeter
+설비유형,IPFT 플로우미터,[IPFT]Input Device/ Flowmeter
+설비유형,IPLG 입출력 장치,[IPLG]Input Device/ Level Gauge
+설비유형,IPLG 레벨 게이지,[IPLG]Input Device/ Level Gauge
+설비유형,IPLG 입력 장치,[IPLG]Input Device/ Level Gauge
+설비유형,IPLG 유량 게이지,[IPLG]Input Device/ Level Gauge
+설비유형,IPLG 레벨 측정기,[IPLG]Input Device/ Level Gauge
+설비유형,IPLS 레벨 스위치,[IPLS]Input Device/ Level Switch
+설비유형,입력 장치 레벨 스위치,[IPLS]Input Device/ Level Switch
+설비유형,IPLS 인풋 디바이스,[IPLS]Input Device/ Level Switch
+설비유형,레벨 스위치 인풋 디바이스,[IPLS]Input Device/ Level Switch
+설비유형,IPLS 입력 장치,[IPLS]Input Device/ Level Switch
+설비유형,IPLT 입력 장치,[IPLT]Input Device/ Level Transmitter
+설비유형,레벨 전송기,[IPLT]Input Device/ Level Transmitter
+설비유형,IPLT 레벨 센서,[IPLT]Input Device/ Level Transmitter
+설비유형,입력 레벨 트랜스미터,[IPLT]Input Device/ Level Transmitter
+설비유형,IPLT 레벨 장치,[IPLT]Input Device/ Level Transmitter
+설비유형,압력 게이지,[IPPG]Input Device/ Pressure Gauge
+설비유형,입력 장치/ 압력 게이지,[IPPG]Input Device/ Pressure Gauge
+설비유형,IPPG 압력 게이지,[IPPG]Input Device/ Pressure Gauge
+설비유형,압력 측정기,[IPPG]Input Device/ Pressure Gauge
+설비유형,[IPPG] 압력 측정기,[IPPG]Input Device/ Pressure Gauge
+설비유형,입력 장치/압력 스위치,[IPPS]Input Device/ Pressure Switch
+설비유형,IPPS 입력 장치,[IPPS]Input Device/ Pressure Switch
+설비유형,압력 스위치 장치,[IPPS]Input Device/ Pressure Switch
+설비유형,입력용 압력 스위치,[IPPS]Input Device/ Pressure Switch
+설비유형,IPPS Pressure Switch,[IPPS]Input Device/ Pressure Switch
+설비유형,IPPT 압력 센서,[IPPT]Input Device/ Pressure Transmitter
+설비유형,압력 전송기,[IPPT]Input Device/ Pressure Transmitter
+설비유형,압력 측정기,[IPPT]Input Device/ Pressure Transmitter
+설비유형,압력 트랜스미터,[IPPT]Input Device/ Pressure Transmitter
+설비유형,압력 입력 장치,[IPPT]Input Device/ Pressure Transmitter
+설비유형,[IPSI] 입력 장치/ 속도 측정기,[IPSI]Input Device/ Speed Instrument
+설비유형,IPSI 입력 디바이스/ 속도계,[IPSI]Input Device/ Speed Instrument
+설비유형,IPSI 입력기/ 속도 측정기구,[IPSI]Input Device/ Speed Instrument
+설비유형,IPSI 속도계 입력장비,[IPSI]Input Device/ Speed Instrument
+설비유형,IPSI 속도 측정기/ 입력기,[IPSI]Input Device/ Speed Instrument
+설비유형,[IPTG] 온도 게이지,[IPTG]Input Device/ Temperature Gauge/Test Well
+설비유형,[IPTG] 온도 측정기,[IPTG]Input Device/ Temperature Gauge/Test Well
+설비유형,IPTG 온도 측정 장비,[IPTG]Input Device/ Temperature Gauge/Test Well
+설비유형,IPTG 온도 게이지 장치,[IPTG]Input Device/ Temperature Gauge/Test Well
+설비유형,IPTG 온도 측정 설비,[IPTG]Input Device/ Temperature Gauge/Test Well
+설비유형,탱크 레벨 측정기,[IPTL]Input Device/ Tank Level Instrument
+설비유형,입력 장치/ 탱크 레벨,[IPTL]Input Device/ Tank Level Instrument
+설비유형,탱크 레벨 인스트루먼트,[IPTL]Input Device/ Tank Level Instrument
+설비유형,IPTL 탱크 레벨 장비,[IPTL]Input Device/ Tank Level Instrument
+설비유형,탱크 레벨을 측정하는 장치,[IPTL]Input Device/ Tank Level Instrument
+설비유형,IPTS 온도 스위치,[IPTS]Input Device/ Temperature Switch
+설비유형,온도 입력 장치,[IPTS]Input Device/ Temperature Switch
+설비유형,IPTS 온도 센서,[IPTS]Input Device/ Temperature Switch
+설비유형,온도 스위치 디바이스,[IPTS]Input Device/ Temperature Switch
+설비유형,온도 측정 스위치,[IPTS]Input Device/ Temperature Switch
+설비유형,IPTT 온도 전송기,[IPTT]Input Device/ Temperature Transmitter
+설비유형,입력 장치 온도 센서,[IPTT]Input Device/ Temperature Transmitter
+설비유형,온도 트랜스미터,[IPTT]Input Device/ Temperature Transmitter
+설비유형,IPTT 온도 측정기,[IPTT]Input Device/ Temperature Transmitter
+설비유형,온도 입력 장치,[IPTT]Input Device/ Temperature Transmitter
+설비유형,입력 장치/진동 기기,[IPVI]Input Device/ Vibration instrument
+설비유형,IPVI 진동 기기,[IPVI]Input Device/ Vibration instrument
+설비유형,입력 장치 진동기,[IPVI]Input Device/ Vibration instrument
+설비유형,진동 입력 장치,[IPVI]Input Device/ Vibration instrument
+설비유형,IPVI 입력 장치,[IPVI]Input Device/ Vibration instrument
+설비유형,IPZI 입력 장치,[IPZI]Input Device/ Position Instrument & Limit S/W
+설비유형,IPZI 위치 측정기,[IPZI]Input Device/ Position Instrument & Limit S/W
+설비유형,IPZI 한계 소프트웨어,[IPZI]Input Device/ Position Instrument & Limit S/W
+설비유형,IPZI 입력 장치 및 위치 측정기,[IPZI]Input Device/ Position Instrument & Limit S/W
+설비유형,IPZI 한계 S/W,[IPZI]Input Device/ Position Instrument & Limit S/W
+설비유형,JBIN 상자,[JBIN]Junction Box/ Instrument Junction Box
+설비유형,계기 접속 상자,[JBIN]Junction Box/ Instrument Junction Box
+설비유형,JBIN 박스,[JBIN]Junction Box/ Instrument Junction Box
+설비유형,기기 연결상자,[JBIN]Junction Box/ Instrument Junction Box
+설비유형,계기 연결 상자,[JBIN]Junction Box/ Instrument Junction Box
+설비유형,조명 단가,[LTLT]Lighting/ Unit Price(Lighting)
+설비유형,LTLT 가격,[LTLT]Lighting/ Unit Price(Lighting)
+설비유형,조명 단위 가격,[LTLT]Lighting/ Unit Price(Lighting)
+설비유형,조명 유닛 가격,[LTLT]Lighting/ Unit Price(Lighting)
+설비유형,LTLT 조명 단가,[LTLT]Lighting/ Unit Price(Lighting)
+설비유형,설비 유형 MEBE,[MEBE]Miscellaneous Equipment/ Bag Ejector
+설비유형,메베 장비,[MEBE]Miscellaneous Equipment/ Bag Ejector
+설비유형,MEBE 기계,[MEBE]Miscellaneous Equipment/ Bag Ejector
+설비유형,배게jector 장비,[MEBE]Miscellaneous Equipment/ Bag Ejector
+설비유형,Miscellaneous Equipment/ Bag Ejector,[MEBE]Miscellaneous Equipment/ Bag Ejector
+설비유형,[MECN]Misc Equipment/ Canister,[MECN]Miscellaneous Equipment/ Canister
+설비유형,Miscellaneous Equipment/ Canister,[MECN]Miscellaneous Equipment/ Canister
+설비유형,MECN Misc 장비/ 캔스터,[MECN]Miscellaneous Equipment/ Canister
+설비유형,MECN 캔스터,[MECN]Miscellaneous Equipment/ Canister
+설비유형,MECN 기타 장비/ 캔스터,[MECN]Miscellaneous Equipment/ Canister
+설비유형,MCP 장비,[MECP]Miscellaneous Equipment/ Conforming Plate
+설비유형,기타 장비/규격판,[MECP]Miscellaneous Equipment/ Conforming Plate
+설비유형,MCP 설비,[MECP]Miscellaneous Equipment/ Conforming Plate
+설비유형,메시비 장비,[MECP]Miscellaneous Equipment/ Conforming Plate
+설비유형,MCP 규격플레이트,[MECP]Miscellaneous Equipment/ Conforming Plate
+설비유형,MECS 미스 셀라네어스 장비,[MECS]Miscellaneous Equipment/ Common Stack
+설비유형,공용 스택 장비,[MECS]Miscellaneous Equipment/ Common Stack
+설비유형,MECS 기타 장비,[MECS]Miscellaneous Equipment/ Common Stack
+설비유형,MECS 공용 스택,[MECS]Miscellaneous Equipment/ Common Stack
+설비유형,기타 공용 장비,[MECS]Miscellaneous Equipment/ Common Stack
+설비유형,MECT 냉각탑,[MECT]Miscellaneous Equipment/ Cooling Tower
+설비유형,MECT 설비,[MECT]Miscellaneous Equipment/ Cooling Tower
+설비유형,냉각탑 MECT,[MECT]Miscellaneous Equipment/ Cooling Tower
+설비유형,MECT 기기,[MECT]Miscellaneous Equipment/ Cooling Tower
+설비유형,MECT 냉각장치,[MECT]Miscellaneous Equipment/ Cooling Tower
+설비유형,MECV 설비,[MECV]Miscellaneous Equipment/ Conveyor
+설비유형,MECV 컨베이어 또는 MECV 컨베이어 설비,[MECV]Miscellaneous Equipment/ Conveyor
+설비유형,다양한 장비 및 컨베이어,[MECV]Miscellaneous Equipment/ Conveyor
+설비유형,MECV 장비,[MECV]Miscellaneous Equipment/ Conveyor
+설비유형,기타 장비 및 컨베이어 설비,[MECV]Miscellaneous Equipment/ Conveyor
+설비유형,MEDC Miscellaneous 장비/ 덕트 (SAR),[MEDC]Miscellaneous Equipment/ Duct (SAR)
+설비유형,MEDC 박스나 덕트 (SAR),[MEDC]Miscellaneous Equipment/ Duct (SAR)
+설비유형,SAR Miscellaneous 장비/ 덕트,[MEDC]Miscellaneous Equipment/ Duct (SAR)
+설비유형,MEDC 기타 장비/ 덕트 (SAR),[MEDC]Miscellaneous Equipment/ Duct (SAR)
+설비유형,MEDC Miscellaneous 장비/ 덕트 SAR 타입,[MEDC]Miscellaneous Equipment/ Duct (SAR)
+설비유형,MEDH 장비,[MEDH]Miscellaneous Equipment/ Desuperheater
+설비유형,다용도 장비,[MEDH]Miscellaneous Equipment/ Desuperheater
+설비유형,과열 방지 장비,[MEDH]Miscellaneous Equipment/ Desuperheater
+설비유형,MEDH 디슈퍼히터,[MEDH]Miscellaneous Equipment/ Desuperheater
+설비유형,MEDH 설비,[MEDH]Miscellaneous Equipment/ Desuperheater
+설비유형,MEDW 장비,[MEDW]Miscellaneous Equipment/ Dewatering
+설비유형,다양한 장비/수분 제거,[MEDW]Miscellaneous Equipment/ Dewatering
+설비유형,MEDW 수분 제거 장비,[MEDW]Miscellaneous Equipment/ Dewatering
+설비유형,MEDW Miscellaneous,[MEDW]Miscellaneous Equipment/ Dewatering
+설비유형,MEDW 디워팅 장비,[MEDW]Miscellaneous Equipment/ Dewatering
+설비유형,MEEJ 장비,[MEEJ]Miscellaneous Equipment/ Ejector
+설비유형,다양한 장비,[MEEJ]Miscellaneous Equipment/ Ejector
+설비유형,MEEJ 이젝터,[MEEJ]Miscellaneous Equipment/ Ejector
+설비유형,이젝터 장비,[MEEJ]Miscellaneous Equipment/ Ejector
+설비유형,MEEJ Miscellaneous,[MEEJ]Miscellaneous Equipment/ Ejector
+설비유형,미스셀라니어스 장비 전기집진기,[MEEP]Miscellaneous Equipment/ Electric Precipitator
+설비유형,[MEEP] 전기집진기,[MEEP]Miscellaneous Equipment/ Electric Precipitator
+설비유형,전기집진기 MEEP,[MEEP]Miscellaneous Equipment/ Electric Precipitator
+설비유형,다용도 전기집진기,[MEEP]Miscellaneous Equipment/ Electric Precipitator
+설비유형,MEEP 전기집진기,[MEEP]Miscellaneous Equipment/ Electric Precipitator
+설비유형,Miscellaneous Equipment/ 탱크 비상배출구,[MEEV]Miscellaneous Equipment/ Tank emergency Vent
+설비유형,MEEV 탱크 비상배출기,[MEEV]Miscellaneous Equipment/ Tank emergency Vent
+설비유형,비상배출 탱크 장비,[MEEV]Miscellaneous Equipment/ Tank emergency Vent
+설비유형,MEEV 비상배출기,[MEEV]Miscellaneous Equipment/ Tank emergency Vent
+설비유형,탱크 비상배출기,[MEEV]Miscellaneous Equipment/ Tank emergency Vent
+설비유형,소화전,[MEFH]Miscellaneous Equipment/ 소화전
+설비유형,소화전 설비,[MEFH]Miscellaneous Equipment/ 소화전
+설비유형,MEFH 소화전,[MEFH]Miscellaneous Equipment/ 소화전
+설비유형,소화전 기기,[MEFH]Miscellaneous Equipment/ 소화전
+설비유형,MEFH Miscellaneous Equipment,[MEFH]Miscellaneous Equipment/ 소화전
+설비유형,MEFI 기기,[MEFI]Miscellaneous Equipment/ Filler
+설비유형,MEFI 장비,[MEFI]Miscellaneous Equipment/ Filler
+설비유형,MEFI 설비,[MEFI]Miscellaneous Equipment/ Filler
+설비유형,MEFI 기구,[MEFI]Miscellaneous Equipment/ Filler
+설비유형,MEFI 필러,[MEFI]Miscellaneous Equipment/ Filler
+설비유형,MEFS 장비,[MEFS]Miscellaneous Equipment/ Flare Stack
+설비유형,플레어 스택,[MEFS]Miscellaneous Equipment/ Flare Stack
+설비유형,MEFS 설비,[MEFS]Miscellaneous Equipment/ Flare Stack
+설비유형,여러 기구 플레어 스택,[MEFS]Miscellaneous Equipment/ Flare Stack
+설비유형,MEFS 기계,[MEFS]Miscellaneous Equipment/ Flare Stack
+설비유형,MELA 로딩 암,[MELA]Miscellaneous Equipment/ Loading Arm
+설비유형,다양한 장비/ 로딩 암,[MELA]Miscellaneous Equipment/ Loading Arm
+설비유형,로딩 암 장비,[MELA]Miscellaneous Equipment/ Loading Arm
+설비유형,MELA 장비,[MELA]Miscellaneous Equipment/ Loading Arm
+설비유형,다양한 장비 메라,[MELA]Miscellaneous Equipment/ Loading Arm
+설비유형,MELG 장비,[MELG]Miscellaneous Equipment/ Level Gauge
+설비유형,혼합 장비/ 레벨 게이지,[MELG]Miscellaneous Equipment/ Level Gauge
+설비유형,레벨 게이지 용 설치기,[MELG]Miscellaneous Equipment/ Level Gauge
+설비유형,MELG 레벨 게이지,[MELG]Miscellaneous Equipment/ Level Gauge
+설비유형,다양한 장비/ 레벨 게이지,[MELG]Miscellaneous Equipment/ Level Gauge
+설비유형,[MELL] Miscellaneous Equipment/ Land Loading Arm,[MELL]Miscellaneous Equipment/ Land Loading Arm
+설비유형,MELL 장비,[MELL]Miscellaneous Equipment/ Land Loading Arm
+설비유형,MELL 랜딩암,[MELL]Miscellaneous Equipment/ Land Loading Arm
+설비유형,랜딩 암 장비,[MELL]Miscellaneous Equipment/ Land Loading Arm
+설비유형,MELL 랜딩 장비,[MELL]Miscellaneous Equipment/ Land Loading Arm
+설비유형,멜엠 라인 믹서,[MELM]Miscellaneous Equipment/ Line mixer
+설비유형,라인 믹서 장비,[MELM]Miscellaneous Equipment/ Line mixer
+설비유형,멜엠 장비,[MELM]Miscellaneous Equipment/ Line mixer
+설비유형,라인 믹서,[MELM]Miscellaneous Equipment/ Line mixer
+설비유형,Miscellaneous Line Mixer,[MELM]Miscellaneous Equipment/ Line mixer
+설비유형,미스크립트,[MEME]Miscellaneous Equipment/ Miscellaneous Equipment
+설비유형,MEME 장비,[MEME]Miscellaneous Equipment/ Miscellaneous Equipment
+설비유형,기타 장비,[MEME]Miscellaneous Equipment/ Miscellaneous Equipment
+설비유형,MEME 기기,[MEME]Miscellaneous Equipment/ Miscellaneous Equipment
+설비유형,기타 설비,[MEME]Miscellaneous Equipment/ Miscellaneous Equipment
+설비유형,MEPO Miscellaneous,[MEPO]Miscellaneous Equipment/ Pond
+설비유형,MEPO Pond 장비,[MEPO]Miscellaneous Equipment/ Pond
+설비유형,MEPO 장비,[MEPO]Miscellaneous Equipment/ Pond
+설비유형,Miscellaneous 장비,[MEPO]Miscellaneous Equipment/ Pond
+설비유형,MEPO 물탱크 장비,[MEPO]Miscellaneous Equipment/ Pond
+설비유형,회전 타입 호퍼,[MERH]Miscellaneous Equipment/ Rotating Type Hopper
+설비유형,MERH 회전 호퍼,[MERH]Miscellaneous Equipment/ Rotating Type Hopper
+설비유형,Miscellaneous 회전 타입 호퍼,[MERH]Miscellaneous Equipment/ Rotating Type Hopper
+설비유형,메르 회전 호퍼,[MERH]Miscellaneous Equipment/ Rotating Type Hopper
+설비유형,회전식 혼합 장비,[MERH]Miscellaneous Equipment/ Rotating Type Hopper
+설비유형,메스비 Miscellaneous 장비,[MESB]Miscellaneous Equipment/ Soot Blower
+설비유형,소트 블로워,[MESB]Miscellaneous Equipment/ Soot Blower
+설비유형,MES 소트 블로워,[MESB]Miscellaneous Equipment/ Soot Blower
+설비유형,[MESB] 장비,[MESB]Miscellaneous Equipment/ Soot Blower
+설비유형,Miscellaneous Soot Blower 장비,[MESB]Miscellaneous Equipment/ Soot Blower
+설비유형,MESC 스크레이퍼,[MESC]Miscellaneous Equipment/ Scraper
+설비유형,다양한 장비 스크레이퍼,[MESC]Miscellaneous Equipment/ Scraper
+설비유형,MESC 장비,[MESC]Miscellaneous Equipment/ Scraper
+설비유형,스크레이퍼 장비,[MESC]Miscellaneous Equipment/ Scraper
+설비유형,MESC Miscellaneous Equipment,[MESC]Miscellaneous Equipment/ Scraper
+설비유형,[MESH] 혼합 기구 정적형 호퍼,[MESH]Miscellaneous Equipment/ Stationary Type Hopper
+설비유형,정적형 호퍼,[MESH]Miscellaneous Equipment/ Stationary Type Hopper
+설비유형,정적형 MESH 호퍼,[MESH]Miscellaneous Equipment/ Stationary Type Hopper
+설비유형,MESH 기타 기구 정적형,[MESH]Miscellaneous Equipment/ Stationary Type Hopper
+설비유형,정적형 비정형 호퍼,[MESH]Miscellaneous Equipment/ Stationary Type Hopper
+설비유형,MESI 실로,[MESI]Miscellaneous Equipment/ Silo
+설비유형,기타 장비 실로,[MESI]Miscellaneous Equipment/ Silo
+설비유형,MESI 장비 실로,[MESI]Miscellaneous Equipment/ Silo
+설비유형,기타 설비 실로,[MESI]Miscellaneous Equipment/ Silo
+설비유형,실로 장비 MESI,[MESI]Miscellaneous Equipment/ Silo
+설비유형,멜 설비,[MESL]Miscellaneous Equipment/ Silencer
+설비유형,MESL 설비,[MESL]Miscellaneous Equipment/ Silencer
+설비유형,소음 방지 장치,[MESL]Miscellaneous Equipment/ Silencer
+설비유형,잡다한 장비,[MESL]Miscellaneous Equipment/ Silencer
+설비유형,MESL 소음기,[MESL]Miscellaneous Equipment/ Silencer
+설비유형,MESP Miscellaneous 장비,[MESP]Miscellaneous Equipment/ Sump pit
+설비유형,Sump pit 장비,[MESP]Miscellaneous Equipment/ Sump pit
+설비유형,MESP 장비,[MESP]Miscellaneous Equipment/ Sump pit
+설비유형,여타 장비/Sump pit,[MESP]Miscellaneous Equipment/ Sump pit
+설비유형,MESP Miscellaneous Equipment,[MESP]Miscellaneous Equipment/ Sump pit
+설비유형,MESR SCR 리액터,[MESR]Miscellaneous Equipment/ SCR Reactor
+설비유형,SCR 리액터,[MESR]Miscellaneous Equipment/ SCR Reactor
+설비유형,MESR 기기,[MESR]Miscellaneous Equipment/ SCR Reactor
+설비유형,잡다한 장비 SCR,[MESR]Miscellaneous Equipment/ SCR Reactor
+설비유형,MESR 기기 SCR,[MESR]Miscellaneous Equipment/ SCR Reactor
+설비유형,[MEST] 그물 장비,[MEST]Miscellaneous Equipment/ Strainer
+설비유형,MEST 스트레이너,[MEST]Miscellaneous Equipment/ Strainer
+설비유형,크고 작은 장비/그물,[MEST]Miscellaneous Equipment/ Strainer
+설비유형,MEST 잡다한 장비,[MEST]Miscellaneous Equipment/ Strainer
+설비유형,MEST 그물 장치,[MEST]Miscellaneous Equipment/ Strainer
+설비유형,모모 모터,[MOMO]Motor/ Motor
+설비유형,모모 모터/모터,[MOMO]Motor/ Motor
+설비유형,모모 모터설비,[MOMO]Motor/ Motor
+설비유형,MOMO 모터,[MOMO]Motor/ Motor
+설비유형,모모 기계,[MOMO]Motor/ Motor
+설비유형,MXCE 믹서,[MXCE]Mixer/ Centrifugal
+설비유형,원심 분리기,[MXCE]Mixer/ Centrifugal
+설비유형,센트리 믹서,[MXCE]Mixer/ Centrifugal
+설비유형,MXCE 센트리 믹서,[MXCE]Mixer/ Centrifugal
+설비유형,센트리 믹서 MXCE,[MXCE]Mixer/ Centrifugal
+설비유형,PCL3 기능위치,[PCL3]Functional Location/ F/L Level3 (Unit)
+설비유형,Unit F/L Level3,[PCL3]Functional Location/ F/L Level3 (Unit)
+설비유형,PCL3 유닛 위치,[PCL3]Functional Location/ F/L Level3 (Unit)
+설비유형,기능 위치 Lv3 (PCL3),[PCL3]Functional Location/ F/L Level3 (Unit)
+설비유형,기능위치 유닛 (PCL3),[PCL3]Functional Location/ F/L Level3 (Unit)
+설비유형,[PCL4] 기능 위치/ F/L 4단계 (구분),[PCL4]Functional Location/ F/L Level4 (Section)
+설비유형,PCL4 기능 위치 4단계,[PCL4]Functional Location/ F/L Level4 (Section)
+설비유형,Functional Location 4단계,[PCL4]Functional Location/ F/L Level4 (Section)
+설비유형,F/L 4단계,[PCL4]Functional Location/ F/L Level4 (Section)
+설비유형,PCL4 4단계 기능 위치,[PCL4]Functional Location/ F/L Level4 (Section)
+설비유형,PIIP 검사배관,[PIIP]검사배관
+설비유형,검사배관 PIIP,[PIIP]검사배관
+설비유형,PIIP 배관 검사,[PIIP]검사배관
+설비유형,검사용 배관 PIIP,[PIIP]검사배관
+설비유형,PIIP로 하는 검사배관,[PIIP]검사배관
+설비유형,파이핑,[PIPI]Piping/ Piping
+설비유형,파이핑 시스템,[PIPI]Piping/ Piping
+설비유형,파이프라인,[PIPI]Piping/ Piping
+설비유형,파이핑 설비,[PIPI]Piping/ Piping
+설비유형,PIPI 파이핑,[PIPI]Piping/ Piping
+설비유형,PNCB 패널/콘덴서 뱅크,[PNCB]Panel/ Capacitor Bank
+설비유형,콘덴서 뱅크 패널,[PNCB]Panel/ Capacitor Bank
+설비유형,PNCB 설비,[PNCB]Panel/ Capacitor Bank
+설비유형,PNCB 전기 장치,[PNCB]Panel/ Capacitor Bank
+설비유형,콘덴서 뱅크 장치,[PNCB]Panel/ Capacitor Bank
+설비유형,패널 디씨 모터 컨트롤 패널,[PNDC]Panel/ DC Motor Control Panel
+설비유형,PNDC 패널,[PNDC]Panel/ DC Motor Control Panel
+설비유형,DC 모터 제어 패널,[PNDC]Panel/ DC Motor Control Panel
+설비유형,패널 디씨 모터,[PNDC]Panel/ DC Motor Control Panel
+설비유형,PNDC 모터 컨트롤,[PNDC]Panel/ DC Motor Control Panel
+설비유형,패널 전력 분배기,[PNDP]Panel/ Local Power Distribu
+설비유형,PNDP 패널,[PNDP]Panel/ Local Power Distribu
+설비유형,지점 분배기,[PNDP]Panel/ Local Power Distribu
+설비유형,전력 분배 패널,[PNDP]Panel/ Local Power Distribu
+설비유형,패널 전력 분배 시스템,[PNDP]Panel/ Local Power Distribu
+설비유형,패널 전기 제어 모니터링 시스템,[PNES]Panel/ Electric Control Monitoring System
+설비유형,[PNES] 패널 시스템,[PNES]Panel/ Electric Control Monitoring System
+설비유형,전력 제어 모니터링 장치,[PNES]Panel/ Electric Control Monitoring System
+설비유형,PNES 제어 모니터링,[PNES]Panel/ Electric Control Monitoring System
+설비유형,패널 전기 모니터링 장비,[PNES]Panel/ Electric Control Monitoring System
+설비유형,[PNHC] 패널,[PNHC]Panel/ Electric Heater Control Panel
+설비유형,전기 히터 조절 패널,[PNHC]Panel/ Electric Heater Control Panel
+설비유형,패널/전기 히터 컨트롤,[PNHC]Panel/ Electric Heater Control Panel
+설비유형,PNHC 히터 패널,[PNHC]Panel/ Electric Heater Control Panel
+설비유형,전기 히터 제어 패널,[PNHC]Panel/ Electric Heater Control Panel
+설비유형,PNHV 패널,[PNHV]Panel/ HV Switchgear
+설비유형,고압 스위치 기어,[PNHV]Panel/ HV Switchgear
+설비유형,패널HV스위치기어,[PNHV]Panel/ HV Switchgear
+설비유형,고압 전기 기기,[PNHV]Panel/ HV Switchgear
+설비유형,PNHV 고압 기기,[PNHV]Panel/ HV Switchgear
+설비유형,PNLV 패널,[PNLV]Panel/ LV Switchgear
+설비유형,저압 스위치기어,[PNLV]Panel/ LV Switchgear
+설비유형,PNLV 스위치기어,[PNLV]Panel/ LV Switchgear
+설비유형,저압 패널,[PNLV]Panel/ LV Switchgear
+설비유형,PNLV 스위치보드,[PNLV]Panel/ LV Switchgear
+설비유형,PNNG 패널,[PNNG]Panel/ NGR/HRG (차단기/DS)
+설비유형,차단기 NGR/HRG,[PNNG]Panel/ NGR/HRG (차단기/DS)
+설비유형,DS 패널,[PNNG]Panel/ NGR/HRG (차단기/DS)
+설비유형,차단기 패널,[PNNG]Panel/ NGR/HRG (차단기/DS)
+설비유형,[PNNG] 패널 NGR/HRG DS,[PNNG]Panel/ NGR/HRG (차단기/DS)
+설비유형,[PNSE] 패널 케이블,[PNSE]Panel/ SECT Cable & Panel
+설비유형,SECT 케이블 및 패널,[PNSE]Panel/ SECT Cable & Panel
+설비유형,패널&케이블,[PNSE]Panel/ SECT Cable & Panel
+설비유형,Pnse 케이블 패널,[PNSE]Panel/ SECT Cable & Panel
+설비유형,패널/케이블,[PNSE]Panel/ SECT Cable & Panel
+설비유형,PNSM 패널,[PNSM]Panel/ Synchronous Motor Control Panel
+설비유형,동기모터 컨트롤러,[PNSM]Panel/ Synchronous Motor Control Panel
+설비유형,동기모터 제어패널,[PNSM]Panel/ Synchronous Motor Control Panel
+설비유형,PNSM 컨트롤 패널,[PNSM]Panel/ Synchronous Motor Control Panel
+설비유형,동기모터 컨트롤러 패널,[PNSM]Panel/ Synchronous Motor Control Panel
+설비유형,압력 완화 장치,[PRBR]Pressure Relief Device/ Breather Valve
+설비유형,브리더 밸브,[PRBR]Pressure Relief Device/ Breather Valve
+설비유형,PRBR 장치,[PRBR]Pressure Relief Device/ Breather Valve
+설비유형,압력 배출 밸브,[PRBR]Pressure Relief Device/ Breather Valve
+설비유형,압력 방출 밸브,[PRBR]Pressure Relief Device/ Breather Valve
+설비유형,PRRD,[PRRD]Pressure Relief Device/ Rupture Disc
+설비유형,압력 완화 장치/ 파열 디스크,[PRRD]Pressure Relief Device/ Rupture Disc
+설비유형,압력 방출 장치,[PRRD]Pressure Relief Device/ Rupture Disc
+설비유형,파열 디스크,[PRRD]Pressure Relief Device/ Rupture Disc
+설비유형,PRD/파열 디스크,[PRRD]Pressure Relief Device/ Rupture Disc
+설비유형,PRSV,[PRSV]Pressure Relief Device/ Safety Relief Valve
+설비유형,압력 안전밸브,[PRSV]Pressure Relief Device/ Safety Relief Valve
+설비유형,안전밸브,[PRSV]Pressure Relief Device/ Safety Relief Valve
+설비유형,압력 해소 밸브,[PRSV]Pressure Relief Device/ Safety Relief Valve
+설비유형,PRSV 밸브,[PRSV]Pressure Relief Device/ Safety Relief Valve
+설비유형,압력 탱크/볼 탱크,[PTBT]Pressure Tank / Ball Tank
+설비유형,PTBT (압력 탱크/볼 탱크),[PTBT]Pressure Tank / Ball Tank
+설비유형,압력/볼 탱크,[PTBT]Pressure Tank / Ball Tank
+설비유형,압력볼탱크,[PTBT]Pressure Tank / Ball Tank
+설비유형,PTBT 설비,[PTBT]Pressure Tank / Ball Tank
+설비유형,원심 펌프,[PUCE]Pump/ Centrifugal
+설비유형,센트리펌프,[PUCE]Pump/ Centrifugal
+설비유형,[PUCE] 원심 펌프,[PUCE]Pump/ Centrifugal
+설비유형,센트리펌프 장비,[PUCE]Pump/ Centrifugal
+설비유형,[PUCE]센트리펌프,[PUCE]Pump/ Centrifugal
+설비유형,PUDP 펌프,[PUDP]Pump/ Displacement
+설비유형,PUDP 디스플레이스먼트 펌프,[PUDP]Pump/ Displacement
+설비유형,PUDP 유압 펌프,[PUDP]Pump/ Displacement
+설비유형,PUDP 용량형 펌프,[PUDP]Pump/ Displacement
+설비유형,PUDP 퍼스트 유닛 디스플레이스먼트 펌프,[PUDP]Pump/ Displacement
+설비유형,레시프로케이팅 펌프,[PURE]Pump/ Reciprocating
+설비유형,[PURE] 레시프로케이팅 펌프,[PURE]Pump/ Reciprocating
+설비유형,[PURE] 펌프/레시프로케이팅,[PURE]Pump/ Reciprocating
+설비유형,펌프 레시프로케이팅,[PURE]Pump/ Reciprocating
+설비유형,레시프로 펌프,[PURE]Pump/ Reciprocating
+설비유형,파워 배터리 충전기,[PWBC]Power/ Battery Charger
+설비유형,PWBC 충전기,[PWBC]Power/ Battery Charger
+설비유형,배터리 충전기,[PWBC]Power/ Battery Charger
+설비유형,PWBC,[PWBC]Power/ Battery Charger
+설비유형,파워 충전기,[PWBC]Power/ Battery Charger
+설비유형,PWBT,[PWBT]Power/ Battery
+설비유형,전원/ 배터리 시스템,[PWBT]Power/ Battery
+설비유형,전원/배터리 설비,[PWBT]Power/ Battery
+설비유형,PWBT 장비,[PWBT]Power/ Battery
+설비유형,전원/배터리 기기,[PWBT]Power/ Battery
+설비유형,PWUP 시스템,[PWUP]Power/ U.P.S
+설비유형,전기 UPS,[PWUP]Power/ U.P.S
+설비유형,PWUP 장비,[PWUP]Power/ U.P.S
+설비유형,UPS 전원 장비,[PWUP]Power/ U.P.S
+설비유형,PWUP 전원 공급 시스템,[PWUP]Power/ U.P.S
+설비유형,PWVF 변환기,[PWVF]Power/ Variable Frequency
+설비유형,PWVF 변환기,[PWVF]Power/ Variable Frequency
+설비유형,PV 변환기,[PWVF]Power/ Variable Frequency
+설비유형,변주 주파수 변환기,[PWVF]Power/ Variable Frequency
+설비유형,PWVF 파워 변환기,[PWVF]Power/ Variable Frequency
+설비유형,콘 스토리지 탱크,[TACR]Storage Tank/ Corn Roof
+설비유형,TACR 스토리지 탱크,[TACR]Storage Tank/ Corn Roof
+설비유형,콘 루프 스토리지,[TACR]Storage Tank/ Corn Roof
+설비유형,콘 루프 탱크,[TACR]Storage Tank/ Corn Roof
+설비유형,TACR 콘 루프 탱크,[TACR]Storage Tank/ Corn Roof
+설비유형,TADR 스토리지 탱크,[TADR]Storage Tank/ Dome Roof Tank
+설비유형,돔 루프 탱크,[TADR]Storage Tank/ Dome Roof Tank
+설비유형,TADR 돔 탱크,[TADR]Storage Tank/ Dome Roof Tank
+설비유형,돔 루프 스토리지 탱크,[TADR]Storage Tank/ Dome Roof Tank
+설비유형,TADR 저장 탱크,[TADR]Storage Tank/ Dome Roof Tank
+설비유형,Storage Tank 고정지붕 내장형 플로팅 루프,[TAFI]Storage Tank/ Fixed Roof w/Internal floating
+설비유형,TAFI 고정지붕 내장형 탱크,[TAFI]Storage Tank/ Fixed Roof w/Internal floating
+설비유형,고정지붕 내장형 저장 탱크,[TAFI]Storage Tank/ Fixed Roof w/Internal floating
+설비유형,고정지붕 + 내부 플로팅 탱크,[TAFI]Storage Tank/ Fixed Roof w/Internal floating
+설비유형,TAFI 저장탱크,[TAFI]Storage Tank/ Fixed Roof w/Internal floating
+설비유형,TAFR 스토리지 탱크 플로팅 루프,[TAFR]Storage Tank/ Floating Roof
+설비유형,부유식 탱크,[TAFR]Storage Tank/ Floating Roof
+설비유형,플로팅 루프 탱크,[TAFR]Storage Tank/ Floating Roof
+설비유형,TAFR 탱크,[TAFR]Storage Tank/ Floating Roof
+설비유형,부유식 저장 탱크,[TAFR]Storage Tank/ Floating Roof
+설비유형,TAST 저장 탱크,[TAST]Storage Tank / Special Tank
+설비유형,특수 탱크,[TAST]Storage Tank / Special Tank
+설비유형,저장 탱크,[TAST]Storage Tank / Special Tank
+설비유형,TAST 스토리지 탱크,[TAST]Storage Tank / Special Tank
+설비유형,저장 및 특수 탱크,[TAST]Storage Tank / Special Tank
+설비유형,터빈,[TBST]Turbine/ Steam turbines
+설비유형,증기 터빈,[TBST]Turbine/ Steam turbines
+설비유형,TBST 터빈,[TBST]Turbine/ Steam turbines
+설비유형,터빈 시스템,[TBST]Turbine/ Steam turbines
+설비유형,증기 터빈을 쓴 설비,[TBST]Turbine/ Steam turbines
+설비유형,터보 익스팬더 센트리피탈,[TECE]Turbo Expander/ Centrifugal
+설비유형,TECE 터보 익스팬더,[TECE]Turbo Expander/ Centrifugal
+설비유형,센트리피탈 터보 익스팬더,[TECE]Turbo Expander/ Centrifugal
+설비유형,TECE 센트리피탈,[TECE]Turbo Expander/ Centrifugal
+설비유형,터보 익스팬더 센트리피탈 설비,[TECE]Turbo Expander/ Centrifugal
+설비유형,TRBD 변압기/버스덕,[TRBD]Transformer/ Bus Duct
+설비유형,변압기 버스덕,[TRBD]Transformer/ Bus Duct
+설비유형,TRBD 장비,[TRBD]Transformer/ Bus Duct
+설비유형,TRBD 전력 설비,[TRBD]Transformer/ Bus Duct
+설비유형,전력 변압기 버스덕,[TRBD]Transformer/ Bus Duct
+설비유형,트랜스포머,[TRFM]Transformer/ Transformer
+설비유형,변압기,[TRFM]Transformer/ Transformer
+설비유형,TRFM,[TRFM]Transformer/ Transformer
+설비유형,변압기 설비,[TRFM]Transformer/ Transformer
+설비유형,전력 변환기,[TRFM]Transformer/ Transformer
+설비유형,[VAAV] 밸브,[VAAV]Valve/ Air & Nitrogen Operated Valve
+설비유형,공기 및 질소 밸브,[VAAV]Valve/ Air & Nitrogen Operated Valve
+설비유형,VAAV 밸브,[VAAV]Valve/ Air & Nitrogen Operated Valve
+설비유형,공기질소밸브,[VAAV]Valve/ Air & Nitrogen Operated Valve
+설비유형,에어밸브,[VAAV]Valve/ Air & Nitrogen Operated Valve
+설비유형,밸브/컨트롤밸브,[VACV]Valve/ Control Valve
+설비유형,밸브 장비,[VACV]Valve/ Control Valve
+설비유형,VACV 밸브,[VACV]Valve/ Control Valve
+설비유형,제어 밸브,[VACV]Valve/ Control Valve
+설비유형,밸브 시스템,[VACV]Valve/ Control Valve
+설비유형,밸브-댐퍼-루버 설정,[VADL]Valve/ Damper & Louver
+설비유형,VADL 시스템,[VADL]Valve/ Damper & Louver
+설비유형,"밸브, 댐퍼, 루버",[VADL]Valve/ Damper & Louver
+설비유형,VADL 장비,[VADL]Valve/ Damper & Louver
+설비유형,공기조절 설정,[VADL]Valve/ Damper & Louver
+설비유형,VAMV 밸브,[VAMV]Valve/ Motor Operated Valve
+설비유형,모터 밸브,[VAMV]Valve/ Motor Operated Valve
+설비유형,모터 밸브,[VAMV]Valve/ Motor Operated Valve
+설비유형,밸브/모터 밸브,[VAMV]Valve/ Motor Operated Valve
+설비유형,VAMV 밸브/모터 밸브,[VAMV]Valve/ Motor Operated Valve
+설비유형,VAPR 밸브,[VAPR]Valve/ PX Rotary Valve
+설비유형,VAPR 밸브/ PX 회전밸브,[VAPR]Valve/ PX Rotary Valve
+설비유형,PX 회전밸브,[VAPR]Valve/ PX Rotary Valve
+설비유형,VAPR 회전밸브,[VAPR]Valve/ PX Rotary Valve
+설비유형,VAPR PX 밸브,[VAPR]Valve/ PX Rotary Valve
+설비유형,[VARO]밸브/회전 밸브,[VARO]Valve/ Rotary Valve
+설비유형,VARO 밸브,[VARO]Valve/ Rotary Valve
+설비유형,회전 밸브,[VARO]Valve/ Rotary Valve
+설비유형,VARO 회전 밸브,[VARO]Valve/ Rotary Valve
+설비유형,VARO밸브/로터리 밸브,[VARO]Valve/ Rotary Valve
+설비유형,밸브 슬라이드 밸브,[VASL]Valve/ Slide Valve
+설비유형,밸브 슬라이드,[VASL]Valve/ Slide Valve
+설비유형,슬라이드 밸브,[VASL]Valve/ Slide Valve
+설비유형,VASL 밸브,[VASL]Valve/ Slide Valve
+설비유형,밸브 슬라이드 시스템,[VASL]Valve/ Slide Valve
+설비유형,소레노이드 밸브,[VASV]Valve/ Solenoid valve
+설비유형,밸브 솔레노이드,[VASV]Valve/ Solenoid valve
+설비유형,VASV 밸브,[VASV]Valve/ Solenoid valve
+설비유형,솔레노이드 밸브,[VASV]Valve/ Solenoid valve
+설비유형,소레노이드 밸브 VASV,[VASV]Valve/ Solenoid valve
+설비유형,VEAT 압력용기/공기 볼륨 탱크,[VEAT]Pressure Vessel/ Air Volume Tank
+설비유형,VEAT 공기 탱크,[VEAT]Pressure Vessel/ Air Volume Tank
+설비유형,압력용기/공기 볼륨 탱크,[VEAT]Pressure Vessel/ Air Volume Tank
+설비유형,VEAT 압력용기,[VEAT]Pressure Vessel/ Air Volume Tank
+설비유형,VEAT 압력 탱크,[VEAT]Pressure Vessel/ Air Volume Tank
+설비유형,VEDR 압력 용기,[VEDR]Pressure Vessel/ Drum
+설비유형,압력 블럭,[VEDR]Pressure Vessel/ Drum
+설비유형,VEDR 드럼,[VEDR]Pressure Vessel/ Drum
+설비유형,압력 탱크,[VEDR]Pressure Vessel/ Drum
+설비유형,압력용기 VEDR,[VEDR]Pressure Vessel/ Drum
+설비유형,VEDS 압력용기/디솔터,[VEDS]Pressure Vessel/ Desalter
+설비유형,압력용기/디솔터 시스템,[VEDS]Pressure Vessel/ Desalter
+설비유형,VEDS 압력 Container,[VEDS]Pressure Vessel/ Desalter
+설비유형,압력 디솔터 장치,[VEDS]Pressure Vessel/ Desalter
+설비유형,VEDS 압력탱크/디솔터,[VEDS]Pressure Vessel/ Desalter
+설비유형,VEFC 압력용기,[VEFC]Pressure Vessel/ Filter & Coalescer
+설비유형,필터 & 코알레서,[VEFC]Pressure Vessel/ Filter & Coalescer
+설비유형,VEFC 압력용기/필터,[VEFC]Pressure Vessel/ Filter & Coalescer
+설비유형,VEFC 필터 & 코알레스싱 시스템,[VEFC]Pressure Vessel/ Filter & Coalescer
+설비유형,VEFC 압력 용기 및 필터,[VEFC]Pressure Vessel/ Filter & Coalescer
+설비유형,[VERG] 압력용기/ 리제네레이터,[VERG]Pressure Vessel/ Regenerator
+설비유형,VERG 압력용기/리제네레이터,[VERG]Pressure Vessel/ Regenerator
+설비유형,VERG 압력용기/재생기,[VERG]Pressure Vessel/ Regenerator
+설비유형,[VERG] 압력용기 및 재생기,[VERG]Pressure Vessel/ Regenerator
+설비유형,압력용기/리제네레이터 VERG,[VERG]Pressure Vessel/ Regenerator
+설비유형,VERX 압력용기,[VERX]Pressure Vessel/ Reactor
+설비유형,VERX 반응기,[VERX]Pressure Vessel/ Reactor
+설비유형,압력 반응기,[VERX]Pressure Vessel/ Reactor
+설비유형,VERX Press Vessel,[VERX]Pressure Vessel/ Reactor
+설비유형,VERX Reactor Press,[VERX]Pressure Vessel/ Reactor
+설비유형,프레스처 베슬,[VETW]Pressure Vessel/ Tower
+설비유형,VETW 압력 용기,[VETW]Pressure Vessel/ Tower
+설비유형,압력 탑,[VETW]Pressure Vessel/ Tower
+설비유형,압력 탱크,[VETW]Pressure Vessel/ Tower
+설비유형,VETW 탑,[VETW]Pressure Vessel/ Tower
+설비유형,윈치/크레인/호이스트,[WIOC]Winch/ Over Head Crane/Hoist (Stationary Equipment 용)
+설비유형,[WIOC] 윈치 크레인 호이스트,[WIOC]Winch/ Over Head Crane/Hoist (Stationary Equipment 용)
+설비유형,윈치 오버헤드 크레인 호이스트,[WIOC]Winch/ Over Head Crane/Hoist (Stationary Equipment 용)
+설비유형,고정식 장비 윈치 크레인,[WIOC]Winch/ Over Head Crane/Hoist (Stationary Equipment 용)
+설비유형,스테이션어리 윈치/크레인/호이스트,[WIOC]Winch/ Over Head Crane/Hoist (Stationary Equipment 용)
+설비유형,윈치 크레인,[WIOR]Winch/ Over Head Crane/Hoist (Rotating Equipment 용)
+설비유형,로테이팅 장비용 윈치,[WIOR]Winch/ Over Head Crane/Hoist (Rotating Equipment 용)
+설비유형,윈치/크레인/호이스팅 장비,[WIOR]Winch/ Over Head Crane/Hoist (Rotating Equipment 용)
+설비유형,윈치 오버헤드 장비,[WIOR]Winch/ Over Head Crane/Hoist (Rotating Equipment 용)
+설비유형,윈치 로테이팅 장비,[WIOR]Winch/ Over Head Crane/Hoist (Rotating Equipment 용)
+설비유형,윈치 스택 크레인,[WISC]Winch/ Stacker Crane
+설비유형,WISC 윈치,[WISC]Winch/ Stacker Crane
+설비유형,윈치 크레인,[WISC]Winch/ Stacker Crane
+설비유형,WISC 스택 크레인,[WISC]Winch/ Stacker Crane
+위치,#1RTO,#1RTO
+위치,1RTO,#1RTO
+위치,원RTO,#1RTO
+위치,#1 원,#1RTO
+위치,원 넘버 1,#1RTO
+위치,1.4BDO,1.4BDO
+위치,1.4B도,1.4BDO
+위치,1.4B도 지역,1.4BDO
+위치,1.4비디오,1.4BDO
+위치,1.4비디오 지역,1.4BDO
+위치,1.4BDO Off-Site,1.4BDO Off-Site
+위치,1.4BDO 오프사이트,1.4BDO Off-Site
+위치,2층,2nd C/F
+위치,2nd C/F,2nd C/F
+위치,2층 층,2nd C/F
+위치,2층 층 층,2nd C/F
+위치,2층 층층,2nd C/F
+위치,8블 비상발전기,8BL 비상발전기
+위치,8BL 비상전원,8BL 비상발전기
+위치,8BL 비상발전 시스템,8BL 비상발전기
+위치,8블 비상전기,8BL 비상발전기
+위치,8블 비상전원기,8BL 비상발전기
+위치,에어컨 필터,A/C filter unit
+위치,에어컨 필터 유닛,A/C filter unit
+위치,A/C 필터,A/C filter unit
+위치,냉방 필터,A/C filter unit
+위치,A/C 필터 장치,A/C filter unit
+위치,ARU A-Train,ARU A-Train
+위치,아루 에이트레인,ARU A-Train
+위치,에이루 A-Train,ARU A-Train
+위치,ARU a-트레인,ARU A-Train
+위치,아루 A트레인,ARU A-Train
+위치,ARU B-Train,ARU B-Train
+위치,아루비트레인,ARU B-Train
+위치,ARU B열차,ARU B-Train
+위치,비트레인,ARU B-Train
+위치,아루 B-메트로,ARU B-Train
+위치,ARU 공용시설,ARU Common Facility
+위치,ARU 공용 시설,ARU Common Facility
+위치,ARU공용,ARU Common Facility
+위치,ARU 공용,ARU Common Facility
+위치,ARU CF,ARU Common Facility
+위치,ARU 부대시설,ARU 부대시설
+위치,ARU 부대 시설,ARU 부대시설
+위치,ARU 부대시설 위치,ARU 부대시설
+위치,ARU 부대 시설 위치 찾아보기,ARU 부대시설
+위치,ARU 부대시설 어디에 있어?,ARU 부대시설
+위치,아스팔트 저장 출하 내항,Asphalt저장출하-내항
+위치,아스팔트 저장 출하 내항 위치,Asphalt저장출하-내항
+위치,아스팔트 저장 출하 내항 위치 찾기,Asphalt저장출하-내항
+위치,저장 출하 내항,Asphalt저장출하-내항
+위치,내항 아스팔트 저장 출하,Asphalt저장출하-내항
+위치,BC로 갈래?,BC
+위치,BC 근처에 뭐 재미있는 거 있어?,BC
+위치,BC에서의 일정은 어떻게 되어 있어?,BC
+위치,BC에서 만나자,BC
+위치,BC까지 거리가 얼마나 돼?,BC
+위치,BR,BR
+위치,비알,BR
+위치,비알위치,BR
+위치,브이알,BR
+위치,비알 지역,BR
+위치,BRP 위치,BRP
+위치,BRP 좌표,BRP
+위치,BRP 장소,BRP
+위치,BRP 지점,BRP
+위치,브이에르피 위치,BRP
+위치,BS 위치,BS
+위치,BS 주소,BS
+위치,BS에서,BS
+위치,BS 근처,BS
+위치,BS 위치 찾기,BS
+위치,BY,BY
+위치,비와이,BY
+위치,비와이 위치,BY
+위치,비와이 군,BY
+위치,BY 위치,BY
+위치,바이오리액터,Bioreactor
+위치,생물 반응기,Bioreactor
+위치,바이오 리액터,Bioreactor
+위치,생물 반응 장치,Bioreactor
+위치,바이오 반응기,Bioreactor
+위치,바이오 슬러지 유닛,Biosludge unit
+위치,슬러지 처리장치,Biosludge unit
+위치,바이오 슬러지 처리 시스템,Biosludge unit
+위치,슬러지 유닛,Biosludge unit
+위치,바이오 처리 장치,Biosludge unit
+위치,Butamer 위치,Butamer
+위치,부타머 위치,Butamer
+위치,Butamer 지점,Butamer
+위치,부타머 지점,Butamer
+위치,부텐-1 유닛,Butene-1 Unit
+위치,부텐 1 유닛,Butene-1 Unit
+위치,부텐-1 단위,Butene-1 Unit
+위치,부텐 1 단위,Butene-1 Unit
+위치,부텐-1 장치,Butene-1 Unit
+위치,C5 HDGN,C5 HDGN
+위치,C5,C5 HDGN
+위치,HDGN 위치,C5 HDGN
+위치,C5 HDGN 위치,C5 HDGN
+위치,C5 HDGN 장소,C5 HDGN
+위치,C9 스플리터,C9 Spilitter
+위치,C9 분할기,C9 Spilitter
+위치,C9 분할 스플리터,C9 Spilitter
+위치,C9 스플릿 분할기,C9 Spilitter
+위치,C9 스플리터 장치,C9 Spilitter
+위치,CO2 회수,CO2 회수공정
+위치,CO2 캐치,CO2 회수공정
+위치,CO2 캐치프로세스,CO2 회수공정
+위치,CO2 포집,CO2 회수공정
+위치,CO2 캡처 공정,CO2 회수공정
+위치,CPI A~F,CPI A~F
+위치,CPI A부터 F까지,CPI A~F
+위치,CPI AF,CPI A~F
+위치,시피 아이부터 에프,CPI A~F
+위치,CPI A to F,CPI A~F
+위치,CT3-1S/S 위치,CT3-1S/S
+위치,CT3-1S/S 장소,CT3-1S/S
+위치,CT3-1S/S 위치 정보,CT3-1S/S
+위치,CT3-1S/S 어디?,CT3-1S/S
+위치,CT3-1S/S 위치 찾기,CT3-1S/S
+위치,공통 보일러,Common 보일러 공통
+위치,Common 보일러,Common 보일러 공통
+위치,보일러 공통,Common 보일러 공통
+위치,공통 보일러 위치,Common 보일러 공통
+위치,공동 보일러 장소,Common 보일러 공통
+위치,공통 압축공기시설,Common 압축공기시설
+위치,공통 압축공기 공장,Common 압축공기시설
+위치,공동 공기 압축기,Common 압축공기시설
+위치,공동 공기압축기시설,Common 압축공기시설
+위치,압축공기 공장 시설,Common 압축공기시설
+위치,커먼 연료공급소,Common 연료공급시설
+위치,공급시설,Common 연료공급시설
+위치,공급소,Common 연료공급시설
+위치,연료공급소,Common 연료공급시설
+위치,Common 연료공급,Common 연료공급시설
+위치,DAF A 위치,DAF A
+위치,DAF A 장소,DAF A
+위치,DAF A 위치는 어디야?,DAF A
+위치,다파에 위치 알려줘,DAF A
+위치,DAF A는 어디에 있어?,DAF A
+위치,DAF B,DAF B
+위치,대프 비,DAF B
+위치,DAF B 위치,DAF B
+위치,대프비 위치,DAF B
+위치,DAF B,DAF B
+위치,DAF C,DAF C
+위치,DAF C 위치,DAF C
+위치,DAF C 위치 정보,DAF C
+위치,DAF C,DAF C
+위치,DAF C 위치 확인,DAF C
+위치,DAF tr.A,DAF tr.A
+위치,DAF 트레일러 A형,DAF tr.A
+위치,DAF A트레일러,DAF tr.A
+위치,트레일러 A,DAF tr.A
+위치,DAF 트레일러 A 모델,DAF tr.A
+위치,DAF 트레일러 부품,DAF tr.B
+위치,DAF 트레일러 B,DAF tr.B
+위치,DAF tr.B,DAF tr.B
+위치,DAF 트레일러 부품 b,DAF tr.B
+위치,DAF 트레일러 부품 트랙터 b,DAF tr.B
+위치,DAF 트리씨,DAF tr.C
+위치,DAF 트리 C,DAF tr.C
+위치,DAF 트리씨 위치,DAF tr.C
+위치,DAF 트리 C 위치,DAF tr.C
+위치,DAF 트리씨 코드,DAF tr.C
+위치,E3-NEP-6S/S 위치,E3-NEP-6S/S
+위치,6S/S 위치,E3-NEP-6S/S
+위치,E3-NEP 6S/S 위치,E3-NEP-6S/S
+위치,E3-NEP 6S/S가 있는 곳,E3-NEP-6S/S
+위치,6S/S가 어디에 있는지,E3-NEP-6S/S
+위치,E5-MAIN-1S/S,E5-MAIN-1S/S
+위치,이오파이브 메인 1S/S,E5-MAIN-1S/S
+위치,E5 메인 위치,E5-MAIN-1S/S
+위치,E5 1S/S,E5-MAIN-1S/S
+위치,이오파이브 위치 1S/S,E5-MAIN-1S/S
+위치,E5-NEP-1-1S/S 위치,E5-NEP-1-1S/S
+위치,E5-NEP-1-1S/S의 위치는 어디야?,E5-NEP-1-1S/S
+위치,E5-NEP 1-1S/S 위치 찾아줘,E5-NEP-1-1S/S
+위치,E5-NEP-1-1S/S 위치 어디지?,E5-NEP-1-1S/S
+위치,E5-NEP 1-1S/S 위치 정보 필요해,E5-NEP-1-1S/S
+위치,E5-NEP-1AS/S 위치,E5-NEP-1AS/S
+위치,E5-NEP-1AS/S 장비 위치,E5-NEP-1AS/S
+위치,E5-NEP-1AS/S 설치 위치,E5-NEP-1AS/S
+위치,E5-NEP-1AS/S 위치 정보,E5-NEP-1AS/S
+위치,E5-NEP-1AS/S 위치 찾기,E5-NEP-1AS/S
+위치,이티피디엠 생산시설,EPDM생산시설
+위치,이티피디엠 공장,EPDM생산시설
+위치,이티피디엠 생산라인,EPDM생산시설
+위치,이티피디엠 플랜트,EPDM생산시설
+위치,이티피디엠 제작공장,EPDM생산시설
+위치,EPDM 저장/출하,EPDM저장/출하
+위치,EPDM 출하 장소,EPDM저장/출하
+위치,EPDM 창고,EPDM저장/출하
+위치,EPDM 저장소,EPDM저장/출하
+위치,EPDM 출하 지점,EPDM저장/출하
+위치,EPDM 폐수처리 시설,EPDM폐수처리시설
+위치,EPDM 폐수처리장,EPDM폐수처리시설
+위치,EPDM 폐수처리시설,EPDM폐수처리시설
+위치,EPDM 처리시설,EPDM폐수처리시설
+위치,EPDM 처리장,EPDM폐수처리시설
+위치,익시스트 유틸리티,EXIST UTILITY
+위치,엑시스트 유틸리티,EXIST UTILITY
+위치,EXIST 위치 서비스,EXIST UTILITY
+위치,EXIST 위치,EXIST UTILITY
+위치,익시스트 위치,EXIST UTILITY
+위치,F3 2DS 2S/S,F3-2DS-2S/S
+위치,F3-2DS-2S/S 모델,F3-2DS-2S/S
+위치,F3 2DS 2SS,F3-2DS-2S/S
+위치,F3 두디에스 두에스에스,F3-2DS-2S/S
+위치,F3 2DS 2S/S 위치,F3-2DS-2S/S
+위치,F8-6SRP 2S/S,F8-6SRP-2S/S
+위치,F8 모델 6SRP 2S/S,F8-6SRP-2S/S
+위치,F8-6SRP-2S/S 위치,F8-6SRP-2S/S
+위치,F8 6SRP 2S/S,F8-6SRP-2S/S
+위치,F8-6SRP두에스에스,F8-6SRP-2S/S
+위치,FCC 154KV 변전소,FCC 154KV
+위치,154KV FCC 변전소,FCC 154KV
+위치,FCC 154KV,FCC 154KV
+위치,FCC 154 변전소,FCC 154KV
+위치,154KV 변전소,FCC 154KV
+위치,FCC 냉각탑,FCC Cooling Tower
+위치,FCC 쿨링타워,FCC Cooling Tower
+위치,FCC 냉각탑 위치,FCC Cooling Tower
+위치,FCC 쿨링타워 위치,FCC Cooling Tower
+위치,FCC 냉각탑,FCC Cooling Tower
+위치,FCC 플레어,FCC Flare
+위치,FCC flare 위치,FCC Flare
+위치,FCC flare 어디있음?,FCC Flare
+위치,FCC 플레어 위치 알려줘,FCC Flare
+위치,FCC flare 위치 찾기,FCC Flare
+위치,FCC 보일러공통,FCC 보일러공통
+위치,FCC 보일러,FCC 보일러공통
+위치,FCC 보일러실,FCC 보일러공통
+위치,FCC 보일러공용,FCC 보일러공통
+위치,FCC 보일러공간,FCC 보일러공통
+위치,FCC 순수시설,FCC 순수시설
+위치,FCC 순수 시설,FCC 순수시설
+위치,FCC 시설을 순수하게 이용하는 곳,FCC 순수시설
+위치,순수한 FCC 시설,FCC 순수시설
+위치,FCC의 순수 시설,FCC 순수시설
+위치,FCC 압축공기,FCC 압축공기시설
+위치,FCC 압축기 시설,FCC 압축공기시설
+위치,FCC 압축공기 시설,FCC 압축공기시설
+위치,FCC 공기압축기,FCC 압축공기시설
+위치,FCC 공기 압축기시설,FCC 압축공기시설
+위치,FCC 연료공급시설,FCC 연료공급시설
+위치,FCC 연료시설,FCC 연료공급시설
+위치,FCC 연료공급장치,FCC 연료공급시설
+위치,FCC 연료 공급소,FCC 연료공급시설
+위치,FCC 전기시설,FCC 전기시설
+위치,FCC 전기설비,FCC 전기시설
+위치,FCC 전기 공사,FCC 전기시설
+위치,FCC 전기 관련 시설,FCC 전기시설
+위치,FCC 전기장비,FCC 전기시설
+위치,FCC 정수시설,FCC 정수시설
+위치,FCC 정수장,FCC 정수시설
+위치,FCC 정수소,FCC 정수시설
+위치,FCC 정수지점,FCC 정수시설
+위치,FCC 물 처리장,FCC 정수시설
+위치,FCC부대시설,FCC부대시설
+위치,FCC 부대 시설,FCC부대시설
+위치,FCC 대시설,FCC부대시설
+위치,FCC 부대시설 위치,FCC부대시설
+위치,FCC 부대 시설 찾기,FCC부대시설
+위치,FCC 저장소,FCC저장시설
+위치,FCC 저장 시설,FCC저장시설
+위치,FCC 저장장소,FCC저장시설
+위치,에프씨씨 저장시설,FCC저장시설
+위치,FCC 보관소,FCC저장시설
+위치,FD 위치,FD
+위치,FD의 자리,FD
+위치,Flare 위치,Flare
+위치,GCU,GCU
+위치,GCU 위치,GCU
+위치,GCU 캠퍼스 위치,GCU
+위치,GCU 어디에 있어?,GCU
+위치,GCU 캠퍼스 찾기,GCU
+위치,GRS 위치,GRS
+위치,지알에스,GRS
+위치,GRS 지점,GRS
+위치,GRS 위치 찾기,GRS
+위치,GRS 지표,GRS
+위치,GSU,GSU
+위치,GSU 위치,GSU
+위치,GSU 장소,GSU
+위치,GSU 위치 확인,GSU
+위치,GSU 어디에 있나요?,GSU
+위치,가스콘 위치,Gas Con
+위치,Gas Con 장소,Gas Con
+위치,HDT SPLT,HDT SPLT
+위치,HDT 스플릿,HDT SPLT
+위치,HDT 분할,HDT SPLT
+위치,HDT 분할 위치,HDT SPLT
+위치,HDT 스플릿 위치,HDT SPLT
+위치,HGU,HGU
+위치,해군대학원,HGU
+위치,해군대,HGU
+위치,해군대학,HGU
+위치,해군대학원 위치,HGU
+위치,HHT 위치,HHT
+위치,HHT 찾기,HHT
+위치,HHT 어디 있어?,HHT
+위치,HHT 주소 알려줘,HHT
+위치,HHT 장소,HHT
+위치,HHT 부대시설,HHT 부대시설
+위치,HHT 시설,HHT 부대시설
+위치,HHT 부대 시설,HHT 부대시설
+위치,HHT 부대 주변 시설,HHT 부대시설
+위치,HHT 부대에서 제공하는 시설,HHT 부대시설
+위치,HOU 냉각탑,HOU Cooling Tower
+위치,HOU 쿨링 타워,HOU Cooling Tower
+위치,HOU 냉각탑 위치,HOU Cooling Tower
+위치,HOU 쿨링 타워 위치,HOU Cooling Tower
+위치,HOU cooling tower,HOU Cooling Tower
+위치,HOU Flare 위치,HOU Flare
+위치,Flare 위치 Houston,HOU Flare
+위치,HOU Flare 위치어디야?,HOU Flare
+위치,Flare 위치 Houston 어디?,HOU Flare
+위치,HOU Flare 위치는?,HOU Flare
+위치,HOU WWTP,HOU WWTP
+위치,휴 WWTP,HOU WWTP
+위치,휴오우 상수도 처리장,HOU WWTP
+위치,휴 오우 워터 트리트먼트 플랜트,HOU WWTP
+위치,휴오우 상수도처리장,HOU WWTP
+위치,HOU 부대시설,HOU 부대시설
+위치,HOU 부대 위치,HOU 부대시설
+위치,HOU 시설 위치,HOU 부대시설
+위치,HOU 폐수처리 시설,HOU폐수처리시설
+위치,HOU 폐수처리장,HOU폐수처리시설
+위치,HOU 수처리시설,HOU폐수처리시설
+위치,HOU폐수처리,HOU폐수처리시설
+위치,HOU 처리시설,HOU폐수처리시설
+위치,HS 촉매 시설,HS 촉매제조시설
+위치,HS 촉매제조소,HS 촉매제조시설
+위치,촉매제조 시설,HS 촉매제조시설
+위치,HS 촉매공장,HS 촉매제조시설
+위치,촉매 공장,HS 촉매제조시설
+위치,KNC 공통 위치,KNC 공통
+위치,KNC 공통,KNC 공통
+위치,KNC 공통 자리,KNC 공통
+위치,KNC 공통 위치 찾기,KNC 공통
+위치,KNC 공통에서 만나,KNC 공통
+위치,LEU,LEU
+위치,리우,LEU
+위치,레우 위성,LEU
+위치,리우위성,LEU
+위치,LEU 위성,LEU
+위치,Louisiana State University,LSU
+위치,LSU,LSU
+위치,루이지애나 주립대,LSU
+위치,LSU 대학,LSU
+위치,루이지애나 주립대학,LSU
+위치,M/U 압축기,M/U Compressor
+위치,MU Compressor,M/U Compressor
+위치,M/U 컴프레서,M/U Compressor
+위치,MU 압축기,M/U Compressor
+위치,M/U 압축기 구동기,M/U Compressor
+위치,멤브레인,Membrane
+위치,막,Membrane
+위치,Cell membrane,Membrane
+위치,세포막,Membrane
+위치,세포막,Membrane
+위치,N1-SDA-1S/S,N1-SDA-1S/S
+위치,N1-SDA 1S/S,N1-SDA-1S/S
+위치,N1-SDA 1단계,N1-SDA-1S/S
+위치,N1-SDA 1스탠스,N1-SDA-1S/S
+위치,N1-SDA 1스탠스/에스,N1-SDA-1S/S
+위치,N10 호우 1S/S,N10-HOU-1S/S
+위치,N10 호우 1단계,N10-HOU-1S/S
+위치,N10-HOU 첫 번째 단계,N10-HOU-1S/S
+위치,N10-HOU 1단계,N10-HOU-1S/S
+위치,N10 호우 1단계 위치,N10-HOU-1S/S
+위치,N11-HOU-1AS/S 위치,N11-HOU-1AS/S
+위치,N11 HOU 1AS/S 위치,N11-HOU-1AS/S
+위치,N11-HOU-1AS/S 어디 있지?,N11-HOU-1AS/S
+위치,N11-HOU-1AS/S 현재 위치,N11-HOU-1AS/S
+위치,N11-HOU-1AS/S 위치 확인,N11-HOU-1AS/S
+위치,N13-1 S/S,N13-1 S/S
+위치,S/S N13-1,N13-1 S/S
+위치,알앤스로티ology N13-1,N13-1 S/S
+위치,N13-1 S/S 위치,N13-1 S/S
+위치,S/S N13-1 위치,N13-1 S/S
+위치,N14-1S/S,N14-1S/S
+위치,N14-1S/S 위치,N14-1S/S
+위치,N14-1 위치,N14-1S/S
+위치,N14-1S/S 좌표,N14-1S/S
+위치,N14-1S/S 지역,N14-1S/S
+위치,N15 2LBO 1S/S,N15-2LBO-1S/S
+위치,N15 2LBO 1S/SS,N15-2LBO-1S/S
+위치,N15-2LBO-1S/S 위치,N15-2LBO-1S/S
+위치,N15 위치,N15-2LBO-1S/S
+위치,N15 2LBO 1S/S 장소,N15-2LBO-1S/S
+위치,N18-1LBO-1S/S 위치,N18-1LBO-1S/S
+위치,N18 1LBO 1S/S 위치,N18-1LBO-1S/S
+위치,N18-1LBO-1S/S 설치 위치,N18-1LBO-1S/S
+위치,N18 1LBO 1S/S 설치 위치,N18-1LBO-1S/S
+위치,N18 1LBO 1S/S가 있는 곳,N18-1LBO-1S/S
+위치,N2-3LBO-1S/S,N2-3LBO-1S/S
+위치,N 두 삼 엘비오 원 에스 에스,N2-3LBO-1S/S
+위치,N2-3LBO-1S/S 유닛,N2-3LBO-1S/S
+위치,N2-3LBO-1S/S 위치를 알려줘,N2-3LBO-1S/S
+위치,N2-3LBO-1S/S 구석,N2-3LBO-1S/S
+위치,엔투 에이치에이치티 원 에스,N2-HHT-1S/S
+위치,엔투하치티 원에스,N2-HHT-1S/S
+위치,N2-HHT-1S/S,N2-HHT-1S/S
+위치,에이치에이치티 원에스,N2-HHT-1S/S
+위치,한에스,N2-HHT-1S/S
+위치,N3-2PX-1S/S 위치,N3-2PX-1S/S
+위치,N3 2PX 1S/S,N3-2PX-1S/S
+위치,N3-2PX-1S/S 지점,N3-2PX-1S/S
+위치,N3-2PX-1S/S 좌표,N3-2PX-1S/S
+위치,N3-2PX-1S/S 위치지점,N3-2PX-1S/S
+위치,N3-NRC-1S/S 위치,N3-NRC-1S/S
+위치,N3 NRC 1S/S 위치,N3-NRC-1S/S
+위치,N3 NRCSI 위치,N3-NRC-1S/S
+위치,N3 NRCSI 스탠드,N3-NRC-1S/S
+위치,N3 NRCSI 장소,N3-NRC-1S/S
+위치,N4-HOU-2AS,N4-HOU-2AS/S
+위치,2AS 위치,N4-HOU-2AS/S
+위치,N4-HOU 2AS/S,N4-HOU-2AS/S
+위치,N4의 2AS 위치,N4-HOU-2AS/S
+위치,"2AS 위치, N4 HOU",N4-HOU-2AS/S
+위치,에뉴포 하우 투에스,N4-HOU-2S/S
+위치,N4-HOU-2S/S 위치,N4-HOU-2S/S
+위치,N4 2S/S 위치,N4-HOU-2S/S
+위치,N4하우2S/S,N4-HOU-2S/S
+위치,에누포 하우 투에스,N4-HOU-2S/S
+위치,엔파이브 엔알시 투에스 슬래시 에스,N5-NRC-2S/S
+위치,N5-NRC-2S/S 모델,N5-NRC-2S/S
+위치,N5 2S/S,N5-NRC-2S/S
+위치,N5NRC-2S/S 위치를 알려줘,N5-NRC-2S/S
+위치,엔파이브 엔알씨 2에스 에스,N5-NRC-2S/S
+위치,N6-9CT-1S/S 위치,N6-9CT-1S/S
+위치,N6-9CT-1S/S 상세 위치,N6-9CT-1S/S
+위치,N6-9CT-1 찾는 법,N6-9CT-1S/S
+위치,N6-9CT-1S/S 위치 찾아요,N6-9CT-1S/S
+위치,N6-9CT-1S/S 위치 알려줘,N6-9CT-1S/S
+위치,N6-PW-1S/S 위치,N6-PW-1S/S
+위치,N6-PW-1S/S가 어디에 있는지,N6-PW-1S/S
+위치,N6-PW-1S/S 위치 찾기,N6-PW-1S/S
+위치,N6-PW-1S/S 어디에 있냐?,N6-PW-1S/S
+위치,N6-PW-1S/S 장소,N6-PW-1S/S
+위치,N8-2BTX 1S/S,N8-2BTX-1S/S
+위치,엔에이트 2비티엑스 1에스/에스,N8-2BTX-1S/S
+위치,N8 2BTX 1S/S,N8-2BTX-1S/S
+위치,에이트 2비티엑스 1에스/에스,N8-2BTX-1S/S
+위치,N8 2BTX 1S/S 장비,N8-2BTX-1S/S
+위치,N8-2HNH-1S/S 위치,N8-2HNH-1S/S
+위치,N8-2HNH장비 위치,N8-2HNH-1S/S
+위치,N8 2HNH 1S/S,N8-2HNH-1S/S
+위치,N8 2HNH 1S/S 위치는?,N8-2HNH-1S/S
+위치,N8 2HNH 위치 확인,N8-2HNH-1S/S
+위치,N9-PW-1S/S,N9-PW-1S/S
+위치,N9PW 1S/S,N9-PW-1S/S
+위치,N9PW 1S/S 위치,N9-PW-1S/S
+위치,N9 1S/S,N9-PW-1S/S
+위치,N9PW 1S/S 을 찾아줘,N9-PW-1S/S
+위치,N9-PW-2S/S,N9-PW-2S/S
+위치,N9-PW-2S/S 위치,N9-PW-2S/S
+위치,N9-PW-2S/S 장소,N9-PW-2S/S
+위치,N9-PW-2S/S 위치는 어디야?,N9-PW-2S/S
+위치,N9-PW-2S/S 위치 알려줘,N9-PW-2S/S
+위치,N9-PW-3S/S 위치,N9-PW-3S/S
+위치,N9-PW-3S/S 어디 위치하지?,N9-PW-3S/S
+위치,N9-PW-3S 위치 알려줘,N9-PW-3S/S
+위치,N9-PW-3S/S 어디에 있어?,N9-PW-3S/S
+위치,N9-PW-3S/S 위치는?,N9-PW-3S/S
+위치,NAC 154KV,NAC 154KV
+위치,NAC 154KV 위치,NAC 154KV
+위치,NAC 154KV 어디에 있어?,NAC 154KV
+위치,NAC 154KV 위치 어떻게 돼?,NAC 154KV
+위치,154KV NAC 위치 어디야?,NAC 154KV
+위치,NAC 플레어,NAC Flare
+위치,NAC Flare 위치,NAC Flare
+위치,NAC Fl레어,NAC Flare
+위치,NAC 플레어 위치 찾기,NAC Flare
+위치,NAC 플레어 어디야,NAC Flare
+위치,NAC 보일러 공통,NAC 보일러 공통
+위치,NAC 보일러관련 위치,NAC 보일러 공통
+위치,NAC 보일러 위치,NAC 보일러 공통
+위치,NAC 보일러 공간,NAC 보일러 공통
+위치,NAC 부대 보일러 공간,NAC 보일러 공통
+위치,NAC 순수시설,NAC 순수시설
+위치,NAC순순,NAC 순수시설
+위치,NAC 순수,NAC 순수시설
+위치,NAC순수시설,NAC 순수시설
+위치,NAC 순수 시설,NAC 순수시설
+위치,NAC 정수시설,NAC 정수시설
+위치,NAC 정수,NAC 정수시설
+위치,NAC 정수기,NAC 정수시설
+위치,NAC 수질 관리 시설,NAC 정수시설
+위치,NAC 물 정수시설,NAC 정수시설
+위치,NAC 압축공기시설,NAC압축공기시설
+위치,NAC 압축공기,NAC압축공기시설
+위치,NAC 압축기,NAC압축공기시설
+위치,NAC 압공기,NAC압축공기시설
+위치,NAC 압축공기 장비,NAC압축공기시설
+위치,NAC 연료 공급 시설,NAC연료공급시설
+위치,NAC 연료공급시설,NAC연료공급시설
+위치,NAC 연료 주유소,NAC연료공급시설
+위치,NAC fuel supply facility,NAC연료공급시설
+위치,NAC 연료 주입기,NAC연료공급시설
+위치,NCC 플레어,NCC Flare
+위치,NCC Flare 위치,NCC Flare
+위치,NCC플레어 좌표,NCC Flare
+위치,NCC Fl레어 찾기,NCC Flare
+위치,NCC플레어 위치 정보,NCC Flare
+위치,NEP Cooling Tower,NEP Cooling Tower
+위치,네이피 냉각탑,NEP Cooling Tower
+위치,NEP 쿨링 타워,NEP Cooling Tower
+위치,냉각탑 NEP,NEP Cooling Tower
+위치,쿠링타워 NEP,NEP Cooling Tower
+위치,NEP 플레어 위치,NEP Flare
+위치,NEP Flare 어디,NEP Flare
+위치,NEP 플레어 위치 정보,NEP Flare
+위치,NEP플레어 위치 찾기,NEP Flare
+위치,NEP 플레어 위치 알려줘,NEP Flare
+위치,NEP G/T 위치,NEP G/T
+위치,NEP G/T 장소,NEP G/T
+위치,NEP G/T 위치 추적,NEP G/T
+위치,NEP에서 G/T 찾기,NEP G/T
+위치,NEP G/T 어디에 있음?,NEP G/T
+위치,NEP 오프사이트,NEP Off-Site
+위치,NEP 오프사이트 위치,NEP Off-Site
+위치,NEP 오프사이트 장소,NEP Off-Site
+위치,NEP 오프사이트 위치 찾아보기,NEP Off-Site
+위치,NEP 오프사이트 어디야?,NEP Off-Site
+위치,NEP 계량장,NEP 계량장
+위치,NEP 장비,NEP 계량장
+위치,계량장,NEP 계량장
+위치,NEP 기기,NEP 계량장
+위치,NEP 측정장,NEP 계량장
+위치,NEP 안전시설,NEP 안전시설
+위치,NEP 안전시설 위치,NEP 안전시설
+위치,NEP 안전한 시설,NEP 안전시설
+위치,NEP 안전장비 위치,NEP 안전시설
+위치,NEP 안전시설,NEP 안전시설
+위치,NEP 정수장,NEP 정수처리장
+위치,정수처리장,NEP 정수처리장
+위치,NEP 정수처리시설,NEP 정수처리장
+위치,NEP 정수장소,NEP 정수처리장
+위치,정수처리장 NEP,NEP 정수처리장
+위치,NEP 폐수처리장,NEP 폐수처리시설
+위치,NEP 폐수처리 시설,NEP 폐수처리시설
+위치,NEP 폐수처리공장,NEP 폐수처리시설
+위치,NEP 폐수처리,NEP 폐수처리시설
+위치,NEP 폐수처리시설,NEP 폐수처리시설
+위치,뉴섹션(NEU Section),NEU Section
+위치,뉴 에스,NEU Section
+위치,뉴 스퀘어,NEU Section
+위치,뉴S,NEU Section
+위치,뉴스퀘어,NEU Section
+위치,NRC PSA,NRC PSA
+위치,NRC 위치,NRC PSA
+위치,NRC PSA위치,NRC PSA
+위치,NRC PSA 어디,NRC PSA
+위치,NRC 위치 정보,NRC PSA
+위치,이렇게 표현할 수 있습니다,NRC PSA
+위치,엔엑스쓰리 엠엑스원 에스에스,NX3-NX-1 S/S
+위치,NX3-NX-1 S/S,NX3-NX-1 S/S
+위치,NX3-1 S/S,NX3-NX-1 S/S
+위치,엠엑스원 에스에스,NX3-NX-1 S/S
+위치,NX3-1,NX3-NX-1 S/S
+위치,NX5-NX-1 S/S,NX5-NX-1 S/S
+위치,NX5-NX-1,NX5-NX-1 S/S
+위치,NX5 NX-1,NX5-NX-1 S/S
+위치,NX5 S/S,NX5-NX-1 S/S
+위치,NX-1 S/S,NX5-NX-1 S/S
+위치,나프타 분별기,Naphtha Splitter
+위치,나프타 분리기,Naphtha Splitter
+위치,나프타 스플리터,Naphtha Splitter
+위치,나프타 분리 시설,Naphtha Splitter
+위치,나프타 분리기,Naphtha Splitter
+위치,넥슬린 데모 플랜트,Nexlene Demo Plant
+위치,넥슬린 시범 공장,Nexlene Demo Plant
+위치,넥슬린 데모,Nexlene Demo Plant
+위치,넥슬린 시범공장,Nexlene Demo Plant
+위치,넥슬린 Demo 플랜트,Nexlene Demo Plant
+위치,넥슬린 생산 공정,Nexlene 생산 공정
+위치,넥슬린 공정,Nexlene 생산 공정
+위치,넥슬린 제조 과정,Nexlene 생산 공정
+위치,넥슬린 제작 공정,Nexlene 생산 공정
+위치,Nexlene 생산 과정,Nexlene 생산 공정
+위치,Nexlene 포장 공정,Nexlene 포장 공정
+위치,Nexlene 포장법,Nexlene 포장 공정
+위치,Nexlene 포장 과정,Nexlene 포장 공정
+위치,Nexlene 포장 방법,Nexlene 포장 공정
+위치,Nexlene 포장 시스템,Nexlene 포장 공정
+위치,No.1 ARU,No.1 ARU
+위치,아루 원,No.1 ARU
+위치,아루1,No.1 ARU
+위치,아루 원번지,No.1 ARU
+위치,1번 아루,No.1 ARU
+위치,No.1 ATA,No.1 ATA
+위치,에이티에이 1호,No.1 ATA
+위치,No.1 ATA 위치,No.1 ATA
+위치,1번 ATA,No.1 ATA
+위치,에이티에이 1호 위치,No.1 ATA
+위치,No.1 Akylation,No.1 Akylation
+위치,1번 알킬화 장소,No.1 Akylation
+위치,No.1 알킬화,No.1 Akylation
+위치,Akylation No.1,No.1 Akylation
+위치,1번 알킬화 장소,No.1 Akylation
+위치,아로마이저 1호,No.1 Aromizer
+위치,No.1 아로마이저,No.1 Aromizer
+위치,1번 아로마이저,No.1 Aromizer
+위치,아로마이저 넘버원,No.1 Aromizer
+위치,1번 aromizer,No.1 Aromizer
+위치,No.1 BEU,No.1 BEU
+위치,빌딩 유에이원,No.1 BEU
+위치,1번 빌딩,No.1 BEU
+위치,유에이원 빌딩,No.1 BEU
+위치,No.1 C4 HDGN,No.1 C4 HDGN
+위치,C4HDGN,No.1 C4 HDGN
+위치,C4 HDGN,No.1 C4 HDGN
+위치,번호 원 이씨포 HDGN,No.1 C4 HDGN
+위치,1번 C4 HDGN,No.1 C4 HDGN
+위치,제 1 중앙 통제실,No.1 CDU
+위치,No.1 컨트롤룸,No.1 CDU
+위치,1번 중앙 제어실,No.1 CDU
+위치,CDU 1호실,No.1 CDU
+위치,1번 제어실,No.1 CDU
+위치,No.1 CDW,No.1 CDW
+위치,Number 1 CDW,No.1 CDW
+위치,1번 CDW,No.1 CDW
+위치,CDW 1호점,No.1 CDW
+위치,CDW 1,No.1 CDW
+위치,1번 냉각탑,No.1 Cooling Tower
+위치,No.1 쿨링 타워,No.1 Cooling Tower
+위치,1번 쿨링타워,No.1 Cooling Tower
+위치,첫 번째 냉각탑,No.1 Cooling Tower
+위치,No.1 냉각탑,No.1 Cooling Tower
+위치,번호 원 유에이,No.1 EU
+위치,번호 원 EU,No.1 EU
+위치,번호 원1유에이,No.1 EU
+위치,번호 원1EU,No.1 EU
+위치,번호 원 1 EU,No.1 EU
+위치,번호 원 플레어,No.1 Flare
+위치,1번 플레어,No.1 Flare
+위치,No.1 Flare,No.1 Flare
+위치,1번 불꽃,No.1 Flare
+위치,1번 화염,No.1 Flare
+위치,번호 원 GDS,No.1 GDS
+위치,1번 GDS,No.1 GDS
+위치,번호 원1 GDS,No.1 GDS
+위치,번호 원 1번 GDS,No.1 GDS
+위치,1번지 디에스,No.1 GDS
+위치,No.1 Gas Con,No.1 Gas Con
+위치,가스 콘 1번,No.1 Gas Con
+위치,No.1 가스 연결기,No.1 Gas Con
+위치,1번 가스 콘,No.1 Gas Con
+위치,가스 콘 번호 원,No.1 Gas Con
+위치,번호 원 HDT,No.1 HDT
+위치,No.1 HDT,No.1 HDT
+위치,첫 HDT,No.1 HDT
+위치,넘버원 HDT,No.1 HDT
+위치,1번 HNH,No.1 HNH
+위치,HNH 1,No.1 HNH
+위치,HNH 1호,No.1 HNH
+위치,1 HNH,No.1 HNH
+위치,한에이치엔에이치 1,No.1 HNH
+위치,No.1 LBO 부대시설,No.1 LBO 부대시설
+위치,1번 LBO 부대시설,No.1 LBO 부대시설
+위치,LBO 1호 부대시설,No.1 LBO 부대시설
+위치,No.1 LBO,No.1 LBO 부대시설
+위치,1번 LBO 시설,No.1 LBO 부대시설
+위치,No.1 LSR Merox,No.1 LSR Merox
+위치,1번 LSR Merox,No.1 LSR Merox
+위치,LSR Merox 1호기,No.1 LSR Merox
+위치,No.1 LSR,No.1 LSR Merox
+위치,1번 LSR,No.1 LSR Merox
+위치,No.1 MDU,No.1 MDU
+위치,1번 MDU,No.1 MDU
+위치,MDU 1호,No.1 MDU
+위치,제일 MDU,No.1 MDU
+위치,1번 MTBE 유닛,No.1 MTBE Unit
+위치,MTBE 유닛 1호,No.1 MTBE Unit
+위치,No.1 MTBE Unit,No.1 MTBE Unit
+위치,MTBE 1번,No.1 MTBE Unit
+위치,1번 MTBE Unit,No.1 MTBE Unit
+위치,PC 강의실 (F),No.1 PC(F)
+위치,1호 PC실 (F),No.1 PC(F)
+위치,1PC (F),No.1 PC(F)
+위치,PC실 1호 (F),No.1 PC(F)
+위치,No1 PC(F),No.1 PC(F)
+위치,No.1 PC(R),No.1 PC(R)
+위치,번호 원1피씨알,No.1 PC(R)
+위치,번호 원 1피씨알,No.1 PC(R)
+위치,No.1PC,No.1 PC(R)
+위치,번호 원피씨알 1,No.1 PC(R)
+위치,No.1 PE,No.1 PE
+위치,번호 원 1번 PE,No.1 PE
+위치,No.1 PE,No.1 PE
+위치,노원 PE 1번,No.1 PE
+위치,노원 1번,No.1 PE
+위치,1번 PGHT,No.1 PGHT
+위치,No.1 PGHT,No.1 PGHT
+위치,PGHT 1호,No.1 PGHT
+위치,1번 PGHT 위치,No.1 PGHT
+위치,PGHT 첫 번째,No.1 PGHT
+위치,No.1 PP,No.1 PP
+위치,No1 PP,No.1 PP
+위치,No.1 PP 위치,No.1 PP
+위치,No1 주소,No.1 PP
+위치,No.1 PP에서,No.1 PP
+위치,No.1 PRU,No.1 PRU
+위치,PRU 1번,No.1 PRU
+위치,No1 PRU 위,No.1 PRU
+위치,PRU 1번 위치,No.1 PRU
+위치,No,No.1 PRU
+위치,1번 파라-크실렌,No.1 Para-Xylene
+위치,파라-크실렌 1,No.1 Para-Xylene
+위치,No.1 P-Xylene,No.1 Para-Xylene
+위치,파크실렌 No.1,No.1 Para-Xylene
+위치,1번 P-X,No.1 Para-Xylene
+위치,No.1 Platforming,No.1 Platforming
+위치,No.1 플랫폼,No.1 Platforming
+위치,1번 플랫폼,No.1 Platforming
+위치,No1 플랫포밍,No.1 Platforming
+위치,1번 플랫포밍,No.1 Platforming
+위치,No.1 RFCC,No.1 RFCC
+위치,첫 번째 RFCC,No.1 RFCC
+위치,1번 RFCC,No.1 RFCC
+위치,No1 RFCC,No.1 RFCC
+위치,에프시씨 1호,No.1 RFCC
+위치,No.1 RHDS,No.1 RHDS
+위치,1번 RHDS,No.1 RHDS
+위치,RHDS 1,No.1 RHDS
+위치,RHDS 1호,No.1 RHDS
+위치,No.1 S/B Merox,No.1 S/B Merox
+위치,노원 메로크스 1번,No.1 S/B Merox
+위치,1번 메로크스,No.1 S/B Merox
+위치,메로크스 1번 상가,No.1 S/B Merox
+위치,1번 상가 메로크스,No.1 S/B Merox
+위치,SAR 1번,No.1 SAR
+위치,이번사 1호,No.1 SAR
+위치,No.1 SAR,No.1 SAR
+위치,1SAR,No.1 SAR
+위치,SAR 1호,No.1 SAR
+위치,1번 SRP 공용시설,No.1 SRP Common Facility
+위치,No.1 SRP 공용시설,No.1 SRP Common Facility
+위치,1번 SRP Common,No.1 SRP Common Facility
+위치,SRP 1번 공용시설,No.1 SRP Common Facility
+위치,No.1 SRP 건물,No.1 SRP Common Facility
+위치,No.1 Sulfolane,No.1 Sulfolane
+위치,한솔 소포레인,No.1 Sulfolane
+위치,No.1 술포레인,No.1 Sulfolane
+위치,한솔 1번 화학물질,No.1 Sulfolane
+위치,한솔 No.1 Sulfolane,No.1 Sulfolane
+위치,11번 냉각탑,No.11 Cooling Tower
+위치,No.11 쿨링 타워,No.11 Cooling Tower
+위치,11 Cooling Tower,No.11 Cooling Tower
+위치,11번 냉각탑,No.11 Cooling Tower
+위치,No.11 냉각탑,No.11 Cooling Tower
+위치,열두번지 C/T,No.12 C/T
+위치,12번지 C/T,No.12 C/T
+위치,12번지 아파트,No.12 C/T
+위치,No.12 C/T,No.12 C/T
+위치,열두번지 빌라,No.12 C/T
+위치,No.2 ARU,No.2 ARU
+위치,2번 ARU,No.2 ARU
+위치,아루 2호,No.2 ARU
+위치,ARU 2,No.2 ARU
+위치,아루 투,No.2 ARU
+위치,No.2 ATA,No.2 ATA
+위치,2번 ATA,No.2 ATA
+위치,ATA 2,No.2 ATA
+위치,에이티에이 두,No.2 ATA
+위치,둘째 ATA,No.2 ATA
+위치,No.2 Alkylation,No.2 Alkylation
+위치,2번 알킬레이션,No.2 Alkylation
+위치,알킬레이션 No2,No.2 Alkylation
+위치,알킬 No2,No.2 Alkylation
+위치,두 번째 알킬레이션 장치,No.2 Alkylation
+위치,No2 에로마이저,No.2 Aromizer
+위치,No.2 Aromizer,No.2 Aromizer
+위치,에로마이저 2호,No.2 Aromizer
+위치,No2 아로마이저,No.2 Aromizer
+위치,아로마이저 2,No.2 Aromizer
+위치,2번 베우,No.2 BEU
+위치,No.2 BEU,No.2 BEU
+위치,2 BEU,No.2 BEU
+위치,두 번째 BEU,No.2 BEU
+위치,C4 HDGN 2호,No.2 C4 HDGN
+위치,C4번호2 HDGN,No.2 C4 HDGN
+위치,C4 HDGN No.2,No.2 C4 HDGN
+위치,HDGN C4 2호,No.2 C4 HDGN
+위치,C4 2번 HDGN,No.2 C4 HDGN
+위치,No.2 CDU,No.2 CDU
+위치,CDU 2,No.2 CDU
+위치,두 번째 CDU,No.2 CDU
+위치,2번 CDU,No.2 CDU
+위치,CDU 2호기,No.2 CDU
+위치,No.2 CDW,No.2 CDW
+위치,CDW 2호,No.2 CDW
+위치,제2 CDW,No.2 CDW
+위치,두 번째 CDW,No.2 CDW
+위치,2번 CDW,No.2 CDW
+위치,냉각탑 2호,No.2 Cooling Tower
+위치,No.2 Cooling Tower,No.2 Cooling Tower
+위치,2번 냉각탑,No.2 Cooling Tower
+위치,Cold Tower 2,No.2 Cooling Tower
+위치,No2 Cooling Tower,No.2 Cooling Tower
+위치,두번째 시클로헥산,No.2 Cyclohexane
+위치,시클로헥산 2,No.2 Cyclohexane
+위치,No.2 Cyclohexane,No.2 Cyclohexane
+위치,2번 시클로헥산,No.2 Cyclohexane
+위치,사이클로헥산 두번째,No.2 Cyclohexane
+위치,No.2 EU,No.2 EU
+위치,유에이 2호,No.2 EU
+위치,NO.2 EU,No.2 EU
+위치,유에이 2호 구역,No.2 EU
+위치,유2구역,No.2 EU
+위치,FCC 154kV 2호,No.2 FCC 154kV
+위치,154kV FCC 2호,No.2 FCC 154kV
+위치,FCC 2호 154kV,No.2 FCC 154kV
+위치,No.2 FCC 154kV,No.2 FCC 154kV
+위치,154kV FCC 두번째,No.2 FCC 154kV
+위치,2번 FCC 냉각탑,No.2 FCC Cooling Tower
+위치,No.2 FCC Cooling Tower,No.2 FCC Cooling Tower
+위치,FCC 2번 쿨링탑,No.2 FCC Cooling Tower
+위치,냉각탑 2호,No.2 FCC Cooling Tower
+위치,FCC 2호 쿨링 타워,No.2 FCC Cooling Tower
+위치,2번 FCC 부대시설,No.2 FCC 부대시설
+위치,FCC 부대시설 2호,No.2 FCC 부대시설
+위치,FCC 부대 2번,No.2 FCC 부대시설
+위치,FCC 2번 부대시설,No.2 FCC 부대시설
+위치,2번 FCC 시설,No.2 FCC 부대시설
+위치,2번 FCC 순수시설,No.2 FCC 순수시설
+위치,노투 FCC 순수시설,No.2 FCC 순수시설
+위치,FCC 순수시설 2호,No.2 FCC 순수시설
+위치,순수시설 2호점,No.2 FCC 순수시설
+위치,FCC 순수시설 2번,No.2 FCC 순수시설
+위치,2번 FCC 압축공기시설,No.2 FCC 압축공기시설
+위치,No.2 FCC 압축공기시설,No.2 FCC 압축공기시설
+위치,FCC 2번 공기압축소,No.2 FCC 압축공기시설
+위치,2번 FCC 압축소,No.2 FCC 압축공기시설
+위치,No.2 FCC 압축공기시설,No.2 FCC 압축공기시설
+위치,노투에프씨 Fuel Supply,No.2 FCC 연료공급시설
+위치,FCC 연료공급시설 두번째,No.2 FCC 연료공급시설
+위치,2번 FCC 연료공급시설,No.2 FCC 연료공급시설
+위치,No.2 FCC 연료공급시설,No.2 FCC 연료공급시설
+위치,FCC 연료공급시설 두 번째 곳,No.2 FCC 연료공급시설
+위치,No.2 FCC 저장시설,No.2 FCC 저장시설
+위치,FCC 2호 저장시설,No.2 FCC 저장시설
+위치,2번 FCC 저장시설,No.2 FCC 저장시설
+위치,FCC 2호 저장소,No.2 FCC 저장시설
+위치,FCC No2 저장소,No.2 FCC 저장시설
+위치,FCC 전기시설 2호,No.2 FCC 전기시설
+위치,No2 FCC 전기시설,No.2 FCC 전기시설
+위치,FCC 2번 전기시설,No.2 FCC 전기시설
+위치,FCC 전기시설 2번,No.2 FCC 전기시설
+위치,FCC No2 전기시설,No.2 FCC 전기시설
+위치,2번 FCC 정수시설,No.2 FCC 정수시설
+위치,2번 정수시설,No.2 FCC 정수시설
+위치,FCC 정수시설 2호,No.2 FCC 정수시설
+위치,FCC 2호 정수시설,No.2 FCC 정수시설
+위치,2FCC 정수시설,No.2 FCC 정수시설
+위치,2번 FCC 폐수처리시설,No.2 FCC 폐수처리시설
+위치,FCC 2번 폐수처리시설,No.2 FCC 폐수처리시설
+위치,FCC 2호 폐수처리시설,No.2 FCC 폐수처리시설
+위치,No2 폐수처리시설,No.2 FCC 폐수처리시설
+위치,FCC 폐수처리시설 2번,No.2 FCC 폐수처리시설
+위치,노2 GDS,No.2 GDS
+위치,GDS 2호,No.2 GDS
+위치,2호 GDS,No.2 GDS
+위치,GDS 번 2,No.2 GDS
+위치,GDS 2번,No.2 GDS
+위치,2번 가스 콘,No.2 Gas con
+위치,No2 가스 콘,No.2 Gas con
+위치,2번가스콘,No.2 Gas con
+위치,가스 콘 2호,No.2 Gas con
+위치,No.2 Gas con,No.2 Gas con
+위치,No.2 HDT,No.2 HDT
+위치,HDT 2번,No.2 HDT
+위치,2번 HDT,No.2 HDT
+위치,HDT No. 2,No.2 HDT
+위치,HDT 2,No.2 HDT
+위치,HNH 2호,No.2 HNH
+위치,No 2 HNH,No.2 HNH
+위치,HNH 2번,No.2 HNH
+위치,2번 HNH,No.2 HNH
+위치,HNH No2,No.2 HNH
+위치,LBO 2호 부대시설,No.2 LBO 부대시설
+위치,No.2 LBO 부대,No.2 LBO 부대시설
+위치,2번 LBO 부대시설,No.2 LBO 부대시설
+위치,LBO 2부대시설,No.2 LBO 부대시설
+위치,2호 LBO 부대시설,No.2 LBO 부대시설
+위치,No.2 LPG Merox,No.2 LPG Merox
+위치,No.2 LPG 메로크스,No.2 LPG Merox
+위치,메로크스 2번호 위치,No.2 LPG Merox
+위치,LPG 메로크스 2 위치,No.2 LPG Merox
+위치,2 LPG 메로크스 위치,No.2 LPG Merox
+위치,No.2 LSR Merox 위치,No.2 LSR Merox
+위치,No2 LSR 머록스,No.2 LSR Merox
+위치,머록스 No2,No.2 LSR Merox
+위치,No.2 MDU,No.2 MDU
+위치,2번 MDU,No.2 MDU
+위치,MDU 2호,No.2 MDU
+위치,두 번째 MDU,No.2 MDU
+위치,MDU 2번째,No.2 MDU
+위치,MTBE 2호,No.2 MTBE
+위치,MTBE 2번째,No.2 MTBE
+위치,MTBE 2번,No.2 MTBE
+위치,No2 MTBE,No.2 MTBE
+위치,2번 PC(F),No.2 PC(F)
+위치,No.2 PC(F),No.2 PC(F)
+위치,2PC(F) 위치,No.2 PC(F)
+위치,2번 PC(아프리카),No.2 PC(F)
+위치,노투 피시알,No.2 PC(R)
+위치,No.2 PC(R),No.2 PC(R)
+위치,노투 피시알 에이치,No.2 PC(R)
+위치,2번 PC(R),No.2 PC(R)
+위치,2번 피시알,No.2 PC(R)
+위치,No.2 PE,No.2 PE
+위치,2번 PE 위치,No.2 PE
+위치,2PE 위치,No.2 PE
+위치,PGHT 2호기,No.2 PGHT
+위치,PGHT 2,No.2 PGHT
+위치,No.2 PGHT,No.2 PGHT
+위치,PGHT 2 번지,No.2 PGHT
+위치,PGHT 두번째,No.2 PGHT
+위치,No.2 PP,No.2 PP
+위치,2번 PP,No.2 PP
+위치,두번째 PP,No.2 PP
+위치,PP 2호,No.2 PP
+위치,PP 2번,No.2 PP
+위치,노투 프루,No.2 PRU
+위치,2번 프루,No.2 PRU
+위치,No.2 PRU,No.2 PRU
+위치,PRU 2,No.2 PRU
+위치,두번째 PRU,No.2 PRU
+위치,2번 파라-질렌,No.2 Para-Xylene
+위치,파라 질렌 2호,No.2 Para-Xylene
+위치,No.2 Para-Xylene,No.2 Para-Xylene
+위치,2번 파라-질렌,No.2 Para-Xylene
+위치,Para-xylene 2번,No.2 Para-Xylene
+위치,No.2 RFCC,No.2 RFCC
+위치,2 RFCC,No.2 RFCC
+위치,에이치에프씨씨2,No.2 RFCC
+위치,2번 RFCC,No.2 RFCC
+위치,2번 RF 시설,No.2 RFCC
+위치,No. 2 RHDS,No.2 RHDS
+위치,노투 RHDS,No.2 RHDS
+위치,RHDS 2호,No.2 RHDS
+위치,RHDS 번호 2,No.2 RHDS
+위치,2번 RHDS,No.2 RHDS
+위치,노투 RTO,No.2 RTO
+위치,2번 RTO,No.2 RTO
+위치,No.2 RTO,No.2 RTO
+위치,두번째 RTO,No.2 RTO
+위치,RTO 2호,No.2 RTO
+위치,No2 SAR,No.2 SAR
+위치,2번 SAR,No.2 SAR
+위치,SAR No.2,No.2 SAR
+위치,SAR 2,No.2 SAR
+위치,2번 구조대,No.2 SAR
+위치,넘버 투 설포란,No.2 Sulfolane
+위치,2번 설포란,No.2 Sulfolane
+위치,No.2 Sulfolane,No.2 Sulfolane
+위치,설포란 2,No.2 Sulfolane
+위치,설포란 넘버 투,No.2 Sulfolane
+위치,2번 유니파이닝,No.2 Unifining
+위치,유니파이닝 2호,No.2 Unifining
+위치,번호 투 유니파이닝,No.2 Unifining
+위치,2유니파이닝,No.2 Unifining
+위치,No.2 유니파이닝,No.2 Unifining
+위치,No.2 VDU,No.2 VDU
+위치,2번 VDU,No.2 VDU
+위치,두번 VDU,No.2 VDU
+위치,2 VDU,No.2 VDU
+위치,No. 2 VDU,No.2 VDU
+위치,No.2 VRDS,No.2 VRDS
+위치,VRDS 2호,No.2 VRDS
+위치,두 번째 VRDS,No.2 VRDS
+위치,2번 VRDS,No.2 VRDS
+위치,VRDS 2,No.2 VRDS
+위치,No.2 VRDS CoolingTower,No.2 VRDS CoolingTower
+위치,2번 VRDS 쿨링타워,No.2 VRDS CoolingTower
+위치,VRDS 쿨링타워 2호기,No.2 VRDS CoolingTower
+위치,No2 VRDS 냉각탑,No.2 VRDS CoolingTower
+위치,2호기 VRDS 쿨링타워,No.2 VRDS CoolingTower
+위치,두번 VRDS 유틸리티 오프사이트,No.2 VRDS Utility Offsite
+위치,No.2 VRDS 오프사이트,No.2 VRDS Utility Offsite
+위치,No.2 VRDS 유틸리티 시설,No.2 VRDS Utility Offsite
+위치,두번 VRDS 오프사이트 유틸리티,No.2 VRDS Utility Offsite
+위치,No.2 VRDS 오프사이트 유틸리티,No.2 VRDS Utility Offsite
+위치,No.3 AEU,No.3 AEU
+위치,No3 AEU,No.3 AEU
+위치,3번 AEU,No.3 AEU
+위치,삼번 AEU,No.3 AEU
+위치,셋째 AEU,No.3 AEU
+위치,No.3 ATA PFU,No.3 ATA PFU
+위치,3번 ATA PFU,No.3 ATA PFU
+위치,ATA PFU No.3,No.3 ATA PFU
+위치,ATA PFU 3번,No.3 ATA PFU
+위치,ATA PFU 3호,No.3 ATA PFU
+위치,3번 CDU,No.3 CDU
+위치,CDU 3,No.3 CDU
+위치,3번 제어장치,No.3 CDU
+위치,3번 CDU 위치,No.3 CDU
+위치,3번 제어 동력장치,No.3 CDU
+위치,띠쓰리 CDW,No.3 CDW
+위치,넘버쓰리 CDW,No.3 CDW
+위치,3번 CDW,No.3 CDW
+위치,CDW 3호,No.3 CDW
+위치,CDW No.3,No.3 CDW
+위치,3번 냉각탑,No.3 Cooling Tower
+위치,No.3 Cooling Tower,No.3 Cooling Tower
+위치,3번 냉각 탑,No.3 Cooling Tower
+위치,냉각탑 3호기,No.3 Cooling Tower
+위치,냉각탑 3번,No.3 Cooling Tower
+위치,3번 냉각탑 (UAC),No.3 Cooling Tower (UAC)
+위치,냉각탑 3호기 (UAC),No.3 Cooling Tower (UAC)
+위치,UAC의 3번 타워,No.3 Cooling Tower (UAC)
+위치,No.3 냉각탑 (UAC),No.3 Cooling Tower (UAC)
+위치,냉각탑 3번기 (UAC),No.3 Cooling Tower (UAC)
+위치,No.3 Flare,No.3 Flare
+위치,3번 플레어,No.3 Flare
+위치,No3 플레어,No.3 Flare
+위치,3번 플레어 위치,No.3 Flare
+위치,No3 플레어,No.3 Flare
+위치,No.3 가스 컨,No.3 Gas con
+위치,가스 컨 3번,No.3 Gas con
+위치,3번 가스 컨,No.3 Gas con
+위치,No.3 Gas Container,No.3 Gas con
+위치,3번 가스 탱크,No.3 Gas con
+위치,3번 LBO 부대 시설,No.3 LBO 부대 시설
+위치,No 3 LBO 부대,No.3 LBO 부대 시설
+위치,LBO 3부대 시설,No.3 LBO 부대 시설
+위치,3번 LBO 시설,No.3 LBO 부대 시설
+위치,LBO 부대 No.3,No.3 LBO 부대 시설
+위치,No.3 LPG Merox,No.3 LPG Merox
+위치,3번 LPG 머록,No.3 LPG Merox
+위치,No.3 LPG 머록,No.3 LPG Merox
+위치,LPG 머록 3호,No.3 LPG Merox
+위치,3번 LPG 머록 시스템,No.3 LPG Merox
+위치,노원 3호 MDU,No.3 MDU
+위치,No.3 MDU,No.3 MDU
+위치,삼호 MDU,No.3 MDU
+위치,세 번째 MDU,No.3 MDU
+위치,3번 MDU,No.3 MDU
+위치,노스리 PC,No.3 PC(F)
+위치,No.3 PC F,No.3 PC(F)
+위치,삼피씨(F),No.3 PC(F)
+위치,삼번 PC(F),No.3 PC(F)
+위치,3번 PC(F),No.3 PC(F)
+위치,삼피시피,No.3 PC(P)
+위치,3피시피,No.3 PC(P)
+위치,No.3 PC/P,No.3 PC(P)
+위치,세번째 PC/P,No.3 PC(P)
+위치,No.3 PC-P,No.3 PC(P)
+위치,삼 피씨 아르,No.3 PC(R)
+위치,3번 PC(R),No.3 PC(R)
+위치,No.3 PC,No.3 PC(R)
+위치,넘버쓰리 PCR,No.3 PC(R)
+위치,3 PC(R),No.3 PC(R)
+위치,No.3 PX,No.3 Para-Xylene
+위치,3번 파라엑실렌,No.3 Para-Xylene
+위치,파라엑실렌 3,No.3 Para-Xylene
+위치,PX 3호,No.3 Para-Xylene
+위치,No. 3 Para-X,No.3 Para-Xylene
+위치,3번 플랫폼,No.3 Platforming
+위치,No.3 플랫폼,No.3 Platforming
+위치,3번 플랫포밍,No.3 Platforming
+위치,No.3 플랫포밍,No.3 Platforming
+위치,No.3 플랫,No.3 Platforming
+위치,3번 RTO,No.3 RTO
+위치,3 RTO,No.3 RTO
+위치,3번째 RTO,No.3 RTO
+위치,No.3 RTO,No.3 RTO
+위치,삼번 RTO,No.3 RTO
+위치,No.3 S/B Merox,No.3 S/B Merox
+위치,No.3 S/B,No.3 S/B Merox
+위치,3번 S/B Merox,No.3 S/B Merox
+위치,3번 S/B,No.3 S/B Merox
+위치,No.3 머록스,No.3 S/B Merox
+위치,공용시설 3호선,No.3 SRP Common Facility
+위치,No 3 SRP 공용시설,No.3 SRP Common Facility
+위치,3번 SRP 공용시설,No.3 SRP Common Facility
+위치,SRP 3호 공용시설,No.3 SRP Common Facility
+위치,No.3 SRP Common Facility,No.3 SRP Common Facility
+위치,3번 술폴란 위치,No.3 Sulfolane
+위치,Sulfolane No.3 위치,No.3 Sulfolane
+위치,술폴란 3호 위치,No.3 Sulfolane
+위치,No.3 Sulfolane 위치,No.3 Sulfolane
+위치,3호 술폴란 위치,No.3 Sulfolane
+위치,No.3 Unifining,No.3 Unifining
+위치,유니파이닝 3호점,No.3 Unifining
+위치,3 유니파이닝,No.3 Unifining
+위치,3호점 유니파이닝,No.3 Unifining
+위치,유니파이닝 3호,No.3 Unifining
+위치,No.3 VDU,No.3 VDU
+위치,삼번 VDU,No.3 VDU
+위치,VDU 3호기,No.3 VDU
+위치,No3 VDU,No.3 VDU
+위치,VDU 3번,No.3 VDU
+위치,31 창고,No.31 창고
+위치,창고 31,No.31 창고
+위치,No.31 창고,No.31 창고
+위치,31번 창고,No.31 창고
+위치,창고 31호,No.31 창고
+위치,넷 CD유,No.4 CDU
+위치,4번 CDU,No.4 CDU
+위치,4CD유,No.4 CDU
+위치,CD유 4호기,No.4 CDU
+위치,제4 CDU,No.4 CDU
+위치,4번 냉각탑,No.4 Cooling Tower
+위치,쿨링 타워 4번,No.4 Cooling Tower
+위치,No.4 Cooling Tower,No.4 Cooling Tower
+위치,4번 쿨타,No.4 Cooling Tower
+위치,쿨링 타워 4,No.4 Cooling Tower
+위치,4번 플레어,No.4 Flare
+위치,No. 4 플레어,No.4 Flare
+위치,4번 화려,No.4 Flare
+위치,플레어 4번,No.4 Flare
+위치,No 4번 플레어,No.4 Flare
+위치,노원사스 콘,No.4 Gas con
+위치,No.4 Gas con,No.4 Gas con
+위치,4번 가스 콘,No.4 Gas con
+위치,가스 콘 4호,No.4 Gas con
+위치,No.4 가스 콘,No.4 Gas con
+위치,No.4 LPG Merox,No.4 LPG Merox
+위치,4번 LPG 메록스,No.4 LPG Merox
+위치,LPG 메록스 4호,No.4 LPG Merox
+위치,4 LPG 메록스,No.4 LPG Merox
+위치,No.4 LPG 메록스 장비,No.4 LPG Merox
+위치,4번 MDU,No.4 MDU
+위치,No.4 MDU,No.4 MDU
+위치,4 MDU,No.4 MDU
+위치,네번째 MDU,No.4 MDU
+위치,네 번째 MDU,No.4 MDU
+위치,RTO 4호,No.4 RTO
+위치,4번 RTO,No.4 RTO
+위치,네번째 RTO,No.4 RTO
+위치,No.4 RTO,No.4 RTO
+위치,4번째 RTO,No.4 RTO
+위치,노포머록스,No.4 S/B Merox
+위치,머록스 4번,No.4 S/B Merox
+위치,4번 머록스,No.4 S/B Merox
+위치,No. 4 머록스,No.4 S/B Merox
+위치,머록스 4,No.4 S/B Merox
+위치,4번 SRP,No.4 SRP
+위치,4 SRP,No.4 SRP
+위치,No.4 SRP,No.4 SRP
+위치,제4 SRP,No.4 SRP
+위치,4번 위치 SRP,No.4 SRP
+위치,No.4 VDU,No.4 VDU
+위치,4번 VDU,No.4 VDU
+위치,VDU No4,No.4 VDU
+위치,VDU 4번,No.4 VDU
+위치,No.4 VDU,No.4 VDU
+위치,41창고,No.41 창고
+위치,노포티원 창고,No.41 창고
+위치,41번 창고,No.41 창고
+위치,No.41 창고,No.41 창고
+위치,41번 창,No.41 창고
+위치,5번 CDU,No.5 CDU
+위치,No.5 CDU,No.5 CDU
+위치,5번 제어장치,No.5 CDU
+위치,5번 중앙 디지털 유닛,No.5 CDU
+위치,5번 CDU 장치,No.5 CDU
+위치,5번 CDU 냉각탑,No.5 CDU Cooling Tower
+위치,No.5 CDC 냉각탑,No.5 CDU Cooling Tower
+위치,5번 냉각탑,No.5 CDU Cooling Tower
+위치,가동 5번 냉각탑,No.5 CDU Cooling Tower
+위치,5번 냉각탑 위치,No.5 CDU Cooling Tower
+위치,No.5 냉각탑,No.5 Cooling Tower
+위치,5번 냉각탑,No.5 Cooling Tower
+위치,No.5 쿨링 타워,No.5 Cooling Tower
+위치,5번째 쿨링 타워,No.5 Cooling Tower
+위치,5번 쿨링탑,No.5 Cooling Tower
+위치,No.5 플레어 (CDU),No.5 Flare (CDU)
+위치,CDU No.5 플레어,No.5 Flare (CDU)
+위치,No.5 위치 플레어,No.5 Flare (CDU)
+위치,No.5 부유 플레어,No.5 Flare (CDU)
+위치,제5 플레어 (CDU),No.5 Flare (CDU)
+위치,No.5 MDU,No.5 MDU
+위치,다섯번 MDU,No.5 MDU
+위치,5번 MDU,No.5 MDU
+위치,MDU 5,No.5 MDU
+위치,5번 멀티주택,No.5 MDU
+위치,No.5 S/B Merox,No.5 S/B Merox
+위치,5번 S/B 메록스,No.5 S/B Merox
+위치,S/B 메록스 5호,No.5 S/B Merox
+위치,5호 S/B 메록스,No.5 S/B Merox
+위치,메록스 5호,No.5 S/B Merox
+위치,5번 유니파이닝,No.5 Unifining(NRP)
+위치,No.5 유니파이닝,No.5 Unifining(NRP)
+위치,유니파이닝 5,No.5 Unifining(NRP)
+위치,Nrp 5,No.5 Unifining(NRP)
+위치,유니파이닝 NRP 5,No.5 Unifining(NRP)
+위치,No.5 VDU,No.5 VDU
+위치,5 VDU,No.5 VDU
+위치,5번 VDU,No.5 VDU
+위치,VDU 5,No.5 VDU
+위치,N5 VDU,No.5 VDU
+위치,No.5 창고,No.5 창고
+위치,5번 창고,No.5 창고
+위치,5호 창고,No.5 창고
+위치,5번 창고지,No.5 창고
+위치,창고 5호,No.5 창고
+위치,5-1 창고,No.5-1 창고
+위치,창고 5-1,No.5-1 창고
+위치,5-1번 창고,No.5-1 창고
+위치,다섯-일 창고,No.5-1 창고
+위치,번호 5-1 창고,No.5-1 창고
+위치,51 창고,No.51 창고
+위치,창고 51,No.51 창고
+위치,51번 창고,No.51 창고
+위치,번호 원오일 창고,No.51 창고
+위치,51 창고 No.51,No.51 창고
+위치,52 창고,No.52 창고
+위치,창고 52,No.52 창고
+위치,No.52 창고,No.52 창고
+위치,52번 창고,No.52 창고
+위치,창고 52호,No.52 창고
+위치,창고 54,No.54 창고
+위치,번54 창고,No.54 창고
+위치,창고 54호,No.54 창고
+위치,54 창고,No.54 창고
+위치,No.54 창고,No.54 창고
+위치,No.6 Cooling Tower,No.6 Cooling Tower
+위치,6번 냉각탑,No.6 Cooling Tower
+위치,No 6 냉각탑,No.6 Cooling Tower
+위치,냉각탑 No6,No.6 Cooling Tower
+위치,No.6 LPG Merox,No.6 LPG Merox
+위치,6번 LPG 머록,No.6 LPG Merox
+위치,No.6 LPG 머록 장비,No.6 LPG Merox
+위치,No.6 LPG 머록 시스템,No.6 LPG Merox
+위치,6번 LPG 머록 설치,No.6 LPG Merox
+위치,LPG Merox No6,No.6 LPG Merox
+위치,LPG Merox 6,No.6 LPG Merox
+위치,LPG Merox6,No.6 LPG Merox
+위치,6번 LPG Merox,No.6 LPG Merox
+위치,6번 MDU,No.6 MDU
+위치,MDU6,No.6 MDU
+위치,MDU 6,No.6 MDU
+위치,MDU No6,No.6 MDU
+위치,SGTU No6,No.6 SGTU
+위치,SGTU6,No.6 SGTU
+위치,SGTU 6,No.6 SGTU
+위치,6번 SGTU,No.6 SGTU
+위치,SRP 6,No.6 SRP
+위치,SRP6,No.6 SRP
+위치,6번 SRP,No.6 SRP
+위치,SRP No6,No.6 SRP
+위치,창고60,No.60 창고
+위치,60번 창고,No.60 창고
+위치,60창고,No.60 창고
+위치,창고 60,No.60 창고
+위치,노60 창고,No.60 창고
+위치,창고 No60,No.60 창고
+위치,창고 No61,No.61 창고
+위치,창고 61,No.61 창고
+위치,노61 창고,No.61 창고
+위치,창고61,No.61 창고
+위치,61번 창고,No.61 창고
+위치,61창고,No.61 창고
+위치,Cooling Tower No7,No.7 Cooling Tower
+위치,Cooling Tower7,No.7 Cooling Tower
+위치,7번 Cooling Tower,No.7 Cooling Tower
+위치,Cooling Tower 7,No.7 Cooling Tower
+위치,Gas Con7,No.7 Gas Con
+위치,Gas Con No7,No.7 Gas Con
+위치,Gas Con 7,No.7 Gas Con
+위치,7번 Gas Con,No.7 Gas Con
+위치,Cooling Tower8,No.8 Cooling Tower
+위치,8번 Cooling Tower,No.8 Cooling Tower
+위치,Cooling Tower 8,No.8 Cooling Tower
+위치,Cooling Tower No8,No.8 Cooling Tower
+위치,81창고,No.81 창고
+위치,창고 81,No.81 창고
+위치,창고81,No.81 창고
+위치,81번 창고,No.81 창고
+위치,창고 No81,No.81 창고
+위치,노81 창고,No.81 창고
+위치,Cooling Tower 9,No.9 Cooling Tower
+위치,9번 Cooling Tower,No.9 Cooling Tower
+위치,Cooling Tower9,No.9 Cooling Tower
+위치,Cooling Tower No9,No.9 Cooling Tower
+현상코드,망가짐,고장
+현상코드,브로큰,고장
+현상코드,멈춤,고장
+현상코드,누출,누설
+현상코드,샘,누설
+현상코드,새는,누설
+현상코드,과열,온도이상
+현상코드,온도 상승,온도이상
+현상코드,온도 비정상,온도이상
+현상코드,이상징후,이상
+현상코드,비정상,이상
+현상코드,이상있음,이상
+현상코드,소음,이상음
+현상코드,잡음,이상음
+현상코드,이상 소리,이상음
+현상코드,작동안됨,작동불량
+현상코드,동작 불량,작동불량
+현상코드,작동 이상,작동불량
+현상코드,떨림,진동
+현상코드,진동현상,진동
+현상코드,기기 흔들림,진동
+현상코드,깨짐,파손
+현상코드,부서짐,파손
+현상코드,찢어짐,파손
