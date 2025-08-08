@@ -1,4 +1,4 @@
-# Qdrant 구축 및 정규화 test
+# Qdrant를 통한 VDB 구축 및 정규화 test
 intfloat/multilingual-e5-base 모델를 사용하여 Qdranst를 구축하고 검색 성능을 테스트합니다.
 
 ### 기능 설명
