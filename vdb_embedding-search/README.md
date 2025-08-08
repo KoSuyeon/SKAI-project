@@ -11,9 +11,9 @@ intfloat/multilingual-e5-base 모델를 사용하여 Qdranst를 구축하고 검
 ### 적재 데이터 설명
 1. 입력 데이터는 이미 label 컬럼 기준으로 분류되어 있음 → 예: 설비유형, 위치, 현상코드 등의 카테고리
 2. 각 row마다 다음 컬럼이 존재해야 함:
-  label: 데이터 종류 구분 (예: 설비유형)
-  input: 사용자가 입력할 것으로 예상되는 질의
-  true_name: 정규화된 최종 표준값
+    - label: 데이터 종류 구분 (예: 설비유형)
+    - input: 사용자가 입력할 것으로 예상되는 질의
+    - true_name: 정규화된 최종 표준값
 
 ### VDB 적재 과정
 1. input 텍스트를 문장 임베딩 모델(intfloat/multilingual-e5-base)을 사용해 벡터화
