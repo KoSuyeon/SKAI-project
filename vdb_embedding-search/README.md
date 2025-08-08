@@ -36,11 +36,11 @@ intfloat/multilingual-e5-base 모델를 사용하여 Qdranst를 구축하고 검
 ### 파일 설명
 | 파일명                       | 설명                                     |
 | ------------------------- | -------------------------------------- |
+| `check_max_token.py`      | 입력 텍스트의 max token 수 측정 (모델 입력 제한 확인용)  |
 | `vector_uploader.py`      | CSV 데이터를 벡터로 변환하여 Qdrant에 업로드          |
-| `vector_search.py`        | 단일 질의 기반의 벡터 검색 확         |
+| `vector_search.py`        | 단일 질의 기반의 벡터 검색 확인용 실행 파일         |
 | `vector_search_test.py`   | CSV 데이터셋을 기반으로 일괄 검색 및 정확도 평가 수행       |
 | `vector_search_result.py` | 검색 결과 CSV를 분석해 label별 정확도, 평균 검색 시간 요약 |
-| `check_max_token.py`      | 입력 텍스트의 max token 수 측정 (모델 입력 제한 확인용)  |
 
 
 ## Label별 검색 정확도 및 시간 요약
